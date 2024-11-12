@@ -1,0 +1,3975 @@
+{
+    "__count__": 397,
+    "data": [
+        {
+            "id": 3213,
+            "question": " Grace có thể đọc một cuốn sách 200 trang trong 20 giờ. Cô ấy sẽ mất bao lâu để đọc xong một cuốn sách 250 trang với tốc độ không đổi này?",
+            "choices": [
+                "A. 857",
+                "B. 1243",
+                "C. 25",
+                "D. 720"
+            ]
+        },
+        {
+            "id": 2189,
+            "question": "Charley đã mua 30 cây bút chì. Cô đã đánh mất 6 cây bút chì khi chuyển đến trường, và tất nhiên, cô cũng làm mất 1/3 số bút chì còn lại vì cô không giỏi theo dõi bút chì. Hiện tại cô ấy có bao nhiêu cây bút chì?",
+            "choices": [
+                "A. 1266",
+                "B. 826",
+                "C. 16",
+                "D. 1845"
+            ]
+        },
+        {
+            "id": 319,
+            "question": " Daniela đi mua sắm trong đợt giảm giá. Cô phát hiện ra rằng cửa hàng đang giảm giá 40% cho giày và 20% cho váy. Nếu Daniela mua 2 đôi giày có giá ban đầu là 50 đô la một đôi và một chiếc váy có giá ban đầu là 100 đô la thì cô ấy sẽ chi bao nhiêu tiền?",
+            "choices": [
+                "A. 1961",
+                "B. 140",
+                "C. 698",
+                "D. 814"
+            ]
+        },
+        {
+            "id": 607,
+            "question": "James cần 200 quả việt quất để làm một lít mứt việt quất và sau đó là một lít mứt việt quất để làm một chiếc bánh việt quất. Nếu có hai panh mỗi lít, James cần hái bao nhiêu quả việt quất để làm được 6 chiếc bánh?",
+            "choices": [
+                "A. 1661",
+                "B. 1904",
+                "C. 2400",
+                "D. 416"
+            ]
+        },
+        {
+            "id": 3132,
+            "question": " Jennifer mua số kẹo nhiều gấp đôi Emily và gấp ba lần Bob mua. Nếu Emily mua 6 viên kẹo thì Bob đã mua bao nhiêu viên kẹo?",
+            "choices": [
+                "A. 564",
+                "B. 693",
+                "C. 1860",
+                "D. 4"
+            ]
+        },
+        {
+            "id": 2360,
+            "question": " Fred có 212 tờ giấy. Anh ta nhận thêm 307 tờ giấy từ Jane và đưa cho Charles 156 tờ giấy. Fred còn lại bao nhiêu tờ giấy?",
+            "choices": [
+                "A. 83",
+                "B. 165",
+                "C. 1892",
+                "D. 363"
+            ]
+        },
+        {
+            "id": 322,
+            "question": "Ngày 5 tháng 7 là thứ Sáu thì ngày 10 tháng 7 cùng năm đó là thứ mấy?",
+            "choices": [
+                "A. Thứ Hai",
+                "B. Thứ Ba",
+                "C. Thứ Tư",
+                "D. Thứ Năm"
+            ]
+        },
+        {
+            "id": 1417,
+            "question": " Ruth đã chuẩn bị bánh sandwich. Cô ăn 1 cái bánh sandwich và đưa 2 chiếc bánh sandwich cho anh trai mình. Người anh họ đầu tiên của cô ấy đã đến và ăn 2 chiếc bánh sandwich. Sau đó, hai người anh họ khác của cô ấy đến và mỗi người ăn 1 chiếc bánh sandwich. Còn lại 3 cái bánh sandwich. Ruth đã chuẩn bị bao nhiêu chiếc bánh sandwich?",
+            "choices": [
+                "A. 10",
+                "B. 1566",
+                "C. 980",
+                "D. 1187"
+            ]
+        },
+        {
+            "id": 3726,
+            "question": " Mary đã cố gắng cải thiện sức khỏe của mình bằng cách thay đổi chế độ ăn uống nhưng cân nặng của cô lại tăng vọt như yo-yo. Lúc đầu, cô sụt cả chục cân. Sau đó, cô tăng lại gấp đôi số cân mà cô đã giảm ban đầu. Sau đó, cô giảm cân gấp ba lần so với ban đầu. Nhưng cuối cùng cô lại tăng được nửa tá cân. Nếu cô ấy nặng 99 pound khi bắt đầu thay đổi chế độ ăn uống thì cân nặng cuối cùng của cô ấy là bao nhiêu pound?",
+            "choices": [
+                "A. 1553",
+                "B. 1043",
+                "C. 81",
+                "D. 1142"
+            ]
+        },
+        {
+            "id": 3325,
+            "question": " Một thuyền trưởng lái con tàu của mình đi 100 dặm về phía bắc vào ngày đầu tiên của cuộc hành trình. Vào ngày thứ hai, anh ta đi thuyền về phía đông gấp ba lần khoảng cách mà anh ta đã đi trong ngày đầu tiên. Vào ngày thứ ba, con tàu đi xa hơn về phía đông 110 dặm so với quãng đường nó đi được trong ngày thứ hai. Tổng quãng đường tàu đã đi trong 3 ngày là bao nhiêu?",
+            "choices": [
+                "A. 810",
+                "B. 879",
+                "C. 318",
+                "D. 589"
+            ]
+        },
+        {
+            "id": 3741,
+            "question": " Lucy làm việc ở một cửa hàng thú cưng. Cô ấy có thể làm sạch 2 bể cá trong 3 giờ. Nếu Lucy làm việc 24 giờ trong tuần này thì cô ấy có thể dọn dẹp bao nhiêu bể cá?",
+            "choices": [
+                "A. 1207",
+                "B. 16",
+                "C. 619",
+                "D. 368"
+            ]
+        },
+        {
+            "id": 2883,
+            "question": " Một siêu anh hùng có thể sử dụng tốc độ siêu phàm để chạy 10 dặm trong 4 phút. Kẻ phản diện có một chiếc Evil-Mobile chạy với tốc độ 100 dặm một giờ. Siêu anh hùng có thể chạy xa hơn bao nhiêu dặm trong một giờ so với siêu phản diện có thể lái xe?",
+            "choices": [
+                "A. 456",
+                "B. 1312",
+                "C. 1563",
+                "D. 50"
+            ]
+        },
+        {
+            "id": 3244,
+            "question": " Những người lướt sóng thích thú khi tham dự Lễ hội lướt sóng trên bãi biển Rip Curl Myrtle. Có 1500 người lướt sóng tại Lễ hội vào ngày đầu tiên, vào ngày thứ hai nhiều hơn 600 người lướt sóng so với ngày đầu tiên và số người lướt sóng vào ngày thứ ba nhiều hơn 2/5 so với ngày đầu tiên. Số người lướt sóng trung bình tại Lễ hội trong ba ngày là bao nhiêu?",
+            "choices": [
+                "A. 1004",
+                "B. 240",
+                "C. 1400",
+                "D. 78"
+            ]
+        },
+        {
+            "id": 1108,
+            "question": "John nuôi emu. Anh ấy có 4 chiếc bút dành cho đà điểu và mỗi chiếc bút có 6 chú đà điểu trong đó. Mỗi emu cái đẻ 1 quả trứng mỗi ngày. Nếu một nửa số emu là con cái thì anh ta sẽ nhận được bao nhiêu quả trứng một tuần?",
+            "choices": [
+                "A. 1464",
+                "B. 1667",
+                "C. 1853",
+                "D. 84"
+            ]
+        },
+        {
+            "id": 3812,
+            "question": " Christine và Janice đang thi xem ai có thể ném bóng cao nhất. Mỗi người nhận được ba lần ném. Trong lần ném đầu tiên, Christine ném nó cao 20 feet. Cú ném của Janice thấp hơn Christine 4 feet. Trong lần ném thứ hai, Christine ném nó cao hơn 10 feet so với lần ném đầu tiên và Janice ném nó cao gấp đôi lần ném đầu tiên. Ở lần ném cuối cùng, Christine ném nó cao hơn 4 feet so với lần ném thứ 2 trong khi Janice ném nó cao hơn 17 feet so với lần ném đầu tiên của Christine. Độ cao của cú ném cao nhất là bao nhiêu?",
+            "choices": [
+                "A. 1669",
+                "B. 37",
+                "C. 1224",
+                "D. 949"
+            ]
+        },
+        {
+            "id": 2886,
+            "question": "Số nhỏ nhất trong các số 5,686; 5,676; 5,668; 5,716 là:",
+            "choices": [
+                "A. 5,686",
+                "B. 5,676",
+                "C. 5,668",
+                "D. 5,716"
+            ]
+        },
+        {
+            "id": 3066,
+            "question": " Angela có một bộ sưu tập gồm 24 nhân vật hành động quý hiếm. Bà bán hết một phần tư số đó ở hiệu cầm đồ và đưa một phần ba số còn lại cho con gái. Cô ấy còn lại bao nhiêu?",
+            "choices": [
+                "A. 864",
+                "B. 612",
+                "C. 12",
+                "D. 279"
+            ]
+        },
+        {
+            "id": 1751,
+            "question": " Lúc đầu, Justine có nhiều hơn Bailey 10 dây cao su nhưng ít hơn Ylona 2 dây. Bailey quyết định đưa cho Justine và Ylona mỗi người hai sợi dây để anh ta chỉ còn lại 8 sợi dây cao su. Lúc đầu Ylona có bao nhiêu dây cao su?",
+            "choices": [
+                "A. 977",
+                "B. 841",
+                "C. 635",
+                "D. 24"
+            ]
+        },
+        {
+            "id": 2856,
+            "question": "Một người cha đang mua cát để đổ vào hộp cát mới của con trai mình nhưng ông lo lắng rằng cát sẽ quá nặng cho chiếc xe của mình. Hộp cát có hình vuông, mỗi cạnh dài 40 inch. Nếu một bao cát nặng 30 pound đủ để lấp đầy 80 inch vuông của hộp cát đến độ sâu vừa đủ thì cần bao nhiêu pound cát để lấp đầy hộp hoàn toàn?",
+            "choices": [
+                "A. 703",
+                "B. 112",
+                "C. 600",
+                "D. 1204"
+            ]
+        },
+        {
+            "id": 1551,
+            "question": " Một cửa hàng thú cưng có sáu con chó để bán. Họ có số lượng mèo bằng một nửa, số lượng chim gấp đôi và số lượng cá để bán gấp ba lần. Có bao nhiêu con vật được bán trong cửa hàng thú cưng?",
+            "choices": [
+                "A. 289",
+                "B. 399",
+                "C. 39",
+                "D. 454"
+            ]
+        },
+        {
+            "id": 2632,
+            "question": " Janet có 1/3 chai dầu gội hoa hồng và 1/4 chai dầu gội hoa nhài. Nếu cô ấy dùng 1/12 chai dầu gội mỗi ngày thì dầu gội của cô ấy sẽ để được bao nhiêu ngày?",
+            "choices": [
+                "A. 1264",
+                "B. 1455",
+                "C. 7",
+                "D. 773"
+            ]
+        },
+        {
+            "id": 3900,
+            "question": " Với tư cách là lính cứu hỏa, Doug, Kai và Eli đã dập rất nhiều đám cháy trong tuần. Doug đã dập được 20 đám cháy trong tuần và Kai đã dập được nhiều hơn Doug 3 lần. Trong khi đó, Eli đã dập tắt được một nửa số vụ cháy mà Kai có thể dập được. Họ đã dập được bao nhiêu đám cháy trong cả tuần rồi?",
+            "choices": [
+                "A. 957",
+                "B. 1089",
+                "C. 110",
+                "D. 167"
+            ]
+        },
+        {
+            "id": 850,
+            "question": " Lúc đầu có 10 bông tuyết. Cứ 5 phút lại có thêm 4 bông tuyết rơi. Bao nhiêu phút đã trôi qua trước khi có 58 bông tuyết?",
+            "choices": [
+                "A. 1723",
+                "B. 60",
+                "C. 563",
+                "D. 1599"
+            ]
+        },
+        {
+            "id": 1974,
+            "question": " Claire có 400 bông hoa trong vườn của cô ấy. Một trăm hai mươi là hoa tulip, còn lại là hoa hồng. Tám mươi bông hồng có màu trắng, số còn lại có màu đỏ. Mỗi bông hồng đỏ trị giá 0,75 USD. Claire sẽ kiếm được bao nhiêu nếu cô ấy có thể bán được 1/2 tổng số hoa hồng đỏ?",
+            "choices": [
+                "A. 75",
+                "B. 140",
+                "C. 665",
+                "D. 202"
+            ]
+        },
+        {
+            "id": 1799,
+            "question": " Enid và Aaron đang đan quần áo cho cửa hàng của họ. Aaron làm 10 chiếc khăn quàng cổ và 5 chiếc áo len, còn Enid làm 8 chiếc áo len. Nếu một chiếc khăn quàng cổ sử dụng 3 quả bóng len và một chiếc áo len sử dụng 4 quả bóng len thì Enid và Aaron đã sử dụng tổng cộng bao nhiêu quả bóng len?",
+            "choices": [
+                "A. 1701",
+                "B. 880",
+                "C. 82",
+                "D. 1175"
+            ]
+        },
+        {
+            "id": 2467,
+            "question": " Có 60 hành khách trên một chiếc xe buýt. Trẻ em chiếm 25% số người đi xe buýt. Có bao nhiêu người lớn trên xe buýt?",
+            "choices": [
+                "A. 1691",
+                "B. 319",
+                "C. 1713",
+                "D. 45"
+            ]
+        },
+        {
+            "id": 2239,
+            "question": " Bình chứa nước của Jacob có thể chứa tới 50 lít nước. Jacob lấy nước từ sông và mưa để đổ đầy bể nước của mình. Anh ta có thể thu được 800 ml nước từ mưa và 1700 ml nước từ sông mỗi ngày. Jacob cần bao nhiêu ngày để đổ đầy bể nước của mình?",
+            "choices": [
+                "A. 20",
+                "B. 578",
+                "C. 1649",
+                "D. 1881"
+            ]
+        },
+        {
+            "id": 1975,
+            "question": " Phải mất 2,5 giờ để chải lông cho một con chó và 0,5 giờ để chải lông cho một con mèo. Cần bao nhiêu phút để chải lông cho 5 con chó và 3 con mèo?",
+            "choices": [
+                "A. 296",
+                "B. 1306",
+                "C. 1064",
+                "D. 840"
+            ]
+        },
+        {
+            "id": 3321,
+            "question": " Brian đang dán mấy cái hộp lại. Mỗi hộp cần ba miếng băng dính, một miếng dài bằng cạnh dài và hai miếng dài bằng mặt ngắn. Nếu Brian dán 5 hộp có kích thước 15 inch x 30 inch và 2 hộp có kích thước 40 inch vuông thì anh ấy cần bao nhiêu băng dính?",
+            "choices": [
+                "A. 729",
+                "B. 1794",
+                "C. 540",
+                "D. 1177"
+            ]
+        },
+        {
+            "id": 2861,
+            "question": "Thỏ của Lola liên tục sinh mèo con vào mỗi mùa xuân. Trong mùa xuân đầu tiên, 10 con thỏ sinh sản của cô có số mèo con gấp 10 lần số thỏ sinh sản mà Lola có và một nửa số mèo con đó đã được nhận nuôi. 5 người trong số họ đã phải trả lại Lola do vấn đề về nơi ở. Trong mùa xuân năm sau, 10 con thỏ sinh sản của cô chỉ có tổng cộng 60 chú mèo con, trong đó có 4 chú mèo con được nhận nuôi. Bao gồm cả số thỏ sinh sản, nhà Lola có bao nhiêu con thỏ?",
+            "choices": [
+                "A. 1925",
+                "B. 121",
+                "C. 1047",
+                "D. 1504"
+            ]
+        },
+        {
+            "id": 576,
+            "question": " Lydia đang lên kế hoạch cho một chuyến đi cùng gia đình và đang cố gắng lên kế hoạch cho một lộ trình. Cô ấy có 60 lít nhiên liệu và cô ấy sẽ sử dụng hết số nhiên liệu này trong chuyến đi của mình. Cô ấy không chắc mình sẽ sử dụng bao nhiêu nhiên liệu trong một phần ba chuyến đi đầu tiên nhưng cô ấy biết mình sẽ cần một phần ba tổng số nhiên liệu cho phần ba thứ hai của chuyến đi và một nửa số nhiên liệu này cho một phần ba cuối cùng của chuyến đi. chuyến đi. Lydia có thể sử dụng bao nhiêu nhiên liệu, tính bằng lít, trong 1/3 chuyến đi đầu tiên?",
+            "choices": [
+                "A. 436",
+                "B. 284",
+                "C. 30",
+                "D. 1112"
+            ]
+        },
+        {
+            "id": 3980,
+            "question": " John là người bán hàng tận nhà. Anh ấy đến thăm 50 ngôi nhà mỗi ngày. 20% trong số họ mua thứ gì đó từ họ. Trong số những người mua thứ gì đó, một nửa mua bộ dao trị giá 50 đô la và nửa còn lại mua bộ dao trị giá 150 đô la. Anh ấy bán được bao nhiêu một tuần khi làm việc 5 ngày một tuần?",
+            "choices": [
+                "A. 683",
+                "B. 5000",
+                "C. 171",
+                "D. 728"
+            ]
+        },
+        {
+            "id": 1078,
+            "question": " Jake pha một loại đồ uống gồm 2 phần Coke, 1 phần Sprite và 3 phần Mountain Dew. Nếu đồ uống chứa 6 ounce Coke thì đồ uống đó là bao nhiêu ounce?",
+            "choices": [
+                "A. 18",
+                "B. 353",
+                "C. 349",
+                "D. 762"
+            ]
+        },
+        {
+            "id": 1607,
+            "question": " Max xem một chương trình phát sóng hàng ngày từ 2 giờ chiều đến 2 giờ 30 chiều và chỉ phát sóng vào các ngày trong tuần. Nếu anh ấy xem mọi tập trong tuần nhưng bỏ lỡ tập thứ Sáu thì anh ấy đã xem bao nhiêu giờ của chương trình?",
+            "choices": [
+                "A. 1070",
+                "B. 166",
+                "C. 2",
+                "D. 1565"
+            ]
+        },
+        {
+            "id": 14,
+            "question": "Số bé nhất trong các số 9,25; 8,25; 7,89; 6,98 là:",
+            "choices": [
+                "A. 9,25",
+                "B. 8,25",
+                "C. 7,89",
+                "D. 6,98"
+            ]
+        },
+        {
+            "id": 2027,
+            "question": "Có 30 cầu thủ trong một đội bóng đá. Xe có 8 lít nước. Cô ấy đổ 200 ml nước cho mỗi người chơi để họ bổ sung nước. Thật không may có sự cố tràn nước và làm đổ 250ml nước. Hỏi còn lại bao nhiêu nước?",
+            "choices": [
+                "A. 438",
+                "B. 1750",
+                "C. 636",
+                "D. 342"
+            ]
+        },
+        {
+            "id": 414,
+            "question": " Carla đang chia các yêu cầu bồi thường bảo hiểm cho 3 đại lý. Missy có thể giải quyết nhiều hơn 15 yêu cầu bồi thường so với John, người có thể giải quyết nhiều yêu cầu bồi thường hơn Jan 30%. Nếu Jan có thể giải quyết được 20 yêu cầu bồi thường thì Missy có thể giải quyết bao nhiêu yêu cầu bồi thường?",
+            "choices": [
+                "A. 243",
+                "B. 281",
+                "C. 41",
+                "D. 645"
+            ]
+        },
+        {
+            "id": 2256,
+            "question": " James chia 4 gói nhãn dán, mỗi gói có 30 nhãn dán. Mỗi nhãn dán có giá 0,10 USD. Nếu bạn của anh ấy trả một nửa thì James đã trả bao nhiêu?",
+            "choices": [
+                "A. 1341",
+                "B. 6",
+                "C. 835",
+                "D. 1491"
+            ]
+        },
+        {
+            "id": 3168,
+            "question": " Porche có 3 giờ để hoàn thành tất cả bài tập về nhà. Bài tập toán của cô ấy mất 45 phút. Bài tập tiếng Anh của cô ấy mất 30 phút. Bài tập khoa học của cô ấy mất 50 phút. Bài tập lịch sử của cô ấy mất 25 phút. Cô ấy cũng có một dự án đặc biệt sẽ hoàn thành vào ngày hôm sau. Cô ấy còn bao nhiêu thời gian để hoàn thành dự án đó?",
+            "choices": [
+                "A. 969",
+                "B. 30",
+                "C. 1261",
+                "D. 643"
+            ]
+        },
+        {
+            "id": 199,
+            "question": " Ông Jesiah là một nông dân chăn nuôi bò sữa với đàn bò sản xuất 200 gallon sữa mỗi ngày. Chi phí bảo trì trang trại bò sữa và mua thức ăn chăn nuôi là 3000 USD mỗi tháng. Tính tổng thu nhập của anh ấy trong tháng 6 nếu anh ấy bán 1 gallon sữa với giá 3,55 USD.",
+            "choices": [
+                "A. 18300",
+                "B. 771",
+                "C. 757",
+                "D. 237"
+            ]
+        },
+        {
+            "id": 3319,
+            "question": " Annie thực hiện một cuộc khảo sát với các lớp lớp sáu để xem ai thích bánh quy hơn cá vàng. Trong lớp của cô Johnson, 1/6 học sinh thích cá vàng hơn. Trong lớp của thầy Feldstein, 2/3 số học sinh thích cá vàng hơn. Trong lớp của cô Henderson, 1/5 học sinh thích cá vàng hơn. Nếu mỗi lớp có 30 học sinh thì tổng cộng có bao nhiêu người thích cá vàng?",
+            "choices": [
+                "A. 1358",
+                "B. 901",
+                "C. 240",
+                "D. 31"
+            ]
+        },
+        {
+            "id": 1043,
+            "question": "Số thích hợp cần điền vào chỗ chấm để 450000cm3 = …….m3 là:",
+            "choices": [
+                "A. 45",
+                "B. 0,045",
+                "C. 0,45",
+                "D. 450"
+            ]
+        },
+        {
+            "id": 2137,
+            "question": " Javier dành 30 phút để phác thảo bài phát biểu của mình, viết nhiều hơn 28 phút so với phác thảo và thời gian luyện tập chỉ bằng một nửa thời gian viết. Tổng cộng anh ấy dành bao nhiêu thời gian cho bài phát biểu của mình?",
+            "choices": [
+                "A. 117",
+                "B. 1077",
+                "C. 36",
+                "D. 596"
+            ]
+        },
+        {
+            "id": 822,
+            "question": " Đảo Hạnh Phúc có 60 chú rùa. Điều này có nghĩa là số lượng rùa trên Đảo Hạnh Phúc nhiều gấp 10 lần so với Đảo Cô Đơn. Có bao nhiêu con rùa trên Đảo Cô Đơn?",
+            "choices": [
+                "A. 25",
+                "B. 1831",
+                "C. 679",
+                "D. 581"
+            ]
+        },
+        {
+            "id": 503,
+            "question": "Julian có 80 người bạn trên Facebook. 60% là con trai và 40% là con gái. Boyd có số bạn nữ nhiều gấp đôi và có tổng cộng 100 người bạn. Bao nhiêu phần trăm bạn bè của Boyd là con trai?",
+            "choices": [
+                "A. 121",
+                "B. 1053",
+                "C. 36",
+                "D. 1297"
+            ]
+        },
+        {
+            "id": 1015,
+            "question": "Khi các trường khai giảng vào năm mới, lớp của Hendrix có 20 học sinh mới. Tuy nhiên, đến cuối năm học, 1/3 số học sinh của lớp Hendrix đã chuyển sang trường khác. Nếu số học sinh trong lớp của Hendrix trước khi có 20 học sinh mới vào là 160, hãy tính số học sinh trong lớp vào cuối năm.",
+            "choices": [
+                "A. 120",
+                "B. 693",
+                "C. 527",
+                "D. 1096"
+            ]
+        },
+        {
+            "id": 1131,
+            "question": " Một cửa hàng tạp hóa có 4 loại thạch. Họ bán thạch nho gấp đôi thạch dâu, thạch mâm xôi gấp đôi thạch mận. Thạch mâm xôi bán được bằng một phần ba thạch nho. Nếu hôm nay họ bán được 6 lọ thạch mận thì họ đã bán được bao nhiêu lọ thạch dâu?",
+            "choices": [
+                "A. 1043",
+                "B. 808",
+                "C. 18",
+                "D. 771"
+            ]
+        },
+        {
+            "id": 70,
+            "question": " Mark và Peter đào ao ở sân sau của họ. Ao của Mark sâu hơn 4 feet so với ao của Peter. Nếu ao của Mark sâu 19 feet thì độ sâu của ao của Peter là bao nhiêu?",
+            "choices": [
+                "A. 280",
+                "B. 5",
+                "C. 947",
+                "D. 1605"
+            ]
+        },
+        {
+            "id": 1532,
+            "question": " James mua 10 chiếc áo sơ mi và một nửa số quần. Chiếc áo sơ mi có giá 6 đô la một chiếc và chiếc quần có giá 8 đô la một chiếc. Mọi thứ có giá bao nhiêu?",
+            "choices": [
+                "A. 1678",
+                "B. 100",
+                "C. 631",
+                "D. 1806"
+            ]
+        },
+        {
+            "id": 2625,
+            "question": "Karen có 32 xu trong con heo đất của mình. Anh trai Christopher của cô có 64 xu trong con heo đất của mình. Christopher có thêm bao nhiêu tiền?",
+            "choices": [
+                "A. 439",
+                "B. 1870",
+                "C. 1119",
+                "D. 8"
+            ]
+        },
+        {
+            "id": 3636,
+            "question": "Số gồm “Tám và mười hai phần mười bảy” viết là:",
+            "choices": [
+                "A. $\\frac{12}{17}$",
+                "B. $\\frac{82}{17}$",
+                "C. $8\\frac{12}{17}$",
+                "D. $8\\frac{102}{17}$"
+            ]
+        },
+        {
+            "id": 3814,
+            "question": "Trong chuyến đi kéo dài ba ngày, Wendy đã lái xe 125 dặm vào ngày đầu tiên và 223 dặm vào ngày thứ hai. Cô ấy đã lái xe bao nhiêu dặm vào ngày thứ ba, nếu tổng số dặm mà Wendy đã lái trong chuyến đi là 493 dặm?",
+            "choices": [
+                "A. 145",
+                "B. 1259",
+                "C. 1181",
+                "D. 467"
+            ]
+        },
+        {
+            "id": 3999,
+            "question": " Trong khi canh tác một trang trại nhỏ, một người nông dân đã chi 50 đô la cho hạt giống ngô, 35 đô la cho phân bón và thuốc trừ sâu và 15 đô la cho nhân công. Sau khi thu hoạch thành công, anh thu được 10 bao ngô. Anh ta nên bán mỗi túi bao nhiêu nếu muốn lãi 10%?",
+            "choices": [
+                "A. 11",
+                "B. 723",
+                "C. 252",
+                "D. 1441"
+            ]
+        },
+        {
+            "id": 8,
+            "question": " Devin dạy một môn toán mỗi năm. Ông đã dạy Giải tích trong 4 năm, Đại số trong thời gian gấp đôi số năm và Thống kê trong thời gian dạy Đại số gấp 5 năm. Devin đã dạy được bao nhiêu năm rồi?",
+            "choices": [
+                "A. 759",
+                "B. 52",
+                "C. 1370",
+                "D. 1474"
+            ]
+        },
+        {
+            "id": 3792,
+            "question": " Janet phải lái xe 30 dặm về phía đông để gặp bác sĩ da liễu và 50 dặm về phía tây để gặp bác sĩ phụ khoa. Nếu cô ấy có cuộc hẹn với cả hai bác sĩ trong cùng một ngày, cô ấy sẽ sử dụng bao nhiêu gallon xăng để lái xe đến cả hai cuộc hẹn và trở về nhà, nếu xe của cô ấy chạy được 20 dặm một gallon?",
+            "choices": [
+                "A. 213",
+                "B. 8",
+                "C. 703",
+                "D. 1822"
+            ]
+        },
+        {
+            "id": 1285,
+            "question": " Để điện thoại của Roger hoạt động tối ưu, anh ấy có thể cài tối đa 50 ứng dụng trên điện thoại của mình. Tuy nhiên, số lượng ứng dụng được đề xuất là 35. Nếu Roger có gấp đôi số lượng ứng dụng được đề xuất thì anh ấy phải xóa bao nhiêu ứng dụng để điện thoại của mình hoạt động tối ưu trở lại?",
+            "choices": [
+                "A. 20",
+                "B. 902",
+                "C. 1869",
+                "D. 202"
+            ]
+        },
+        {
+            "id": 3984,
+            "question": " Olivia kiếm được 9 USD mỗi giờ. Cô ấy làm việc 4 giờ vào thứ Hai, 3 giờ vào thứ Tư và 6 giờ vào thứ Sáu. Tuần này Olivia kiếm được bao nhiêu tiền?",
+            "choices": [
+                "A. 81",
+                "B. 560",
+                "C. 117",
+                "D. 1018"
+            ]
+        },
+        {
+            "id": 1556,
+            "question": " John mua 20 thanh kẹo. Anh trai Dave của anh ấy trả tiền cho 6 chiếc trong số đó. Nếu mỗi thanh kẹo có giá 1,50 USD thì John đã trả bao nhiêu?",
+            "choices": [
+                "A. 26",
+                "B. 21",
+                "C. 609",
+                "D. 333"
+            ]
+        },
+        {
+            "id": 1236,
+            "question": "Lớp Minh có 32 bạn. Sáng nay, lớp Minh có tổ chức đi dã ngoại. Lúc Minh đến thì thấy có 14 bạn đã đến. Số bạn chưa đến là",
+            "choices": [
+                "A. 18 bạn",
+                "B. 16 bạn",
+                "C. 17 bạn",
+                "D. 28 bạn"
+            ]
+        },
+        {
+            "id": 1564,
+            "question": " Jonas đang cố gắng mở rộng tủ quần áo của mình. Anh ấy có 20 đôi tất, 5 đôi giày, 10 đôi quần và 10 chiếc áo phông. Anh ta cần mua bao nhiêu đôi tất để tăng gấp đôi số món đồ trong tủ quần áo của mình?",
+            "choices": [
+                "A. 1460",
+                "B. 464",
+                "C. 35",
+                "D. 1510"
+            ]
+        },
+        {
+            "id": 479,
+            "question": " Bailey cần mua 2 bộ khăn tắm mới cho phòng tắm dành cho khách và 4 bộ mới cho phòng tắm chính của cô ấy. Bộ khăn tắm cho phòng tắm dành cho khách có giá $40,00 mỗi chiếc và bộ phòng tắm chính là $50,00 mỗi chiếc. Cửa hàng hiện đang giảm giá 20% vậy Bailey sẽ chi bao nhiêu cho bộ khăn tắm?",
+            "choices": [
+                "A. 224",
+                "B. 1113",
+                "C. 1747",
+                "D. 43"
+            ]
+        },
+        {
+            "id": 3419,
+            "question": " Joanna và Jacques lần lượt có 40 và 60 viên kẹo cao su trong đĩa của họ. Sau đó, họ mua số lượng kẹo cao su gấp 4 lần ban đầu và thêm chúng vào món ăn của mình. Nếu họ quyết định tập hợp những viên kẹo cao su của mình lại và chia đều thì mỗi người nhận được bao nhiêu viên kẹo cao su?",
+            "choices": [
+                "A. 250",
+                "B. 462",
+                "C. 1069",
+                "D. 1731"
+            ]
+        },
+        {
+            "id": 1570,
+            "question": " Một cây bút chì có giá 0,5 USD một chiếc và một tập tài liệu có giá 0,9 USD một chiếc. Một văn phòng cần hai chục cây bút chì và 20 tập hồ sơ. Mua văn phòng phẩm giá bao nhiêu?",
+            "choices": [
+                "A. 30",
+                "B. 503",
+                "C. 1021",
+                "D. 1024"
+            ]
+        },
+        {
+            "id": 1790,
+            "question": "Có ba cái máy trong một nhà máy. Máy A có thể đóng nắp 12 chai trong 1 phút. Máy B có thể đóng nắp được ít hơn 2 chai so với Máy A. Máy C có thể đóng nắp được nhiều hơn 5 chai so với Máy B. Ba máy đó có thể đóng nắp được bao nhiêu chai trong 10 phút?",
+            "choices": [
+                "A. 1198",
+                "B. 370",
+                "C. 319",
+                "D. 1994"
+            ]
+        },
+        {
+            "id": 3417,
+            "question": " Nadia đã đi bộ 18 km, gấp đôi quãng đường Hannah đã đi. Hai cô gái đã đi bộ tổng cộng bao nhiêu km?",
+            "choices": [
+                "A. 1575",
+                "B. 893",
+                "C. 1943",
+                "D. 27"
+            ]
+        },
+        {
+            "id": 2920,
+            "question": " Lana còn 8 trang trống trong tập hồ sơ, nhưng cô biết mình sẽ cần nhiều trang hơn cho lớp học tiếp theo. Duane lấy một nửa trong số 42 trang trong tập hồ sơ của mình ra và đưa cho cô. Lana có bao nhiêu trang trong bìa hồ sơ sau khi thêm trang của Duane?",
+            "choices": [
+                "A. 1959",
+                "B. 29",
+                "C. 1601",
+                "D. 183"
+            ]
+        },
+        {
+            "id": 2139,
+            "question": "Peter và bố Rupert có cùng ngày sinh nhật. Để làm cho nó trở nên đặc biệt, mỗi người đều có chiếc bánh sinh nhật của riêng mình. Peter có 10 ngọn nến trên chiếc bánh của mình. Rupert lớn hơn Peter 3,5 lần. Sẽ có bao nhiêu ngọn nến trên chiếc bánh của Rupert?",
+            "choices": [
+                "A. 35",
+                "B. 1879",
+                "C. 163",
+                "D. 1013"
+            ]
+        },
+        {
+            "id": 2081,
+            "question": " Một sợi dây dài được cắt thành ba đoạn nhỏ hơn theo tỷ lệ 7:3:2. Nếu đoạn ngắn nhất là 16 cm thì toàn bộ sợi dây dài bao nhiêu trước khi bị cắt?",
+            "choices": [
+                "A. 1033",
+                "B. 1954",
+                "C. 96",
+                "D. 895"
+            ]
+        },
+        {
+            "id": 1061,
+            "question": "Một cửa hàng hạt bán một bộ hạt pha lê với giá 9 USD/bộ và một bộ hạt kim loại với giá 10 USD/bộ. Nancy mua một bộ hạt pha lê và hai bộ hạt kim loại. Tổng cộng cô ấy chi bao nhiêu?",
+            "choices": [
+                "A. 29",
+                "B. 990",
+                "C. 1888",
+                "D. 1078"
+            ]
+        },
+        {
+            "id": 32,
+            "question": " Care và Rick có một cửa hàng sửa chữa. Mỗi lần sửa chữa có giá khác nhau: sửa chữa điện thoại có giá 11 USD, sửa chữa máy tính xách tay có giá 15 USD và sửa chữa máy tính có giá 18 USD. Nếu họ thực hiện 5 lần sửa điện thoại, 2 lần sửa máy tính xách tay và 2 lần sửa máy tính trong tuần này thì họ kiếm được bao nhiêu tiền trong tuần?",
+            "choices": [
+                "A. 121",
+                "B. 1461",
+                "C. 299",
+                "D. 1059"
+            ]
+        },
+        {
+            "id": 2135,
+            "question": "Cho dãy số 2; 4; 6; 8; ...; ...; ...; ....; 18; 20. \n Các số thích hợp lần lượt điền vào những chỗ chấm là:",
+            "choices": [
+                "A. 10; 12; 16; 18",
+                "B. 10; 14; 16; 18",
+                "C. 10; 12; 14; 16",
+                "D. 12; 14; 16; 18"
+            ]
+        },
+        {
+            "id": 325,
+            "question": "Hiện tại, người trở về Việt Nam từ nước ngoài phải thực hiện cách ly y tế 21 ngày thay vì 2 tuần như trước đây. Hiện tại, thời gian cách ly y tế dài hơn so với trước đây là:",
+            "choices": [
+                "A. 18 ngày",
+                "B. 19 ngày",
+                "C. 7 ngày",
+                "D. 10 ngày"
+            ]
+        },
+        {
+            "id": 2871,
+            "question": "Jay & Gloria đang tổ chức bữa tiệc ngày 4 tháng 7 tại nhà của họ. Jay mời 22 người và Gloria mời 36 người. Họ muốn mua những lá cờ Mỹ nhỏ cho mọi người. Cửa hàng thủ công đang có đợt giảm giá những lá cờ nhỏ, 5 lá cờ với giá 1 đô la. Nếu họ muốn tất cả khách của mình có một lá cờ và họ cũng muốn mỗi người có 1 lá cờ, họ sẽ chi bao nhiêu ở cửa hàng thủ công?",
+            "choices": [
+                "A. 12",
+                "B. 600",
+                "C. 542",
+                "D. 18"
+            ]
+        },
+        {
+            "id": 3282,
+            "question": " Alfred sẽ dự trữ một tấn ngô mỗi tháng trong 2 năm tới. Nếu lấy trộm 5 tấn và tặng cho anh ta 8 tấn thì cuối 2 năm anh ta có bao nhiêu tấn ngô.",
+            "choices": [
+                "A. 602",
+                "B. 579",
+                "C. 27",
+                "D. 837"
+            ]
+        },
+        {
+            "id": 2469,
+            "question": " Bob bắt đầu tuần mới với 80 USD. Chỉ riêng ngày thứ Hai, anh ấy đã tiêu hết một nửa số tiền. Vào thứ Ba, anh ấy đã tiêu 1/5 số tiền còn lại từ thứ Hai. Vào thứ Tư, anh ấy đã tiêu 3/8 số tiền còn lại từ thứ Ba. Bây giờ anh ấy còn lại bao nhiêu?",
+            "choices": [
+                "A. 1696",
+                "B. 445",
+                "C. 20",
+                "D. 685"
+            ]
+        },
+        {
+            "id": 1621,
+            "question": " Mỗi con rùa đẻ một lứa 20 quả trứng. Nếu 40% số trứng nở thành công thì 6 con rùa con sẽ sinh ra bao nhiêu con?",
+            "choices": [
+                "A. 1869",
+                "B. 1103",
+                "C. 48",
+                "D. 852"
+            ]
+        },
+        {
+            "id": 3546,
+            "question": "Biết thương bằng 8 400, số chia bằng 7, số bị chia là:",
+            "choices": [
+                "A. 1 200",
+                "B. 58 800",
+                "C. 56 800",
+                "D. 11 200"
+            ]
+        },
+        {
+            "id": 3638,
+            "question": " Carson đang phân loại rong biển cho nhiều mục đích sử dụng khác nhau. 50% rong biển chỉ có tác dụng đốt lửa. 25% số còn lại có thể được con người ăn và phần còn lại được dùng làm thức ăn cho gia súc. Nếu Carson thu hoạch 400 pound rong biển thì bao nhiêu pound được dùng làm thức ăn cho gia súc?",
+            "choices": [
+                "A. 1053",
+                "B. 128",
+                "C. 150",
+                "D. 1305"
+            ]
+        },
+        {
+            "id": 2505,
+            "question": " Ross thở 17 lần mỗi phút bằng cách hít 5/9 lít không khí vào phổi. Thể tích không khí hít vào trong 24 giờ là bao nhiêu?",
+            "choices": [
+                "A. 267",
+                "B. 709",
+                "C. 13600",
+                "D. 1427"
+            ]
+        },
+        {
+            "id": 2382,
+            "question": " Một lớp học gồm 15 học sinh nộp bài luận vào sáng thứ Sáu. 5 học sinh đầu tiên mỗi em nộp bài luận dài 2 trang. 5 học sinh tiếp theo mỗi em nộp bài luận dài 3 trang. 5 học sinh cuối cùng nộp bài luận dài 1 trang. Số trang trung bình cho mỗi bài luận của 15 học sinh là bao nhiêu?",
+            "choices": [
+                "A. 537",
+                "B. 2",
+                "C. 1468",
+                "D. 721"
+            ]
+        },
+        {
+            "id": 3366,
+            "question": "James đang đi mua sắm ở cửa hàng yêu thích của anh ấy và anh ấy thấy một lời đề nghị mua giày sẽ tặng anh ấy đôi giày thứ hai với giá chỉ bằng một nửa giá ban đầu. Anh ta chấp nhận lời đề nghị và mua đôi giày đầu tiên với giá 40 USD và đôi giày thứ hai với giá 60 USD. Tại quầy thu ngân, người phụ nữ nói với anh rằng ưu đãi chỉ áp dụng cho những đôi giày rẻ hơn và anh cũng được chọn để được giảm thêm 1/4 trên tổng số tiền. Cuối cùng James đã trả bao nhiêu tiền cho cả hai đôi giày?",
+            "choices": [
+                "A. 1019",
+                "B. 447",
+                "C. 60",
+                "D. 966"
+            ]
+        },
+        {
+            "id": 990,
+            "question": " Jim chạy 16 dặm trong 2 giờ trong khi Frank chạy 20 dặm trong 2 giờ. Frank đã chạy hơn Jim bao nhiêu dặm trong một giờ?",
+            "choices": [
+                "A. 378",
+                "B. 873",
+                "C. 98",
+                "D. 2"
+            ]
+        },
+        {
+            "id": 3521,
+            "question": " Tina mua một ổ bánh mì giá 50 đô la, 2oz giăm bông giá 150 đô la và một chiếc bánh ngọt giá 200 đô la. Thịt giăm bông và bánh mì giá bao nhiêu phần trăm?",
+            "choices": [
+                "A. 50",
+                "B. 1926",
+                "C. 586",
+                "D. 1745"
+            ]
+        },
+        {
+            "id": 2739,
+            "question": " Trong 5 năm nữa, Grant sẽ bằng 2/3 tuổi của bệnh viện mà anh được thuê vào. Nếu Grant hiện 25 tuổi thì bệnh viện hiện nay bao nhiêu tuổi?",
+            "choices": [
+                "A. 365",
+                "B. 40",
+                "C. 1531",
+                "D. 1639"
+            ]
+        },
+        {
+            "id": 3885,
+            "question": " Nếu tôi đưa cho anh tôi 2 viên bi thì tôi sẽ có số viên bi gấp đôi anh ấy, nhưng bạn tôi sẽ có số viên bi gấp ba lần tôi. Tổng số viên bi mà chúng ta có là 63. Tôi có bao nhiêu viên bi?",
+            "choices": [
+                "A. 1570",
+                "B. 1624",
+                "C. 1014",
+                "D. 16"
+            ]
+        },
+        {
+            "id": 910,
+            "question": "Davante có số bạn bè nhiều gấp đôi số ngày trong tuần. 3 người bạn của anh ấy đều là con gái. Anh ấy có bao nhiêu người bạn là con trai?",
+            "choices": [
+                "A. 11",
+                "B. 1656",
+                "C. 1370",
+                "D. 782"
+            ]
+        },
+        {
+            "id": 1287,
+            "question": " Một trường học mua 20 hộp bút chì khi khai giảng. Bút chì được đựng trong thùng 10 hộp và mỗi hộp có giá 2 USD. Nhà trường cũng mua 10 thùng bút dạ. Một thùng carton có 5 hộp và có giá 4 USD. Trường đã chi tất cả bao nhiêu?",
+            "choices": [
+                "A. 1111",
+                "B. 600",
+                "C. 1942",
+                "D. 1150"
+            ]
+        },
+        {
+            "id": 2947,
+            "question": " Karina sinh năm 1970 và hiện nay cô gấp đôi tuổi anh trai mình. Nếu tuổi hiện nay của cô ấy là 40 thì anh trai cô ấy sinh vào năm nào?",
+            "choices": [
+                "A. 755",
+                "B. 304",
+                "C. 749",
+                "D. 1990"
+            ]
+        },
+        {
+            "id": 181,
+            "question": " Amanda có 7 thanh kẹo. Cô đưa 3 cho em gái mình. Ngày hôm sau, Amanda giành được một số tiền thưởng và mua thêm 30 thanh kẹo nữa. Cô cho em gái số kẹo gấp 4 lần lần đầu. Amanda đã giữ tổng cộng bao nhiêu thanh kẹo cho riêng mình?",
+            "choices": [
+                "A. 1259",
+                "B. 1466",
+                "C. 22",
+                "D. 1918"
+            ]
+        },
+        {
+            "id": 232,
+            "question": " Những chú hổ đã chơi 56 trận sân nhà trong năm nay. Họ có 12 trận thua và số trận hòa chỉ bằng một nửa. Họ đã thắng bao nhiêu trận?",
+            "choices": [
+                "A. 942",
+                "B. 277",
+                "C. 38",
+                "D. 1362"
+            ]
+        },
+        {
+            "id": 2314,
+            "question": "Bob có một khối bạc có cạnh 3 inch. Một inch khối bạc nặng 6 ounce. Mỗi ounce bạc được bán với giá 25 USD. Anh ta bán nó với giá 110% giá trị bạc của nó. Anh ta bán nó với giá bao nhiêu?",
+            "choices": [
+                "A. 1161",
+                "B. 1615",
+                "C. 4455",
+                "D. 1117"
+            ]
+        },
+        {
+            "id": 2818,
+            "question": " Paul có năm con chó. Cứ 10 pound chúng nặng, chúng cần 1 pound thức ăn cho chó mỗi ngày. Một chiếc nặng 20 pound. Một con nặng 40, con khác nặng 10. Một con nặng 30 và con cuối cùng nặng 50 pound. Chó cần bao nhiêu thức ăn mỗi ngày?",
+            "choices": [
+                "A. 1932",
+                "B. 1810",
+                "C. 701",
+                "D. 15"
+            ]
+        },
+        {
+            "id": 2635,
+            "question": " Một đồng vàng có giá trị 50 đô la và một đồng bạc có giá trị 25 đô la. Nếu bạn có 3 đồng vàng, 5 đồng bạc và 30 đô la tiền mặt thì bạn có bao nhiêu tiền đô la?",
+            "choices": [
+                "A. 1042",
+                "B. 154",
+                "C. 1172",
+                "D. 305"
+            ]
+        },
+        {
+            "id": 1176,
+            "question": " Linda đang sơn lại phòng ngủ của cô ấy. Diện tích bức tường là 600 m2. Nếu một gallon sơn có thể phủ được 400 m2 thì Linda sẽ phải mua bao nhiêu lon sơn nếu cô ấy muốn sơn hai lớp?",
+            "choices": [
+                "A. 692",
+                "B. 3",
+                "C. 1151",
+                "D. 1327"
+            ]
+        },
+        {
+            "id": 2391,
+            "question": "Mẹ mua một hộp kẹo. Cô giữ lại 1/3 số kẹo và chia phần còn lại cho 3 đứa con. Đứa lớn nhất được 8 cái kẹo, đứa nhỏ nhất được một nửa. Nếu có 27 cái kẹo trong hộp thì đứa thứ hai được bao nhiêu cái kẹo?",
+            "choices": [
+                "A. 1672",
+                "B. 6",
+                "C. 644",
+                "D. 8"
+            ]
+        },
+        {
+            "id": 3438,
+            "question": "Peter đang cào lá. Anh ta phải mất 15 phút để cào 3 túi lá. Nếu anh ta tiếp tục cào với tốc độ như vậy thì sau bao lâu anh ta cào được 8 túi?",
+            "choices": [
+                "A. 1464",
+                "B. 1744",
+                "C. 28",
+                "D. 40"
+            ]
+        },
+        {
+            "id": 691,
+            "question": "Một nhóm người trả 720 USD để mua vé vào công viên giải trí. Giá vé người lớn là 15$, vé trẻ em là 8$. Số người lớn nhiều hơn trẻ em là 25 người. Có bao nhiêu trẻ em trong nhóm?",
+            "choices": [
+                "A. 1111",
+                "B. 1725",
+                "C. 15",
+                "D. 1814"
+            ]
+        },
+        {
+            "id": 166,
+            "question": "Mary cần đồ dùng học tập. Cô có 6 lớp và cần 1 thư mục cho mỗi lớp. Cô cũng cần 3 cây bút chì cho mỗi lớp. Cô quyết định rằng cứ 6 cây bút chì thì cô phải có 1 cục tẩy. Cô ấy cũng cần một bộ sơn cho lớp học nghệ thuật. Cặp tài liệu có giá 6 đô la, bút chì có giá 2 đô la và cục tẩy có giá 1 đô la. Nếu cô ấy chi 80 đô la thì bộ sơn có giá bao nhiêu đô la?",
+            "choices": [
+                "A. 318",
+                "B. 5",
+                "C. 1732",
+                "D. 617"
+            ]
+        },
+        {
+            "id": 829,
+            "question": "Hà mua 3 quyển vở và đưa cô bán hàng tờ 50 000 đồng. Cô bán hàng trả lại Hà 14 000 đồng. Vậy mỗi quyển vở có giá là:",
+            "choices": [
+                "A. 12 000 đồng",
+                "B. 14 000 đồng",
+                "C. 13 000 đồng",
+                "D. 11 000 đồng"
+            ]
+        },
+        {
+            "id": 1749,
+            "question": " Jane có một cuốn sách 500 trang để đọc. Nửa đầu cuốn sách Jane đọc với tốc độ 10 trang mỗi ngày và nửa sau với tốc độ 5 trang mỗi ngày. Jane đã dành bao nhiêu ngày để đọc cuốn sách này?",
+            "choices": [
+                "A. 75",
+                "B. 595",
+                "C. 1978",
+                "D. 1747"
+            ]
+        },
+        {
+            "id": 1493,
+            "question": " Coby đã có một chuyến đi. Anh ấy đang đi từ Washington đến Nevada nhưng anh ấy cần dừng lại ở Idaho, cách Washington 640 dặm và cách Nevada 550 dặm để đón một số người bạn. Nếu Coby đang di chuyển với tốc độ 80 dặm một giờ để đến Idaho và với tốc độ 50 dặm một giờ từ Idaho đến Nevada, thì anh ấy phải mất bao nhiêu giờ để đến đích?",
+            "choices": [
+                "A. 19",
+                "B. 1458",
+                "C. 114",
+                "D. 341"
+            ]
+        },
+        {
+            "id": 149,
+            "question": "Hôm qua cửa hàng bán được 2 536 l nước mắm, hôm nay bán được nhiều hơn hôm qua 908 l. Vậy số nước mắm cả hai ngày cửa hàng bán được là:",
+            "choices": [
+                "A. 1 628 l",
+                "B. 5 980 l",
+                "C. 3 444 l",
+                "D. 4 164 l"
+            ]
+        },
+        {
+            "id": 582,
+            "question": " Henry cần dọn dẹp bộ sưu tập sách gồm 99 cuốn của mình. Từ giá sách của mình, anh có thể lấy đầy 3 hộp, mỗi hộp 15 cuốn để mang đến trung tâm quyên góp. Anh ấy có 21 cuốn sách trong một căn phòng mà anh ấy có thể quyên góp, 4 cuốn trên bàn cà phê và 18 cuốn sách dạy nấu ăn được cất trong bếp. Khi mang chúng đi, anh nhận thấy một hộp sách có ghi dòng chữ \"miễn phí cho một ngôi nhà tốt\". Anh ta chộp lấy 12 cuốn sách để mang về chỗ của mình. Hiện tại Henry có bao nhiêu cuốn sách?",
+            "choices": [
+                "A. 1983",
+                "B. 1836",
+                "C. 23",
+                "D. 1202"
+            ]
+        },
+        {
+            "id": 1186,
+            "question": " Vành của một vòng bóng rổ tiêu chuẩn cao hơn mặt đất 10 feet. Ngoài ra, hầu hết các chuyên gia sẽ nói rằng một cầu thủ phải có khả năng cao hơn vành ít nhất 6 inch để ném bóng rổ. Giả sử một cầu thủ bóng rổ cao 6 feet và có thể cao tới 22 inch trên đầu bằng sải cánh của họ. Cầu thủ này phải nhảy cao bao nhiêu để đạt được độ cao 6 inch so với vành để ném bóng rổ?",
+            "choices": [
+                "A. 32",
+                "B. 1060",
+                "C. 1610",
+                "D. 1371"
+            ]
+        },
+        {
+            "id": 2521,
+            "question": " Tỷ lệ nam và nữ trong một lớp học là 3:5. Nếu số nữ nhiều hơn số nam 4 thì lớp học có bao nhiêu học sinh?",
+            "choices": [
+                "A. 37",
+                "B. 16",
+                "C. 1206",
+                "D. 1959"
+            ]
+        },
+        {
+            "id": 1450,
+            "question": " Cha mẹ của Aziz chuyển đến Mỹ vào năm 1982. Năm đó là năm 2021 và Aziz vừa kỷ niệm sinh nhật lần thứ 36 của mình. Cha mẹ anh đã sống ở Mỹ bao nhiêu năm trước khi Aziz ra đời?",
+            "choices": [
+                "A. 3",
+                "B. 416",
+                "C. 169",
+                "D. 1804"
+            ]
+        },
+        {
+            "id": 1193,
+            "question": " Một cây cà chua có 100 quả cà chua. Jane chọn 1/4 số đó để sử dụng trong nhà của họ. Sau một tuần, cô ấy quay lại và hái thêm 20 quả cà chua, và tuần sau cô ấy hái gấp đôi số đó. Tổng số quả còn lại trên cây cà chua là bao nhiêu?",
+            "choices": [
+                "A. 15",
+                "B. 1161",
+                "C. 352",
+                "D. 871"
+            ]
+        },
+        {
+            "id": 3580,
+            "question": " Lisa có nhiều hơn Ana 18 chiếc váy. Nếu số váy của họ cộng lại là 48 thì Ana có bao nhiêu chiếc váy?",
+            "choices": [
+                "A. 1031",
+                "B. 721",
+                "C. 15",
+                "D. 219"
+            ]
+        },
+        {
+            "id": 573,
+            "question": " Olaf đang chơi game với bố. Anh ấy ghi được số điểm nhiều gấp ba lần so với bố mình, người đã ghi được 7 điểm. Tổng cộng họ đã ghi được bao nhiêu điểm?",
+            "choices": [
+                "A. 1086",
+                "B. 529",
+                "C. 1794",
+                "D. 28"
+            ]
+        },
+        {
+            "id": 3623,
+            "question": "Năm ngoái, thư viện trường mua 50 cuốn sách mới. Năm nay, số sách được mua nhiều gấp 3 lần. Nếu thư viện có 100 cuốn sách trước khi mua sách mới vào năm ngoái thì bây giờ thư viện có bao nhiêu cuốn sách?",
+            "choices": [
+                "A. 164",
+                "B. 1456",
+                "C. 1442",
+                "D. 300"
+            ]
+        },
+        {
+            "id": 2928,
+            "question": " Sweet Hope tổ chức một sòng bạc với 3 bàn roulette được dán nhãn A, B và C. Vào lúc 6 giờ chiều, Bàn B có số tiền gấp đôi so với bàn C, có nhiều hơn 20 đô la so với bàn A. Nếu có 40 đô la trên bàn A, có bao nhiêu tiền trên tất cả các bàn?",
+            "choices": [
+                "A. 161",
+                "B. 220",
+                "C. 426",
+                "D. 1325"
+            ]
+        },
+        {
+            "id": 2031,
+            "question": " Denise sẽ 25 tuổi sau hai năm nữa. Em gái cô, Diane, trẻ hơn cô 4 tuổi. Bao nhiêu năm nữa Diane sẽ 25 tuổi?",
+            "choices": [
+                "A. 245",
+                "B. 6",
+                "C. 184",
+                "D. 441"
+            ]
+        },
+        {
+            "id": 2647,
+            "question": " Kimberley, Ela và Houston đều được cử đi lấy củi theo ngữ pháp của họ. Kimberley thu thập 10 pound củi và Houston thu thập 12 pound củi. Nếu ba người họ thu thập được tổng cộng 35 pound củi thì Ela đã thu được bao nhiêu pound?",
+            "choices": [
+                "A. 1062",
+                "B. 1292",
+                "C. 1524",
+                "D. 13"
+            ]
+        },
+        {
+            "id": 2789,
+            "question": " Một túi khoai tây chiên nặng 20 ounce và một hộp bánh quy nặng 9 ounce. Nếu Jasmine mua 6 túi khoai tây chiên và số hộp bánh quy gấp 4 lần thì cô ấy phải mang theo bao nhiêu pound?",
+            "choices": [
+                "A. 1806",
+                "B. 723",
+                "C. 48",
+                "D. 21"
+            ]
+        },
+        {
+            "id": 3191,
+            "question": " Josie và gia đình cô đã đi săn và có khoảng thời gian thú vị khi quan sát các loài động vật khác nhau gặm cỏ và chơi đùa cùng nhau. Cô quyết định đếm từng con vật cô nhìn thấy và tính tổng số của chúng. Cô đếm được 80 con linh dương, nhiều hơn 34 con thỏ so với linh dương, ít hơn 42 con linh cẩu so với tổng số linh dương và thỏ cộng lại, nhiều hơn 50 con chó hoang so với linh cẩu và số lượng báo hoa mai bằng một nửa số thỏ. Tổng số con vật mà Josie đếm được là bao nhiêu?",
+            "choices": [
+                "A. 790",
+                "B. 1117",
+                "C. 605",
+                "D. 727"
+            ]
+        },
+        {
+            "id": 2048,
+            "question": "Số liền trước của số lớn nhất có năm chữ số là:",
+            "choices": [
+                "A. 89 999",
+                "B. 98 999",
+                "C. 99 998",
+                "D. 99 989"
+            ]
+        },
+        {
+            "id": 3134,
+            "question": "Phân số thập phân “Ba trăm hai mươi tư phần một nghìn” được viết là:",
+            "choices": [
+                "A. $\\frac{3204}{1000}$",
+                "B. $\\frac{324}{1000}$",
+                "C. $\\frac{324}{100}$",
+                "D. $\\frac{30024}{1000}$"
+            ]
+        },
+        {
+            "id": 1465,
+            "question": " Một nhóm chín con rùa ngồi trên một khúc gỗ. Hai ít hơn ba lần số rùa ban đầu leo lên khúc gỗ cùng với nhóm ban đầu, tạo thành một nhóm thậm chí còn lớn hơn trên khúc gỗ. Đột nhiên, một nửa đàn rùa lớn bị một âm thanh làm hoảng sợ và nhảy ra khỏi khúc gỗ và bỏ chạy. Có bao nhiêu con rùa còn lại trên khúc gỗ?",
+            "choices": [
+                "A. 1436",
+                "B. 1314",
+                "C. 1961",
+                "D. 17"
+            ]
+        },
+        {
+            "id": 3992,
+            "question": " Joe chơi một giải bóng đá với đội của anh ấy. Các trận đấu giành được 3 điểm cho đội thắng và các trận hòa ghi 1 điểm cho cả hai đội. Joe và đội của anh ấy thắng 1 trận và hòa 3. Đội hạng nhất thắng 2 trận và hòa 2. Đội hạng nhất đã đánh bại đội của Joe bao nhiêu điểm?",
+            "choices": [
+                "A. 63",
+                "B. 277",
+                "C. 2",
+                "D. 1562"
+            ]
+        },
+        {
+            "id": 1430,
+            "question": " Tom quyết định mua một số áo sơ mi từ fandom yêu thích của anh ấy vì trang web yêu thích của anh ấy đang có đợt giảm giá. Anh ấy mua 5 chiếc áo phông từ mỗi fandom trong số 4 fandom yêu thích của mình. Những chiếc áo sơ mi thường có giá 15 USD mỗi chiếc nhưng đang được giảm giá 20%. Đơn hàng đủ điều kiện được miễn phí vận chuyển nhưng anh vẫn phải trả 10% thuế. Anh ấy đã trả bao nhiêu?",
+            "choices": [
+                "A. 607",
+                "B. 1219",
+                "C. 264",
+                "D. 1884"
+            ]
+        },
+        {
+            "id": 2439,
+            "question": " Nếu hiện tại tôi lớn hơn Billy 4 lần và Billy 4 tuổi thì Billy sinh ra tôi bao nhiêu tuổi?",
+            "choices": [
+                "A. 318",
+                "B. 12",
+                "C. 286",
+                "D. 862"
+            ]
+        },
+        {
+            "id": 1349,
+            "question": " Jack có 42 bảng, 11 euro và 3000 yên. Nếu có 2 bảng mỗi euro và 100 yên mỗi bảng thì Jack có bao nhiêu yên?",
+            "choices": [
+                "A. 1081",
+                "B. 152",
+                "C. 1480",
+                "D. 9400"
+            ]
+        },
+        {
+            "id": 3744,
+            "question": " Phillip sẽ làm bài kiểm tra toán và tiếng Anh vào thứ Hai. Bài kiểm tra toán có 40 câu hỏi và anh ấy làm đúng 75%. Bài kiểm tra tiếng Anh có 50 câu hỏi và anh ấy làm đúng 98%. Tổng cộng anh ấy trả lời đúng được bao nhiêu câu?",
+            "choices": [
+                "A. 79",
+                "B. 1698",
+                "C. 388",
+                "D. 936"
+            ]
+        },
+        {
+            "id": 3467,
+            "question": " James được học 20 bài hát. Anh ấy được học miễn phí bài học đầu tiên và sau 10 buổi học trả phí đầu tiên, anh ấy chỉ cần trả tiền cho mọi bài học khác. Mỗi bài học là $5. Chú của anh ấy trả một nửa. James trả bao nhiêu?",
+            "choices": [
+                "A. 1050",
+                "B. 1625",
+                "C. 295",
+                "D. 35"
+            ]
+        },
+        {
+            "id": 469,
+            "question": " Một chiếc máy ở nhà máy sản xuất soda thường có thể đổ đầy một thùng soda trong 3 phút. Tuy nhiên sáng nay một vụ rò rỉ đã không được chú ý và phải mất 5 phút để đổ đầy một thùng. Nếu chỗ rò rỉ vẫn không được phát hiện thì phải mất bao lâu để đổ đầy 12 thùng soda so với một ngày bình thường khi máy hoạt động tốt?",
+            "choices": [
+                "A. 182",
+                "B. 921",
+                "C. 196",
+                "D. 24"
+            ]
+        },
+        {
+            "id": 2875,
+            "question": " Fabian có số bi nhiều hơn Kyle ba lần và nhiều hơn Miles năm lần. Nếu Fabian có 15 viên bi thì Kyle và Miles có tất cả bao nhiêu viên bi?",
+            "choices": [
+                "A. 759",
+                "B. 1441",
+                "C. 385",
+                "D. 8"
+            ]
+        },
+        {
+            "id": 1632,
+            "question": "Trong một tam giác có các góc A, B, C thì A bằng 60 độ, B gấp 2 lần C. Tính góc của B.",
+            "choices": [
+                "A. 80",
+                "B. 1697",
+                "C. 27",
+                "D. 1432"
+            ]
+        },
+        {
+            "id": 2145,
+            "question": " Trong buổi tập ngày hôm qua, tôi đã thực hiện 30 lần squat. Mỗi ngày, tôi dự định tăng số lần squat lên 5 lần so với ngày hôm trước. Nếu tôi tập luyện trong bốn ngày liên tiếp, tôi sẽ thực hiện bao nhiêu lần squat vào ngày mốt?",
+            "choices": [
+                "A. 1031",
+                "B. 45",
+                "C. 1411",
+                "D. 1297"
+            ]
+        },
+        {
+            "id": 3487,
+            "question": " Cristine mua một tá quả chanh và đưa 1/4 quả cho người hàng xóm. Cristine còn lại bao nhiêu quả chanh?",
+            "choices": [
+                "A. 9",
+                "B. 1668",
+                "C. 1875",
+                "D. 790"
+            ]
+        },
+        {
+            "id": 1149,
+            "question": " Một nhóm các nhà nghiên cứu đang nghiên cứu một đàn chim cánh cụt. Kết quả của họ cho thấy kích thước tăng gấp đôi trong năm đầu tiên họ quan sát thuộc địa, sau đó tăng gấp ba vào năm tiếp theo. Tuy nhiên, năm nay, điều kiện khắc nghiệt khiến đàn chỉ có 129 con chim cánh cụt. Thuộc địa hiện có 1077 con chim cánh cụt. Mỗi con chim cánh cụt ăn một con rưỡi cá mỗi ngày. Cả đàn cá đã bắt được bao nhiêu con cá mỗi ngày để ăn vào đầu năm đầu tiên?",
+            "choices": [
+                "A. 237",
+                "B. 1510",
+                "C. 518",
+                "D. 369"
+            ]
+        },
+        {
+            "id": 3728,
+            "question": " Trong một cửa hàng có bán quần áo. Mỗi chiếc áo có giá 5 đô la, mỗi chiếc mũ có giá 4 đô la và một chiếc quần jean có giá 10 đô la. Bạn cần trả bao nhiêu tiền cho ba chiếc áo sơ mi, hai chiếc quần jean và bốn chiếc mũ?",
+            "choices": [
+                "A. 892",
+                "B. 77",
+                "C. 1219",
+                "D. 51"
+            ]
+        },
+        {
+            "id": 2340,
+            "question": "Alex đang thực hiện một chuyến đi xuyên quốc gia bằng xe đạp. Sau khi bắt đầu sáng nay, anh ấy đạt tốc độ trung bình trên mặt đất bằng phẳng khoảng 20 dặm một giờ. Bốn tiếng rưỡi sau, con đường bắt đầu dốc lên đến mức anh chỉ có thể chạy được 12 dặm một giờ. Tuy nhiên, hai tiếng rưỡi sau, con đường đã xuống dốc và gần như có thể chạy dọc bờ biển với vận tốc 24 dặm một giờ. Thật không may, anh ấy chỉ tận hưởng được điều này trong một tiếng rưỡi trước khi bị thủng lốp. Anh ấy đã quên mang theo bộ dụng cụ sửa chữa nên phải đi bộ quãng đường còn lại để đến thị trấn bên cạnh. Nếu thị trấn tiếp theo cách nơi anh ấy xuất phát sáng nay 164 dặm thì Alex phải đi bộ bao xa?",
+            "choices": [
+                "A. 821",
+                "B. 8",
+                "C. 1264",
+                "D. 146"
+            ]
+        },
+        {
+            "id": 928,
+            "question": " Trong căng tin, Athena muốn mua đồ ăn nhẹ cho bạn bè. Cô ấy mua 3 chiếc bánh sandwich với giá 3 đô la mỗi chiếc và 2 đồ uống trái cây với giá 2,5 đô la mỗi chiếc. Tổng cộng cô ấy đã chi bao nhiêu?",
+            "choices": [
+                "A. 70",
+                "B. 641",
+                "C. 14",
+                "D. 652"
+            ]
+        },
+        {
+            "id": 1620,
+            "question": " Josue trồng một cái cây ở sân sau nhà mình, cây mọc với tốc độ 2 feet mỗi tuần. Nếu cây hiện tại cao 10 feet thì tổng chiều cao của cây sau 4 tháng là bao nhiêu (giả sử mỗi tháng dài 4 tuần)?",
+            "choices": [
+                "A. 42",
+                "B. 1761",
+                "C. 97",
+                "D. 736"
+            ]
+        },
+        {
+            "id": 1795,
+            "question": " Một con vịt mẹ bằng 8 con vịt con. 3 chú vịt con đầu tiên mỗi chú tìm được 5 con ốc sên. 3 con vịt con khác mỗi con tìm được 9 con ốc, những con vịt con còn lại mỗi con tìm được một nửa số ốc mà vịt mẹ tìm thấy. Nếu vịt mẹ tìm được cây nhân với tổng số ốc của 2 nhóm vịt con đầu tiên thì gia đình vịt có tổng cộng bao nhiêu con ốc?",
+            "choices": [
+                "A. 1527",
+                "B. 294",
+                "C. 1409",
+                "D. 955"
+            ]
+        },
+        {
+            "id": 214,
+            "question": " Heaven và em trai cô muốn mua đồ dùng học tập nên xin tiền cha, ông cho họ tổng cộng 100 USD để sử dụng. Heaven mua hai cái gọt và bốn cuốn sổ với giá 5 đô la mỗi cái, và anh trai cô dùng số tiền còn lại để mua mười cục tẩy với giá 4 đô la mỗi cái và một số bút tô màu. Anh Thiên đã chi bao nhiêu tiền cho bút highlight?",
+            "choices": [
+                "A. 1606",
+                "B. 30",
+                "C. 667",
+                "D. 1089"
+            ]
+        },
+        {
+            "id": 3090,
+            "question": "Có bao nhiêu quả táo mà hai người đàn ông và ba người phụ nữ mua ở một cửa hàng nào đó nếu hai người đàn ông mỗi người mua 30 quả táo, ít hơn 20 quả so với số táo mà mỗi người phụ nữ mua?",
+            "choices": [
+                "A. 1016",
+                "B. 455",
+                "C. 210",
+                "D. 830"
+            ]
+        },
+        {
+            "id": 3893,
+            "question": " James mua 6 chiếc áo phông được giảm giá 50%. Mỗi chiếc có giá 20 USD. Anh ấy đã trả bao nhiêu?",
+            "choices": [
+                "A. 946",
+                "B. 1795",
+                "C. 60",
+                "D. 948"
+            ]
+        },
+        {
+            "id": 2335,
+            "question": "Trong các số: 825, 627, 958, 609; số lớn nhất là:",
+            "choices": [
+                "A. 825",
+                "B. 627",
+                "C. 958",
+                "D. 609"
+            ]
+        },
+        {
+            "id": 3559,
+            "question": "Có 88 con chó trong một công viên. 12 con chó đang chạy. Một nửa trong số họ đang chơi đồ chơi. Một phần tư trong số họ đang sủa. Có bao nhiêu con chó không làm gì cả?",
+            "choices": [
+                "A. 1924",
+                "B. 412",
+                "C. 10",
+                "D. 1037"
+            ]
+        },
+        {
+            "id": 3421,
+            "question": " Missy có một chú chó ngoan ngoãn và một chú chó bướng bỉnh. Cô phải mắng con chó bướng bỉnh bốn lần thì mới có một lần cô mắng con chó ngoan ngoãn. Nếu cô ấy mắng con chó ngoan ngoãn 12 lần thì cô ấy mắng cả hai con chó cộng lại bao nhiêu lần?",
+            "choices": [
+                "A. 990",
+                "B. 60",
+                "C. 1500",
+                "D. 1806"
+            ]
+        },
+        {
+            "id": 2811,
+            "question": " John tình nguyện đến nơi trú ẩn hai lần một tháng, mỗi lần 3 giờ. Anh ấy làm tình nguyện bao nhiêu giờ mỗi năm?",
+            "choices": [
+                "A. 239",
+                "B. 72",
+                "C. 765",
+                "D. 171"
+            ]
+        },
+        {
+            "id": 3247,
+            "question": " Có 5 ngôi nhà trên một con phố và mỗi ngôi nhà trong số 4 ngôi nhà đầu tiên có 3 chú lùn trong vườn. Nếu có tổng cộng 20 chú lùn trên phố thì ngôi nhà thứ năm có bao nhiêu chú lùn?",
+            "choices": [
+                "A. 8",
+                "B. 288",
+                "C. 1251",
+                "D. 1550"
+            ]
+        },
+        {
+            "id": 585,
+            "question": "Jane mang 75% số miếng bánh mì làm đồ ăn vặt để cho thú cưng sống ở sở thú ăn. Wanda mang số món ăn bằng một nửa so với Jane và số lượng bánh mì gấp ba lần số món ăn. Nếu Wanda mang 90 miếng bánh mì thì tổng số miếng bánh mì và đồ ăn vặt mà Wanda và Jane mang đến sở thú là bao nhiêu?",
+            "choices": [
+                "A. 1815",
+                "B. 690",
+                "C. 877",
+                "D. 225"
+            ]
+        },
+        {
+            "id": 3761,
+            "question": "Bạn bắt đầu kinh doanh bán vòng tay quyến rũ. Bạn chi 1 USD cho sợi dây cho mỗi chiếc vòng tay và 3 USD cho những hạt cườm cho mỗi chiếc vòng tay. Bạn bán những chiếc vòng tay với giá 6 USD mỗi chiếc. Nếu bạn bán 25 chiếc vòng tay, bạn sẽ kiếm được bao nhiêu lợi nhuận?",
+            "choices": [
+                "A. 1669",
+                "B. 50",
+                "C. 1053",
+                "D. 1105"
+            ]
+        },
+        {
+            "id": 329,
+            "question": " Thời gian Juan dùng để lấy bữa trưa từ văn phòng và quay về chỉ bằng một nửa thời gian để đọc một cuốn sách. Nếu anh ta có một cuốn sách 4000 trang, anh ta đọc được bao nhiêu trang trong một giờ nếu anh ta mất 4 giờ để di chuyển từ văn phòng đi ăn trưa?",
+            "choices": [
+                "A. 1309",
+                "B. 1359",
+                "C. 1915",
+                "D. 250"
+            ]
+        },
+        {
+            "id": 2267,
+            "question": " Mark đang mua nhựa đường để lát một đoạn đường mới. Con đường sẽ dài 2000 feet và rộng 20 feet. Mỗi xe tải trải nhựa sẽ bao phủ 800 feet vuông đường. Nếu mỗi xe tải có giá 75 USD và thuế bán hàng là 20% thì Mark sẽ phải trả bao nhiêu tiền cho nhựa đường?",
+            "choices": [
+                "A. 91",
+                "B. 933",
+                "C. 4500",
+                "D. 948"
+            ]
+        },
+        {
+            "id": 3257,
+            "question": "Trên hành tinh Popton, có hai chủng tộc sinh vật: Hoopits và Neglarts. Mỗi Hoopit có 3 ngón chân trên mỗi bàn tay trong số 4 bàn tay của họ, trong khi mỗi người Neglart chỉ có 2 ngón chân trên mỗi bàn tay trong số 5 bàn tay của họ. Nếu một chiếc xe buýt trường học không người lái tự động ở Popton luôn chở 7 học sinh Hoopit và 8 học sinh Neglart thì xe buýt trường học Popton có bao nhiêu ngón chân?",
+            "choices": [
+                "A. 116",
+                "B. 164",
+                "C. 1149",
+                "D. 1146"
+            ]
+        },
+        {
+            "id": 1412,
+            "question": "Ezekiel đi bộ đường dài như một sở thích. Mùa hè vừa qua, anh đã thực hiện chuyến đi bộ đầy thử thách kéo dài 3 ngày băng qua 50 km vùng hoang dã. Ngày đầu tiên, anh vượt qua 10 km sườn núi dốc. Ngày thứ hai thoải mái hơn và anh ấy có thể đi được nửa quãng đường đi bộ. Hỏi ngày thứ ba người đó phải đi bộ bao nhiêu km để hoàn thành chặng đường?",
+            "choices": [
+                "A. 690",
+                "B. 15",
+                "C. 1286",
+                "D. 1239"
+            ]
+        },
+        {
+            "id": 2911,
+            "question": " Vào đêm khiêu vũ, 400 sinh viên có mặt trong bữa tiệc. 70% sinh viên đến dự đều được mời. Nếu 40% số người được mời đến bữa tiệc bị thu hồi lời mời và không được phép vào bữa tiệc thì có bao nhiêu sinh viên được mời tham dự bữa tiệc?",
+            "choices": [
+                "A. 182",
+                "B. 504",
+                "C. 168",
+                "D. 483"
+            ]
+        },
+        {
+            "id": 820,
+            "question": " Peter đang ăn khoai tây chiên. Mỗi chip là 10 calo. Một túi có 24 con chip và có giá 2 USD. Nếu anh ấy muốn ăn 480 calo thì anh ấy phải chi bao nhiêu tiền cho khoai tây chiên?",
+            "choices": [
+                "A. 1214",
+                "B. 894",
+                "C. 1595",
+                "D. 4"
+            ]
+        },
+        {
+            "id": 1671,
+            "question": " 3 người bạn cùng nhau xem 411 đoạn video ngắn. Kelsey đã xem nhiều hơn Ekon 43. Ekon xem ít hơn Uma 17 tập. Kelsey đã xem bao nhiêu video?",
+            "choices": [
+                "A. 160",
+                "B. 1574",
+                "C. 1415",
+                "D. 430"
+            ]
+        },
+        {
+            "id": 1356,
+            "question": " Nếu tiền lương của 15 công nhân trong 6 ngày là $9450. Tiền lương của 19 công nhân trong 5 ngày là bao nhiêu?",
+            "choices": [
+                "A. 9975",
+                "B. 1848",
+                "C. 1646",
+                "D. 1130"
+            ]
+        },
+        {
+            "id": 439,
+            "question": " Cary đang tiết kiệm tiền để mua một đôi giày mới có giá 120 USD. Anh ấy đã tiết kiệm được 30 đô la. Anh ta kiếm được 5 USD cho mỗi bãi cỏ anh ta cắt. Nếu anh ta cắt 3 bãi cỏ mỗi cuối tuần thì anh ta sẽ phải cắt cỏ bao nhiêu ngày cuối tuần nữa trước khi có đủ tiền mua đôi giày?",
+            "choices": [
+                "A. 6",
+                "B. 52",
+                "C. 1091",
+                "D. 251"
+            ]
+        },
+        {
+            "id": 3891,
+            "question": " Cha của Dulce có tám cây cam trong trang trại của mình. Nếu mỗi cây có 200 quả và Dulce hái 2/5 số cam trên mỗi cây, hãy tính tổng số quả còn lại trên tất cả các cây.",
+            "choices": [
+                "A. 960",
+                "B. 344",
+                "C. 1311",
+                "D. 1256"
+            ]
+        },
+        {
+            "id": 3506,
+            "question": " Con chó của Erik có thể chạy 24 dặm một giờ. Nó đang đuổi theo một con thỏ có thể chạy 15 dặm một giờ. Con thỏ có khoảng cách xuất phát là 0,6 dặm. Hỏi sau bao nhiêu phút thì chó đuổi kịp thỏ?",
+            "choices": [
+                "A. 1015",
+                "B. 1284",
+                "C. 4",
+                "D. 1771"
+            ]
+        },
+        {
+            "id": 1431,
+            "question": "Bethany đang làm việc ở quầy lễ tân tại Joe's Gym. Có một số người đang nâng tạ khi cô ấy bắt đầu ca làm việc của mình. Sau đó có thêm 5 người nữa bước vào và bắt đầu chạy trên máy chạy bộ, còn 2 người rời đi. Hiện tại có 19 người trong phòng tập. Có bao nhiêu người nâng tạ khi Bethany bắt đầu ca làm việc?",
+            "choices": [
+                "A. 16",
+                "B. 209",
+                "C. 1668",
+                "D. 1654"
+            ]
+        },
+        {
+            "id": 2652,
+            "question": " Ba mươi sinh viên chạy đua từ thiện để quyên tiền cho nạn nhân cơn bão. Mười sinh viên đã quyên góp được $20 mỗi người. Những sinh viên còn lại quyên góp được 30 USD mỗi người. Tổng cộng các sinh viên đã quyên góp được bao nhiêu?",
+            "choices": [
+                "A. 800",
+                "B. 1927",
+                "C. 1621",
+                "D. 707"
+            ]
+        },
+        {
+            "id": 3358,
+            "question": " Chúng tôi đã thu hoạch được 405 kg táo. 90 kg được dùng để làm nước ép trái cây và 60 kg được cung cấp cho nhà hàng. Phần còn lại được bán trong bao 5 kg và thu về 408 USD. Giá bán một túi táo là bao nhiêu?",
+            "choices": [
+                "A. 829",
+                "B. 1797",
+                "C. 8",
+                "D. 837"
+            ]
+        },
+        {
+            "id": 3241,
+            "question": " Brady được trả 70 xu cho mỗi thẻ công thức mà anh ấy chép lại. Anh ấy cũng nhận được tiền thưởng 10 đô la mỗi lần sao chép 100 thẻ. Nếu anh ta chép 200 thẻ thì anh ta sẽ kiếm được bao nhiêu bao gồm cả tiền thưởng?",
+            "choices": [
+                "A. 953",
+                "B. 1109",
+                "C. 504",
+                "D. 160"
+            ]
+        },
+        {
+            "id": 869,
+            "question": " Gia đình Martin đi đến trung tâm mua sắm để mua kem. Một muỗng dành cho trẻ em có giá 3 đô la. Một muỗng thông thường có giá 4 USD. Một muỗng đôi có giá 6 USD. Ông bà Martin mỗi người nhận được tin sốt dẻo thường xuyên. Hai đứa con của họ đều nhận được phần thưởng dành cho trẻ em. Ba đứa con vị thành niên của họ mỗi người nhận được hai muỗng. Bà Martin trả cho người thu ngân bao nhiêu tiền?",
+            "choices": [
+                "A. 404",
+                "B. 1358",
+                "C. 32",
+                "D. 1291"
+            ]
+        },
+        {
+            "id": 2349,
+            "question": " John vẽ một bức tranh tường khổng lồ có kích thước 6m x 3m. Sơn có giá 4 USD/m2. Nghệ sĩ có thể vẽ 1,5 mét vuông mỗi giờ và tính phí 10 USD mỗi giờ. Tranh dán tường giá bao nhiêu?",
+            "choices": [
+                "A. 818",
+                "B. 1680",
+                "C. 419",
+                "D. 192"
+            ]
+        },
+        {
+            "id": 687,
+            "question": "Jill dành thời gian mỗi ngày để nói chuyện với bạn trai qua điện thoại. Ngày đầu tuần cô dành 5 phút nói chuyện điện thoại với bạn trai. Mỗi ngày tiếp theo cô dành thời gian nói chuyện điện thoại nhiều gấp đôi so với ngày trước. Sau ngày thứ 5, bố mẹ cô ấy lấy điện thoại ra khỏi cô ấy vì cô ấy sử dụng nó quá lâu. Jill đã dành bao nhiêu thời gian để nói chuyện với bạn trai trong tuần đó?",
+            "choices": [
+                "A. 688",
+                "B. 1089",
+                "C. 155",
+                "D. 188"
+            ]
+        },
+        {
+            "id": 1152,
+            "question": "Joy có thể đọc 8 trang sách trong 20 phút. Cô ấy sẽ mất bao nhiêu giờ để đọc 120 trang?",
+            "choices": [
+                "A. 926",
+                "B. 5",
+                "C. 70",
+                "D. 220"
+            ]
+        },
+        {
+            "id": 3341,
+            "question": " Số quả trung bình mỗi giỏ trong 5 giỏ là 25. Nếu giỏ A chứa 15 quả táo, B có 30 quả xoài, C có 20 quả đào, D có 25 quả lê và E có vài quả chuối thì giỏ E có bao nhiêu quả chuối?",
+            "choices": [
+                "A. 399",
+                "B. 35",
+                "C. 1076",
+                "D. 1075"
+            ]
+        },
+        {
+            "id": 93,
+            "question": " Khi mua DVD ở cửa hàng, Maria được giảm giá 25%. Nếu số tiền giảm giá cô ấy nhận được là 40$ thì cô ấy đã trả tổng cộng bao nhiêu?",
+            "choices": [
+                "A. 1755",
+                "B. 120",
+                "C. 1679",
+                "D. 50"
+            ]
+        },
+        {
+            "id": 1601,
+            "question": "Monica tính phí $25,00 mỗi người khi phục vụ bữa tiệc tối. Đối với khách hàng thường xuyên, cô giảm giá 10%. Phoebe là một khách hàng quen đang tổ chức bữa tiệc tối cho 20 khách. Monica sẽ kiếm được bao nhiêu từ bữa tiệc?",
+            "choices": [
+                "A. 225",
+                "B. 450",
+                "C. 657",
+                "D. 1482"
+            ]
+        },
+        {
+            "id": 2433,
+            "question": " Susan có 3 bể cá cần lấp đầy. 1 bể cá có 7 con cá vàng và 8 con cá beta. Bể cá thứ hai có số cá gấp đôi bể thứ nhất và bể cá thứ ba có số cá bằng một phần ba số cá ở bể cá thứ hai. Có bao nhiêu con cá trong bể cá thứ ba?",
+            "choices": [
+                "A. 79",
+                "B. 440",
+                "C. 10",
+                "D. 492"
+            ]
+        },
+        {
+            "id": 2368,
+            "question": " Jenna đang may trang phục cho vai diễn của cô trong Oliver Twist. Cô ấy cần may một chiếc váy ngoài và hai chiếc váy lót. Mỗi chiếc váy sử dụng một hình chữ nhật bằng chất liệu có kích thước 12 feet x 4 feet. Cô ấy cũng cần làm một chiếc áo lót sử dụng 2 feet vuông vải cho áo sơ mi và 5 feet vuông vải cho mỗi tay áo. Nếu vật liệu cô ấy sử dụng có giá 3 đô la cho mỗi foot vuông, thì tổng cộng cô ấy chi bao nhiêu cho vật liệu đó?",
+            "choices": [
+                "A. 468",
+                "B. 542",
+                "C. 808",
+                "D. 1843"
+            ]
+        },
+        {
+            "id": 1525,
+            "question": "Vermont đã mở 4 trang web trên trình duyệt web của mình và tìm thấy 12 quảng cáo trên trang web đầu tiên và số quảng cáo trên trang web thứ hai nhiều gấp đôi so với trang web đầu tiên. Khi mở trang web thứ ba, anh tìm thấy nhiều hơn 24 quảng cáo so với số lượng quảng cáo trên trang web thứ hai. Nếu trang web thứ tư có số lượng quảng cáo gấp 3/4 lần trang web thứ hai, hãy tính tổng số quảng cáo mà Vermont đã nhấp vào nếu anh ấy nhấp vào 2/3 trong số đó.",
+            "choices": [
+                "A. 278",
+                "B. 797",
+                "C. 68",
+                "D. 436"
+            ]
+        },
+        {
+            "id": 23,
+            "question": "Vào ngày son môi quốc gia, một nửa số học sinh đến lớp đã tô son màu. Trong số những học sinh tô son, 1/4 tô son đỏ. Số học sinh tô son màu xanh bằng 1/5 số học sinh tô son đỏ. Nếu ngày hôm đó có 200 học sinh đến trường thì có bao nhiêu em tô son màu xanh?",
+            "choices": [
+                "A. 1027",
+                "B. 1991",
+                "C. 628",
+                "D. 5"
+            ]
+        },
+        {
+            "id": 3554,
+            "question": " Khi đi ngang qua một cửa hàng, Miley nhận thấy một chiếc túi có giá 150 USD vào tuần trước hiện đang được giảm giá với giá 135 USD. Giảm giá là bao nhiêu phần trăm?",
+            "choices": [
+                "A. 449",
+                "B. 1999",
+                "C. 1010",
+                "D. 10"
+            ]
+        },
+        {
+            "id": 2673,
+            "question": " Marco có 24 đô la. Mary có 15 đô la. Nếu Marco đưa cho Mary một nửa số tiền anh ấy có thì Mary sẽ có nhiều hơn Marco. Nhưng Mary chi 5 đô la. Mary có nhiều hơn Marco bao nhiêu tiền?",
+            "choices": [
+                "A. 252",
+                "B. 1881",
+                "C. 10",
+                "D. 1907"
+            ]
+        },
+        {
+            "id": 666,
+            "question": " Amy đạp xe 12 dặm ngày hôm qua. Nếu cô ấy đạp xe 3 dặm ít hơn gấp đôi so với ngày hôm qua thì cô ấy đã đạp xe tổng cộng bao nhiêu dặm trong hai ngày?",
+            "choices": [
+                "A. 1875",
+                "B. 1711",
+                "C. 1703",
+                "D. 33"
+            ]
+        },
+        {
+            "id": 3660,
+            "question": "Linda đang xây dựng một khách sạn mới có hai cánh. Cánh 1 có 9 tầng, mỗi tầng có 6 hội trường, mỗi tầng có 32 phòng. Cánh thứ hai có 7 tầng, mỗi tầng có 9 sảnh, mỗi sảnh có 40 phòng. Tổng cộng khách sạn có bao nhiêu phòng?",
+            "choices": [
+                "A. 1893",
+                "B. 327",
+                "C. 4248",
+                "D. 1329"
+            ]
+        },
+        {
+            "id": 2676,
+            "question": " Carlos mua một hộp 50 viên sôcôla. 3 trong số đó là kẹo caramen và số lượng nhiều gấp đôi là kẹo hạnh phúc. Số lượng nấm cục bằng số lượng kẹo caramen cộng với 6. Số sôcôla còn lại là những chùm đậu phộng. Nếu Carlos chọn ngẫu nhiên một viên sô-cô-la thì xác suất nó sẽ là một chùm đậu phộng là bao nhiêu?",
+            "choices": [
+                "A. 173",
+                "B. 1983",
+                "C. 64",
+                "D. 1770"
+            ]
+        },
+        {
+            "id": 398,
+            "question": " Billy làm 49 chiếc bánh sandwich; Kelyn kiếm được nhiều hơn thế 47 cái. Chloe kiếm được một phần tư số tiền mà Kelyn kiếm được. Họ đã làm tất cả bao nhiêu chiếc bánh sandwich?",
+            "choices": [
+                "A. 806",
+                "B. 169",
+                "C. 814",
+                "D. 405"
+            ]
+        },
+        {
+            "id": 1122,
+            "question": "Gia đình Arevalo đi ăn tối. Cá hồi khói có giá 40 USD, bánh mì kẹp thịt đen có giá 15 USD và katsu gà có giá 25 USD. Nếu hóa đơn bao gồm 10% phí dịch vụ và 5% tiền boa thì ông Arevalo sẽ nhận được bao nhiêu tiền lẻ từ 100 đô la của mình?",
+            "choices": [
+                "A. 1675",
+                "B. 8",
+                "C. 940",
+                "D. 846"
+            ]
+        },
+        {
+            "id": 1812,
+            "question": "Độ tuổi trung bình của con chó nhanh nhất thứ 1 và thứ 5 là bao nhiêu nếu con chó nhanh thứ nhất 10 tuổi, con chó nhanh thứ 2 nhỏ hơn con chó nhanh thứ nhất 2 tuổi, con chó nhanh thứ 3 lớn hơn con chó nhanh thứ 2 4 tuổi, Con chó nhanh thứ 4 bằng nửa tuổi con chó nhanh thứ 3, và con chó nhanh thứ 5 hơn con chó nhanh thứ 4 20 tuổi?",
+            "choices": [
+                "A. 204",
+                "B. 70",
+                "C. 798",
+                "D. 18"
+            ]
+        },
+        {
+            "id": 2825,
+            "question": " Kate có 2 quả bóng bay màu đỏ và 4 quả bóng bay màu xanh. Giả sử cô ấy thổi thêm 4 quả bóng bay, mỗi quả có hai quả màu đỏ và xanh, thì khả năng một quả được chọn ngẫu nhiên sẽ có màu đỏ là bao nhiêu?",
+            "choices": [
+                "A. 40",
+                "B. 434",
+                "C. 249",
+                "D. 1084"
+            ]
+        },
+        {
+            "id": 3147,
+            "question": " Jo đọc với tốc độ đều đặn. Cuốn sách hiện tại của cô có 210 trang. Bây giờ, cô ấy đang ở trang 90. Một giờ trước, cô ấy ở trang 60. Cô ấy sẽ đọc cuốn sách này trong bao nhiêu giờ?",
+            "choices": [
+                "A. 4",
+                "B. 1471",
+                "C. 9",
+                "D. 286"
+            ]
+        },
+        {
+            "id": 243,
+            "question": " Một nhà thờ có 100 thành viên tình nguyện nướng bánh quy cho người vô gia cư ở thị trấn địa phương của họ. Nếu mỗi thành viên nướng 10 tờ bánh quy và mỗi tờ có 16 chiếc bánh quy, hãy tính tổng số bánh quy mà các thành viên trong hội thánh đã nướng?",
+            "choices": [
+                "A. 892",
+                "B. 1256",
+                "C. 16000",
+                "D. 1916"
+            ]
+        },
+        {
+            "id": 536,
+            "question": " Annalize được mẹ cô sai đến cửa hàng mua 10 hộp khăn giấy Kleenex Ultra Soft Facial. Nếu mỗi hộp có 20 gói khăn giấy và mỗi gói chứa 100 khăn giấy được bán với giá 5 xu mỗi hộp, hãy tính tổng số tiền Annalise bỏ ra để mua 10 hộp.",
+            "choices": [
+                "A. 1496",
+                "B. 1646",
+                "C. 1000",
+                "D. 1843"
+            ]
+        },
+        {
+            "id": 3210,
+            "question": " Điểm trung bình của Jake đạt được trong bốn bài kiểm tra là 75. Nếu Jake đạt 80 điểm trong bài kiểm tra đầu tiên và 10 điểm nữa trong bài kiểm tra thứ hai, và số điểm bằng nhau trong bài kiểm tra thứ ba và thứ tư, hãy tính số điểm anh ấy đạt được trong bài kiểm tra thứ ba và thứ tư. bài kiểm tra thứ ba.",
+            "choices": [
+                "A. 65",
+                "B. 324",
+                "C. 1020",
+                "D. 63"
+            ]
+        },
+        {
+            "id": 1907,
+            "question": "Miles sẽ dành 1/6 thời gian mỗi ngày để đọc. Anh ấy sẽ đọc truyện tranh, tiểu thuyết đồ họa và tiểu thuyết. Anh ấy đọc 21 trang một giờ khi đọc tiểu thuyết, 30 trang một giờ khi đọc tiểu thuyết đồ họa và 45 trang một giờ khi đọc truyện tranh. Nếu anh ấy đọc mỗi trang trong 1/3 thời gian thì anh ấy đọc được bao nhiêu trang?",
+            "choices": [
+                "A. 128",
+                "B. 630",
+                "C. 733",
+                "D. 1705"
+            ]
+        },
+        {
+            "id": 2952,
+            "question": " Val có số xu nhiều gấp ba lần số niken. Nếu cô ấy tình cờ tìm thấy số tiền gấp đôi số tiền cô ấy có trong hộp kho báu của anh trai mình và lấy chúng cho riêng mình thì giá trị của số tiền cô ấy có là bao nhiêu, tính bằng đô la, nếu cô ấy có 20 đồng năm xu trước khi tìm thấy những đồng tiền mới từ anh trai cô ấy? hộp kho báu?",
+            "choices": [
+                "A. 1611",
+                "B. 1795",
+                "C. 294",
+                "D. 9"
+            ]
+        },
+        {
+            "id": 1037,
+            "question": " Tại một trận derby lăn, 4 đội đang thi đấu. Mỗi đội gồm có 10 thành viên và mỗi thành viên cần một đôi giày trượt patin để thi đấu và một đôi giày trượt khác để dự phòng. Chưa có đôi giày trượt nào có dây buộc, vì vậy mỗi thành viên được cung cấp 3 bộ dây buộc cho mỗi đôi giày trượt. Có bao nhiêu bộ dây buộc đã được trao?",
+            "choices": [
+                "A. 771",
+                "B. 1667",
+                "C. 240",
+                "D. 1328"
+            ]
+        },
+        {
+            "id": 2780,
+            "question": " Có một trăm vé được bán cho một trận bóng chuyền. Andrea bán được số vé gấp đôi Jude trong khi Sandra bán được 4 vé nhiều hơn một nửa số vé mà Jude bán được. Nếu Jude bán được 16 vé thì cần bán bao nhiêu vé?",
+            "choices": [
+                "A. 35",
+                "B. 1793",
+                "C. 733",
+                "D. 40"
+            ]
+        },
+        {
+            "id": 3274,
+            "question": " 40 ít hơn 10 lần tuổi của Diaz là 20 hơn 10 lần tuổi của Sierra. Nếu Sierra hiện 30 tuổi thì 20 năm sau Diaz sẽ bao nhiêu tuổi?",
+            "choices": [
+                "A. 244",
+                "B. 55",
+                "C. 56",
+                "D. 1824"
+            ]
+        },
+        {
+            "id": 2385,
+            "question": " Scout giao hàng tạp hóa vào cuối tuần. Mức lương cơ bản của anh ấy là 10 đô la một giờ. Anh ấy cũng kiếm được tiền boa $5,00 cho mỗi khách hàng mà anh ấy giao hàng tạp hóa. Vào thứ bảy, anh ấy làm việc 4 giờ và giao hàng tạp hóa cho 5 người. Chủ nhật anh làm việc 5 tiếng và giao hàng tạp hóa cho 8 người. Cuối tuần anh ấy kiếm được bao nhiêu?",
+            "choices": [
+                "A. 1646",
+                "B. 155",
+                "C. 1656",
+                "D. 1029"
+            ]
+        },
+        {
+            "id": 2162,
+            "question": " Trong một đợt giảm giá trên toàn trung tâm thương mại, Andre đã mua một chiếc máy chạy bộ trị giá 1350 USD với mức giảm giá 30% và 2 miếng đĩa nặng 45 pound với giá 50 USD mỗi chiếc. Andre đã trả bao nhiêu tiền cho máy chạy bộ và đĩa tập?",
+            "choices": [
+                "A. 1173",
+                "B. 1045",
+                "C. 1402",
+                "D. 131"
+            ]
+        },
+        {
+            "id": 3528,
+            "question": "Một lọ đựng đậu thạch có 14 viên kẹo xanh, 26 viên kẹo tím và 40 viên kẹo màu cam. Nếu có 200 viên kẹo trong lọ thì có bao nhiêu viên màu đỏ?",
+            "choices": [
+                "A. 1832",
+                "B. 1206",
+                "C. 120",
+                "D. 1961"
+            ]
+        },
+        {
+            "id": 273,
+            "question": " Queenie kiếm được 150 USD một ngày khi làm nhân viên bán thời gian. Cô kiếm thêm 5 USD mỗi giờ dưới dạng tiền làm thêm giờ. Queenie sẽ nhận được bao nhiêu khi làm việc 5 ngày với 4 giờ làm thêm?",
+            "choices": [
+                "A. 748",
+                "B. 1049",
+                "C. 1632",
+                "D. 770"
+            ]
+        },
+        {
+            "id": 3798,
+            "question": "Đối với một dự án, một người xây dựng đã mua 7 hộp bu lông, mỗi hộp chứa 11 bu lông. Anh ta mua 3 hộp hạt, mỗi hộp chứa 15 hạt. Anh ấy đã hoàn thành dự án sớm 6 ngày và còn sót lại 3 bu lông và 6 đai ốc. Anh ấy đã sử dụng bao nhiêu bu lông và đai ốc cho dự án?",
+            "choices": [
+                "A. 1198",
+                "B. 137",
+                "C. 113",
+                "D. 650"
+            ]
+        },
+        {
+            "id": 2188,
+            "question": "Jill bán bánh quy trinh sát nữ. Năm nay cô muốn bán được ít nhất 150 hộp bánh quy. Khách hàng đầu tiên của cô mua 5 hộp, khách hàng thứ hai mua gấp 4 lần khách hàng đầu tiên. Khách hàng thứ ba của cô mua nhiều bằng một nửa so với khách hàng thứ hai. Khách hàng thứ tư mua gấp 3 lần khách hàng thứ ba. Cuối cùng, khách hàng cuối cùng của cô mua 10. Jill còn lại bao nhiêu hộp để bán để đạt được mục tiêu bán hàng của mình?",
+            "choices": [
+                "A. 75",
+                "B. 83",
+                "C. 1077",
+                "D. 1383"
+            ]
+        },
+        {
+            "id": 543,
+            "question": " Tonya đang mua quà Giáng sinh cho các chị em của mình. Cô ấy có 2 chị gái và muốn chi số tiền như nhau cho mỗi người. Cô mua cho em gái mình 4 con búp bê giá 15 USD mỗi con. Cô dự định mua bộ lego cho chị gái mình. Chúng có giá 20 USD mỗi cái. Cô ấy mua bao nhiêu bộ Lego?",
+            "choices": [
+                "A. 1444",
+                "B. 3",
+                "C. 1826",
+                "D. 295"
+            ]
+        },
+        {
+            "id": 2013,
+            "question": "Jordan nhận thấy rằng có 2 chiếc ô tô trên đường lái xe của anh ấy, mỗi chiếc đều có 4 bánh. Có 2 chiếc xe đạp và một thùng rác, mỗi chiếc có 2 bánh. Ngoài ra còn có một chiếc xe ba bánh và một đôi giày trượt patin cũ. Có bao nhiêu bánh xe?",
+            "choices": [
+                "A. 1899",
+                "B. 25",
+                "C. 1555",
+                "D. 396"
+            ]
+        },
+        {
+            "id": 1847,
+            "question": " Baez có 25 viên bi. Cô ấy mất 20% trong số đó một ngày. Sau đó, một người bạn nhìn thấy cô ấy và đưa cho cô ấy số tiền gấp đôi Baez có sau khi cô ấy đánh mất chúng. Cuối cùng Baez có bao nhiêu viên bi?",
+            "choices": [
+                "A. 1069",
+                "B. 60",
+                "C. 193",
+                "D. 1605"
+            ]
+        },
+        {
+            "id": 494,
+            "question": " Mitzel đã tiêu 35% tiền tiêu vặt của mình. Nếu cô ấy tiêu 14$ thì tiền tiêu vặt của cô ấy còn lại là bao nhiêu?",
+            "choices": [
+                "A. 26",
+                "B. 928",
+                "C. 1508",
+                "D. 868"
+            ]
+        },
+        {
+            "id": 1379,
+            "question": " Chiều dài của một chiếc xe buýt màu đỏ gấp bốn lần chiều dài của một chiếc ô tô màu cam. Chiều dài của ô tô màu cam cũng ngắn hơn chiều dài của ô tô màu vàng là 3,5 lần. Nếu xe buýt màu vàng và xe buýt màu đỏ ngồi cạnh nhau thì người lái xe buýt màu vàng có thể xem xe buýt màu đỏ dài bao nhiêu mét?",
+            "choices": [
+                "A. 800",
+                "B. 1617",
+                "C. 689",
+                "D. 6"
+            ]
+        },
+        {
+            "id": 1046,
+            "question": " Tại rạp xiếc, chú hề có trên tay 3 chục quả bóng bay trên dây. 3 chàng trai và 12 cô gái mỗi người mua một quả bóng bay. Chú hề vẫn đang cầm bao nhiêu quả bóng bay?",
+            "choices": [
+                "A. 1609",
+                "B. 1169",
+                "C. 484",
+                "D. 21"
+            ]
+        },
+        {
+            "id": 3958,
+            "question": " Một cửa hàng bán bút chì và tẩy. Có một quy định là cứ mỗi cây bút chì bạn mua, bạn phải mua 2 cục tẩy có giá bằng 1/2 giá bút chì. Nếu họ bán 20 chiếc bút chì và kiếm được 80 USD thì giá một cục tẩy là bao nhiêu?",
+            "choices": [
+                "A. 1",
+                "B. 818",
+                "C. 997",
+                "D. 69"
+            ]
+        },
+        {
+            "id": 3834,
+            "question": " Hàng năm vào tháng Giêng, thủ thư Natalia sẽ thu dọn sách. Cô có 145 tiểu thuyết, 271 truyện tranh, 419 phim tài liệu và 209 album để lưu trữ. Cô ấy muốn đặt những thứ này vào những chiếc thùng có thể chứa được 9 món đồ. Natalia sẽ sử dụng bao nhiêu thùng?",
+            "choices": [
+                "A. 125",
+                "B. 1199",
+                "C. 54",
+                "D. 116"
+            ]
+        },
+        {
+            "id": 1013,
+            "question": " Amanda phải bán 80 vé trong 3 ngày để có thể kiếm đủ tiền đi nghỉ. Ngày đầu tiên cô bán cho 5 người bạn, mỗi người 4 vé. Ngày thứ hai bán được 32 vé. Cô ấy cần bán bao nhiêu vé vào ngày thứ ba để đạt được mục tiêu?",
+            "choices": [
+                "A. 28",
+                "B. 1797",
+                "C. 1084",
+                "D. 1541"
+            ]
+        },
+        {
+            "id": 156,
+            "question": " Hóa đơn hàng tháng của Maximoff là 60 USD/tháng. Hóa đơn hàng tháng của anh ấy tăng ba mươi phần trăm khi anh ấy bắt đầu làm việc tại nhà. Tổng hóa đơn hàng tháng của anh ấy khi làm việc tại nhà là bao nhiêu?",
+            "choices": [
+                "A. 538",
+                "B. 1316",
+                "C. 78",
+                "D. 960"
+            ]
+        },
+        {
+            "id": 3060,
+            "question": " Một tiền vệ lùi lại để ném 80 lần trong một trận đấu. 30% thời gian anh ấy không nhận được đường chuyền nào. Một nửa số lần không ném bóng là anh ta bị sa thải vì thua cuộc. Đã bao nhiêu lần tiền vệ bị sa thải vì thua trong trận đấu?",
+            "choices": [
+                "A. 1147",
+                "B. 295",
+                "C. 12",
+                "D. 333"
+            ]
+        },
+        {
+            "id": 120,
+            "question": " Đơn hàng của Carla tại Mcdonald's có giá 7,50 USD nhưng cô ấy có phiếu giảm giá 2,50 USD. Nếu cô ấy được giảm thêm 20% khi là người cao tuổi thì cô ấy phải trả tổng cộng bao nhiêu đô la cho đơn hàng của mình?",
+            "choices": [
+                "A. 1004",
+                "B. 4",
+                "C. 950",
+                "D. 376"
+            ]
+        },
+        {
+            "id": 3796,
+            "question": " Vlad cao 6 feet 3 inch. Em gái của anh ấy cao 2 feet 10 inch. Vlad cao hơn chị gái bao nhiêu inch?",
+            "choices": [
+                "A. 37",
+                "B. 1400",
+                "C. 1543",
+                "D. 41"
+            ]
+        },
+        {
+            "id": 3680,
+            "question": " John mua một cái ghế. Sau đó anh ta mua một cái bàn có giá gấp 3 lần giá ghế. Sau đó, anh ta mua một chiếc ghế dài có giá gấp 5 lần cái bàn. Nếu John trả 380 USD cho tất cả những món đồ này thì giá của chiếc ghế dài là bao nhiêu?",
+            "choices": [
+                "A. 1064",
+                "B. 556",
+                "C. 582",
+                "D. 300"
+            ]
+        },
+        {
+            "id": 2852,
+            "question": " Jordan có một ca khúc hit mới trên Spotify. Còn 3 tháng nữa là hết năm và cô hiện có 60.000 lượt nghe. Nếu số lượt nghe mỗi tháng tăng gấp đôi thì đến cuối năm bài hát sẽ có bao nhiêu lượt nghe?",
+            "choices": [
+                "A. 1757",
+                "B. 900000",
+                "C. 131",
+                "D. 477"
+            ]
+        },
+        {
+            "id": 3641,
+            "question": " Kara phải uống 4 ounce nước mỗi lần uống thuốc. Hướng dẫn dùng thuốc của cô là uống một viên ba lần một ngày. Cô làm theo hướng dẫn trong một tuần, nhưng sang tuần thứ hai, cô quên hai lần trong một ngày. Cô ấy đã uống bao nhiêu ounce nước cùng với thuốc trong hai tuần đó?",
+            "choices": [
+                "A. 160",
+                "B. 982",
+                "C. 1383",
+                "D. 202"
+            ]
+        },
+        {
+            "id": 2434,
+            "question": " Keiko đã gửi 111 tin nhắn vào tuần trước. Tuần này cô ấy gửi ít hơn 50 so với số tiền cô ấy gửi tuần trước. Keiko đã gửi bao nhiêu tin nhắn vào tuần trước và tuần này cộng lại?",
+            "choices": [
+                "A. 1949",
+                "B. 283",
+                "C. 88",
+                "D. 682"
+            ]
+        },
+        {
+            "id": 3815,
+            "question": " Mimi đã quyết định bắt đầu đi tập gym trở lại. Cuối tuần qua, cô chi 8.000 USD để mua giày thể thao và quần áo. Cô ấy chi cho giày thể thao Nike nhiều gấp ba lần số tiền cô ấy chi cho Adidas. Số tiền cô bỏ ra để mua Adidas chỉ bằng 1/5 giá của Skechers. Nếu số tiền mua giày thể thao Adidas của Mimi là 600 USD thì cô ấy đã chi bao nhiêu tiền cho quần áo?",
+            "choices": [
+                "A. 1347",
+                "B. 1007",
+                "C. 1228",
+                "D. 2600"
+            ]
+        },
+        {
+            "id": 1238,
+            "question": " Một tủ thư viện chứa năm cuộn giấy cổ. Cuộn giấy đầu tiên có niên đại 4080 năm. Nếu mỗi cuộn giấy cũ hơn cuộn trước một nửa số năm so với tuổi của cuộn cuối cùng thì cuộn thứ năm bao nhiêu tuổi?",
+            "choices": [
+                "A. 1415",
+                "B. 220",
+                "C. 1406",
+                "D. 20655"
+            ]
+        },
+        {
+            "id": 1396,
+            "question": "Số bị trừ là số liền trước của 18, số trừ là số lớn nhất có một chữ số. Vậy hiệu là:",
+            "choices": [
+                "A. 8",
+                "B. 9",
+                "C. 7",
+                "D. 6"
+            ]
+        },
+        {
+            "id": 1651,
+            "question": "Bà Brynlee đã giảm 20% giá các mặt hàng trong cửa hàng của mình sau khi chính quyền địa phương trợ cấp cho các doanh nghiệp nhỏ trong quận của bà. Nếu giá của một chiếc áo sơ mi trong cửa hàng là 60 USD và giá của chiếc áo khoác da là 90 USD, hãy tính số tiền mà Teagan sẽ trả khi mua 5 chiếc áo sơ mi và 10 chiếc áo khoác da với mức giá đã giảm.",
+            "choices": [
+                "A. 885",
+                "B. 960",
+                "C. 1611",
+                "D. 61"
+            ]
+        },
+        {
+            "id": 3643,
+            "question": " Nicholas mua số vải nhiều gấp sáu lần Kenneth. Nếu Kenneth trả 40$ cho một oz vải và mua 700oz, hãy tính số tiền mà Nicholas trả nhiều hơn Kenneth cho số vải mà anh ta mua.",
+            "choices": [
+                "A. 140000",
+                "B. 1374",
+                "C. 1059",
+                "D. 452"
+            ]
+        },
+        {
+            "id": 1120,
+            "question": " OpenAI tổ chức một cuộc thi chế tạo robot giới hạn trọng lượng của mỗi robot. Mỗi robot không được có trọng lượng tối thiểu quá gấp đôi và nặng hơn không dưới 5 pound so với robot tiêu chuẩn. Robot tiêu chuẩn nặng 100 pound. Trọng lượng tối đa của robot trong cuộc thi là bao nhiêu?",
+            "choices": [
+                "A. 136",
+                "B. 210",
+                "C. 799",
+                "D. 1561"
+            ]
+        },
+        {
+            "id": 3998,
+            "question": "Hoa bắt đầu giúp mẹ lau sàn nhà lúc 16 giờ rưỡi và lau xong lúc 17 giờ kém 5 phút. Vậy thời gian Hoa lau xong sàn nhà là:",
+            "choices": [
+                "A. 15 phút",
+                "B. 20 phút",
+                "C. 25 phút",
+                "D. 30 phút"
+            ]
+        },
+        {
+            "id": 17,
+            "question": " Mary và Ann đang đi trượt tuyết. Mary trượt xuống một ngọn đồi dài 630 feet với tốc độ 90 feet/phút. Ann trượt xuống một ngọn đồi dài 800 feet với tốc độ 40 feet/phút. Chuyến đi của Ann mất bao lâu hơn Mary?",
+            "choices": [
+                "A. 228",
+                "B. 13",
+                "C. 1212",
+                "D. 1684"
+            ]
+        },
+        {
+            "id": 2823,
+            "question": " Tamtam đã thu thập được tổng cộng 65 quả đạn pháo. Cô có 13 vỏ sò màu tím, 8 vỏ sò màu hồng, 18 vỏ sò màu vàng và 12 vỏ sò màu xanh. Các vỏ còn lại có màu cam. Có bao nhiêu vỏ cam?",
+            "choices": [
+                "A. 393",
+                "B. 197",
+                "C. 14",
+                "D. 479"
+            ]
+        },
+        {
+            "id": 1463,
+            "question": "Jason có một ngôi nhà xe ngựa mà anh ấy cho thuê. Anh ấy tính phí $50,00 mỗi ngày hoặc $500,00 trong 14 ngày. Eric muốn thuê căn nhà trong 20 ngày. Anh ta sẽ tốn bao nhiêu tiền?",
+            "choices": [
+                "A. 1033",
+                "B. 112",
+                "C. 800",
+                "D. 554"
+            ]
+        },
+        {
+            "id": 186,
+            "question": "Trong rạp chiếu phim, vé vào cửa là 8 đô la nhưng giá sẽ rẻ hơn 3 đô la nếu bạn xem phim trước 6 giờ chiều. Kath đưa 2 anh chị em và 3 người bạn của cô ấy đi xem phim bắt đầu lúc 4 giờ chiều. Kath sẽ trả bao nhiêu cho tất cả chi phí của họ? nhận vào?",
+            "choices": [
+                "A. 711",
+                "B. 1844",
+                "C. 208",
+                "D. 30"
+            ]
+        },
+        {
+            "id": 408,
+            "question": " Salaria đang trồng cam vào mùa hè này. Cô mua hai loại cây. Cô ấy có 50% cây A và 50% cây B. Cây A cho cô ấy 10 quả cam mỗi tháng và 60% là quả tốt. Cây B cho cô ấy 15 quả cam và 1/3 là quả tốt. Nếu cô ấy nhận được 55 quả cam ngon mỗi tháng thì cô ấy có tổng cộng bao nhiêu cây?",
+            "choices": [
+                "A. 10",
+                "B. 1584",
+                "C. 1080",
+                "D. 354"
+            ]
+        },
+        {
+            "id": 2373,
+            "question": " Mike thay lốp cho nhiều loại xe khác nhau. Anh ta thay tất cả lốp của 12 chiếc xe máy và tất cả lốp của 10 chiếc ô tô. Anh ấy đã thay bao nhiêu lốp xe?",
+            "choices": [
+                "A. 1025",
+                "B. 64",
+                "C. 1001",
+                "D. 1945"
+            ]
+        },
+        {
+            "id": 3361,
+            "question": " Levi và anh trai đang chơi bóng rổ. Levi đã ghi 8 bàn và anh trai anh ghi 12 bàn. Levi quyết tâm đánh bại anh trai mình ít nhất 5 rổ. Levi phải ghi thêm bao nhiêu bàn nữa để đạt được mục tiêu nếu anh trai anh ghi thêm 3 bàn nữa?",
+            "choices": [
+                "A. 306",
+                "B. 1740",
+                "C. 12",
+                "D. 1413"
+            ]
+        },
+        {
+            "id": 2192,
+            "question": " Aubriella đang đổ nước vào bể cá 50 gallon với tốc độ 1 gallon cứ sau 20 giây. Hỏi cô ấy phải đổ thêm bao nhiêu gallon vào bể để đầy bể nếu cô ấy đổ nước vào bể cá trong 6 phút?",
+            "choices": [
+                "A. 769",
+                "B. 752",
+                "C. 32",
+                "D. 1406"
+            ]
+        },
+        {
+            "id": 1075,
+            "question": "Jill đang sơn 20 móng chân và móng tay. Cô sơn 6 móng tay màu tím, 8 móng màu xanh và phần còn lại có sọc. Sự khác biệt về điểm phần trăm giữa tỷ lệ móng tay sơn màu xanh và tỷ lệ sơn sọc là bao nhiêu?",
+            "choices": [
+                "A. 1356",
+                "B. 988",
+                "C. 1591",
+                "D. 10"
+            ]
+        },
+        {
+            "id": 3095,
+            "question": " Janet thích sưu tập các nhân vật hành động khi rảnh rỗi. Cô hiện sở hữu 10 nhân vật hành động và bán 6 trong số đó để lấy 4 nhân vật ở tình trạng tốt hơn. Sau đó, anh trai cô đưa cho cô bộ sưu tập của anh ấy lớn gấp đôi bộ sưu tập mà Janet có vào thời điểm đó. Hiện tại cô ấy có tổng cộng bao nhiêu nhân vật hành động?",
+            "choices": [
+                "A. 769",
+                "B. 540",
+                "C. 24",
+                "D. 1974"
+            ]
+        },
+        {
+            "id": 1441,
+            "question": " Ba năm trước, Bethany gấp đôi tuổi em gái cô. 5 năm nữa em gái cô sẽ 16 tuổi. Bây giờ Bethany bao nhiêu tuổi?",
+            "choices": [
+                "A. 19",
+                "B. 1855",
+                "C. 1254",
+                "D. 112"
+            ]
+        },
+        {
+            "id": 1746,
+            "question": " Một trong những hoạt động trong giờ thể dục lớp 6 là lấy cân nặng trung bình của học sinh mỗi nhóm. Ở một nhóm, cân nặng trung bình của 5 bé gái là 45 kg trong khi cân nặng trung bình của 5 bé trai là 55 kg. Cân nặng trung bình của 10 học sinh trong nhóm đó là bao nhiêu?",
+            "choices": [
+                "A. 1750",
+                "B. 50",
+                "C. 1635",
+                "D. 77"
+            ]
+        },
+        {
+            "id": 33,
+            "question": " Bà nội muốn đặt 5 chiếc ba lô cá tính cho mỗi đứa cháu ngày đầu tiên đi học. Ba lô được giảm giá 20% trong tổng số $20,00 và việc khắc tên chúng trên bao bì sau sẽ có giá $12,00 mỗi chiếc. Ba lô sẽ có giá bao nhiêu?",
+            "choices": [
+                "A. 140",
+                "B. 123",
+                "C. 755",
+                "D. 1463"
+            ]
+        },
+        {
+            "id": 208,
+            "question": " Trong lớp học có 24 học sinh, một nửa đang đọc thầm và một phần ba đang chơi trò chơi board game. Những người còn lại đang làm bài tập về nhà. Có bao nhiêu học sinh đang làm bài tập về nhà?",
+            "choices": [
+                "A. 838",
+                "B. 4",
+                "C. 1884",
+                "D. 1782"
+            ]
+        },
+        {
+            "id": 3845,
+            "question": " Keith đạt được 3 điểm trong bài kiểm tra toán. Larry ghi được số điểm gấp 3 lần. Danny ghi được nhiều hơn Larry 5 điểm. Tìm tổng số điểm của ba học sinh đó.",
+            "choices": [
+                "A. 26",
+                "B. 1342",
+                "C. 550",
+                "D. 159"
+            ]
+        },
+        {
+            "id": 1295,
+            "question": " Một gia đình đang đi đến công viên giải trí. Vé người lớn có giá 22 USD và vé trẻ em có giá 7 USD. Gia đình gồm có 2 người lớn và 2 trẻ em. Tổng chi phí mà gia đình sẽ phải trả khi nhập học là bao nhiêu?",
+            "choices": [
+                "A. 168",
+                "B. 994",
+                "C. 58",
+                "D. 117"
+            ]
+        },
+        {
+            "id": 445,
+            "question": " Sol bán kẹo để quyên tiền cho đội bóng mềm của mình. Vào ngày đầu tiên, cô bán được 10 thanh kẹo và mỗi ngày sau đó bán thêm 4 thanh kẹo so với số tiền cô bán được ngày hôm trước. Nếu cô ấy bán sáu ngày một tuần và mỗi thanh kẹo có giá 10 xu thì cô ấy sẽ kiếm được bao nhiêu đô la trong một tuần?",
+            "choices": [
+                "A. 1533",
+                "B. 12",
+                "C. 1317",
+                "D. 781"
+            ]
+        },
+        {
+            "id": 3875,
+            "question": "Shelly và Sam thích đi câu cá kiếm ở biển sâu. Mỗi lần họ đi câu cá ở vùng biển sâu, Shelly câu được ít hơn năm con cá kiếm, và Sam bắt được ít hơn Shelly một con. Nếu Sam và Shelly đi câu cá 5 lần thì họ câu được tổng cộng bao nhiêu con cá kiếm?",
+            "choices": [
+                "A. 25",
+                "B. 1005",
+                "C. 610",
+                "D. 1058"
+            ]
+        },
+        {
+            "id": 3473,
+            "question": " Người giữ trẻ của Milly tính phí 16 USD/giờ. Milly đang cân nhắc chuyển sang một người giữ trẻ mới với mức phí 12 USD/giờ, nhưng cũng tính thêm 3 USD cho mỗi lần bọn trẻ la mắng cô. Nếu Milly thường thuê người giữ trẻ trong 6 giờ và các con của cô ấy thường la hét hai lần trong một lần trông trẻ, thì chi phí cho người giữ trẻ mới sẽ ít hơn bao nhiêu?",
+            "choices": [
+                "A. 690",
+                "B. 18",
+                "C. 98",
+                "D. 1301"
+            ]
+        },
+        {
+            "id": 3198,
+            "question": " Louis có 5 quả cam và 3 quả táo. Samantha có 8 quả cam và 7 quả táo. Nếu Marley có số cam gấp đôi Louis và số táo gấp ba lần Samantha thì Marley có tổng cộng bao nhiêu quả?",
+            "choices": [
+                "A. 1188",
+                "B. 1230",
+                "C. 1760",
+                "D. 31"
+            ]
+        },
+        {
+            "id": 1506,
+            "question": "Ông Cruz đã đến gặp bác sĩ để xin lời khuyên về cách tốt nhất để tăng cân. Bác sĩ khuyên anh nên bổ sung nhiều protein hơn trong bữa ăn và sống một lối sống lành mạnh nói chung. Sau một tháng làm theo lời khuyên của bác sĩ, ông Cruz đã tăng được 20 pound. Anh ấy tăng thêm 30 cân trong tháng thứ hai nhờ thói quen ăn uống lành mạnh hơn. Nếu ban đầu anh ấy nặng 70 pound thì sau hai tháng cân nặng của anh ấy là bao nhiêu?",
+            "choices": [
+                "A. 120",
+                "B. 257",
+                "C. 1257",
+                "D. 1569"
+            ]
+        },
+        {
+            "id": 1085,
+            "question": " Angela ngủ 6,5 tiếng mỗi đêm trong tháng 12. Cô quyết định nên ngủ nhiều hơn và bắt đầu ngủ 8,5 tiếng mỗi đêm vào tháng Giêng. Angela đã ngủ thêm được bao nhiêu vào tháng Giêng?",
+            "choices": [
+                "A. 62",
+                "B. 1507",
+                "C. 278",
+                "D. 1020"
+            ]
+        },
+        {
+            "id": 2867,
+            "question": "Lynne đã mua 7 cuốn sách về mèo và 2 cuốn sách về hệ mặt trời. Cô cũng mua 3 cuốn tạp chí. Mỗi cuốn sách có giá 7$ và mỗi tạp chí có giá 4$. Lynne đã chi tổng cộng bao nhiêu?",
+            "choices": [
+                "A. 169",
+                "B. 75",
+                "C. 1050",
+                "D. 1972"
+            ]
+        },
+        {
+            "id": 1310,
+            "question": " Ivan có một con heo đất có thể chứa được 100 xu và 50 xu. Ivan sẽ có bao nhiêu đô la nếu anh ta nhét đầy những đồng xu đó vào hai con heo đất của mình?",
+            "choices": [
+                "A. 12",
+                "B. 1333",
+                "C. 354",
+                "D. 18"
+            ]
+        },
+        {
+            "id": 1220,
+            "question": " Một câu lạc bộ có 30 thành viên gọi nước ép trái cây. Hai phần năm trong số họ gọi nước chanh. Một phần ba số thành viên còn lại gọi nước ép xoài, số còn lại gọi nước cam. Có bao nhiêu thành viên gọi nước cam?",
+            "choices": [
+                "A. 67",
+                "B. 116",
+                "C. 1730",
+                "D. 6"
+            ]
+        },
+        {
+            "id": 681,
+            "question": " Trong một bài kiểm tra Hình học, Madeline mắc 2 lỗi, số lỗi bằng một nửa so với Leo. Brent ghi 25 bàn và mắc nhiều hơn Leo 1 lỗi. Điểm của Madeline là bao nhiêu?",
+            "choices": [
+                "A. 902",
+                "B. 812",
+                "C. 28",
+                "D. 1023"
+            ]
+        },
+        {
+            "id": 3617,
+            "question": " Scott muốn làm và đông lạnh một mẻ ratatouille lớn. Tại chợ nông sản, anh ta mua 5 pound cà tím và 4 pound bí xanh với giá 2,00 USD một pound. Anh ta cần 4 pound cà chua với giá 3,50 đô la một pound. Hành tây có giá 1,00 đô la một pound và anh ta cần 3 pound. Sau đó, anh ta cần một pound húng quế được bán với giá 2,50 đô la một nửa pound. Nếu cái này mang lại 4 lít thì mỗi lít có giá bao nhiêu?",
+            "choices": [
+                "A. 10",
+                "B. 1968",
+                "C. 773",
+                "D. 658"
+            ]
+        },
+        {
+            "id": 2052,
+            "question": " Osborn đang thử nghiệm một cách mới để mặc quần áo vào buổi sáng trong những ngày đi học để cậu ấy đi nhanh hơn và có thể dậy muộn hơn. Anh ấy theo dõi thời gian của mình trong tuần và vào thứ Hai thì anh ấy mất 2 phút. Vào thứ ba, anh ấy phải mất 4 phút. Vào thứ Tư, anh ấy phải mất 3 phút. Vào thứ năm anh ấy phải mất 4 phút. Trước khi thứ Sáu đến, anh ấy nhìn lại cách ăn mặc cũ của mình và thấy rằng anh ấy mất trung bình 3 phút để mặc quần áo. Anh ấy phải mặc quần áo nhanh đến mức nào vào thứ Sáu để mức trung bình hàng tuần của anh ấy phù hợp với phương pháp cũ của anh ấy?",
+            "choices": [
+                "A. 2",
+                "B. 906",
+                "C. 570",
+                "D. 1023"
+            ]
+        },
+        {
+            "id": 1227,
+            "question": " Một chiếc xe tải có thể chở tối đa 13.500 kg vật tư. Hôm qua, xe tải chất đầy 100 thùng, mỗi thùng nặng 100 kg. Sau đó, nó được chất lên 10 thùng, mỗi thùng nặng 60 kg. Hôm nay, nó lại chất lên 50 bao, mỗi bao nặng 50 kg. Chúng ta vẫn có thể chất được bao nhiêu bao nặng 40 kg mỗi bao lên xe tải?",
+            "choices": [
+                "A. 10",
+                "B. 2000",
+                "C. 751",
+                "D. 1169"
+            ]
+        },
+        {
+            "id": 1605,
+            "question": " Quỹ lớp học của Karen chỉ có các tờ 10 USD và 20 USD, tổng cộng là 120 USD. Số lượng tờ 10 đô la gấp đôi số tờ 20 đô la. Họ có bao nhiêu tờ 20 đô la trong quỹ của mình?",
+            "choices": [
+                "A. 16",
+                "B. 1683",
+                "C. 348",
+                "D. 3"
+            ]
+        },
+        {
+            "id": 109,
+            "question": " Đồ chơi cho chó mà Samantha mua cho chú chó của mình là \"mua một tặng một nửa\" và tất cả đều có giá 12 USD mỗi món. Cô ấy mua 4 món đồ chơi. Cô ấy chi bao nhiêu cho đồ chơi cho chó?",
+            "choices": [
+                "A. 181",
+                "B. 1032",
+                "C. 36",
+                "D. 1868"
+            ]
+        },
+        {
+            "id": 1932,
+            "question": "Jeff muốn thuê một căn hộ để ở trong 5 năm tới cho đến khi học xong. Anh tìm được một căn hộ đẹp cạnh trường học, người chủ yêu cầu Jeff trả 300 USD mỗi tháng, Jeff đồng ý, và trong 3 năm đầu mọi chuyện ổn thỏa, nhưng sau đó người chủ muốn tăng giá mỗi tháng lên 350 USD. Jeff lại đồng ý và tiếp tục trả tiền cho đến khi tốt nghiệp. Jeff đã phải trả bao nhiêu tiền cho căn hộ trong suốt 5 năm?",
+            "choices": [
+                "A. 1566",
+                "B. 485",
+                "C. 19200",
+                "D. 901"
+            ]
+        },
+        {
+            "id": 1948,
+            "question": " Cameron đang in luận án của mình trong thư viện trường và có 400 tờ giấy A4. Nếu 40% số giấy tờ in ra không đạt chất lượng như mong muốn và cô tách chúng thành không hợp lệ thì tính tổng số giấy tờ hợp lệ.",
+            "choices": [
+                "A. 257",
+                "B. 229",
+                "C. 240",
+                "D. 506"
+            ]
+        },
+        {
+            "id": 2009,
+            "question": " John quyết định mua đồ ăn cho chó đủ dùng trong một tháng. Anh ta cho con chó của mình ăn 2 món mỗi ngày và mỗi món có giá 0,1 USD. Anh ta chi bao nhiêu cho việc chiêu đãi nếu tháng có 30 ngày?",
+            "choices": [
+                "A. 1450",
+                "B. 6",
+                "C. 1158",
+                "D. 1152"
+            ]
+        },
+        {
+            "id": 3516,
+            "question": " Iris đến trung tâm mua sắm để mua quần áo. Cô mua ba chiếc áo khoác giá 10 USD mỗi chiếc, hai chiếc quần short giá 6 USD mỗi chiếc và bốn chiếc quần giá 12 USD mỗi chiếc. Tổng cộng cô ấy đã chi bao nhiêu?",
+            "choices": [
+                "A. 1168",
+                "B. 63",
+                "C. 90",
+                "D. 1491"
+            ]
+        },
+        {
+            "id": 2043,
+            "question": "Vào thứ Hai, Matt làm việc 450 phút trong văn phòng của anh ấy. Vào thứ Ba, anh ấy làm việc bằng một nửa số phút anh ấy làm việc vào thứ Hai. Vào thứ Tư, anh ấy làm việc 300 phút. Hỏi anh ấy làm việc vào thứ Tư nhiều hơn thứ Ba bao nhiêu phút.",
+            "choices": [
+                "A. 782",
+                "B. 1516",
+                "C. 75",
+                "D. 1251"
+            ]
+        },
+        {
+            "id": 2367,
+            "question": " Fran nướng 50 chiếc bánh hạnh nhân đỏ và 40 chiếc bánh hạnh nhân xanh. Hỏi Fran sẽ còn lại bao nhiêu chiếc bánh hạnh nhân nếu Fran ăn 15 chiếc bánh hạnh nhân xanh và số bánh hạnh nhân đỏ gấp đôi số bánh hạnh nhân xanh?",
+            "choices": [
+                "A. 1749",
+                "B. 102",
+                "C. 45",
+                "D. 169"
+            ]
+        },
+        {
+            "id": 51,
+            "question": "James có 7 chiếc nhiều hơn 4 lần số Oreos Jordan có. Nếu có tổng cộng 52 chiếc bánh Oreo thì James có bao nhiêu chiếc?",
+            "choices": [
+                "A. 591",
+                "B. 62",
+                "C. 774",
+                "D. 43"
+            ]
+        },
+        {
+            "id": 3678,
+            "question": " Loại giấy gói lạ mắt của Harold có thể bọc được 5 hộp đựng áo sơ mi hoặc 3 hộp XL. Dịp nghỉ lễ sắp tới, anh còn 20 hộp áo cần gói và 12 hộp XL cần gói. Nếu mỗi cuộn giấy gói có giá $4,00 mỗi cuộn thì anh ta sẽ chi bao nhiêu để bọc tất cả các hộp?",
+            "choices": [
+                "A. 1762",
+                "B. 24",
+                "C. 32",
+                "D. 2"
+            ]
+        },
+        {
+            "id": 1694,
+            "question": " Bianca đã làm việc 12,5 giờ vào cuối tuần trước. Celeste làm việc với thời gian gấp đôi và McClain làm việc ít hơn Celeste 8,5 giờ. Hỏi 3 người làm tổng cộng bao nhiêu phút?",
+            "choices": [
+                "A. 1582",
+                "B. 3240",
+                "C. 1340",
+                "D. 154"
+            ]
+        },
+        {
+            "id": 73,
+            "question": " Eve muốn mua dụng cụ nấu ăn dành cho trẻ em cho 3 cháu gái của mình. Găng tay có giá $14,00 và tạp dề là $16,00. Một bộ 3 dụng cụ nấu ăn có giá $10,00 và một con dao nhỏ có số lượng gấp đôi số lượng dụng cụ nấu ăn. Cửa hàng đang có chương trình giảm giá 25% cho tất cả các dụng cụ nấu ăn. Eva sẽ chi bao nhiêu cho những món quà?",
+            "choices": [
+                "A. 1949",
+                "B. 135",
+                "C. 876",
+                "D. 168"
+            ]
+        },
+        {
+            "id": 1612,
+            "question": " An 6 tuổi. Anh trai Tom của cô bây giờ đã lớn gấp hai lần. Tổng số tuổi của họ 10 năm sau là bao nhiêu?",
+            "choices": [
+                "A. 980",
+                "B. 38",
+                "C. 91",
+                "D. 367"
+            ]
+        },
+        {
+            "id": 1766,
+            "question": "Oliver có 10 tờ 20 đô la và 3 tờ 5 đô la. William có 15 tờ 10 USD và 4 tờ 5 USD. Oliver có nhiều hơn William bao nhiêu tiền?",
+            "choices": [
+                "A. 405",
+                "B. 368",
+                "C. 45",
+                "D. 1832"
+            ]
+        },
+        {
+            "id": 1978,
+            "question": "Sally ăn 14 miếng khoai tây chiên vào bữa trưa. Bạn của cô, Mark, đã cho cô một phần ba trong số 36 miếng khoai tây chiên của anh ấy vào bữa trưa. Sau đó Sally đã ăn bao nhiêu khoai tây chiên cho bữa trưa?",
+            "choices": [
+                "A. 1346",
+                "B. 1011",
+                "C. 108",
+                "D. 26"
+            ]
+        },
+        {
+            "id": 3166,
+            "question": " Olivia mua hai bộ thẻ bóng rổ với giá 3 đô la mỗi bộ và 5 bộ thẻ bóng chày với giá 4 đô la mỗi bộ. Nếu cô ấy có một tờ 50 đô la thì cô ấy nhận được bao nhiêu tiền lẻ?",
+            "choices": [
+                "A. 1813",
+                "B. 1110",
+                "C. 1995",
+                "D. 24"
+            ]
+        },
+        {
+            "id": 2714,
+            "question": " Hôm qua, nơi trú ẩn động vật mới mở đã đón nhận 60 con vật đầu tiên. Họ có nhiều hơn 20 con mèo so với chó. Họ đã nuôi bao nhiêu con mèo?",
+            "choices": [
+                "A. 1656",
+                "B. 40",
+                "C. 1552",
+                "D. 746"
+            ]
+        },
+        {
+            "id": 2364,
+            "question": " Có 32 bàn trong một hội trường. Một nửa số bàn mỗi bàn có 2 ghế, 5 bàn mỗi bàn có 3 ghế và số còn lại mỗi bàn có 4 ghế. Tổng cộng có bao nhiêu chiếc ghế trong hội trường?",
+            "choices": [
+                "A. 322",
+                "B. 1083",
+                "C. 1578",
+                "D. 91"
+            ]
+        },
+        {
+            "id": 2120,
+            "question": " Hôm qua Elijah đã uống 8,5 lít cà phê. Emilio đã uống 9,5 lít nước ngày hôm qua. Hôm qua hai cậu bé đã uống bao nhiêu cốc chất lỏng?",
+            "choices": [
+                "A. 36",
+                "B. 1826",
+                "C. 789",
+                "D. 1988"
+            ]
+        },
+        {
+            "id": 157,
+            "question": " Gerald là một nhà sản xuất đồ nội thất. Anh ấy có 672 mảnh gỗ và anh ấy muốn làm một số bàn ghế. Cần 12 miếng gỗ để làm một cái bàn và 8 miếng gỗ để làm một cái ghế. Anh ta có thể làm được bao nhiêu cái ghế nếu anh ta làm 24 cái bàn?",
+            "choices": [
+                "A. 1807",
+                "B. 48",
+                "C. 881",
+                "D. 864"
+            ]
+        },
+        {
+            "id": 3961,
+            "question": " Công thức làm bánh cho 4 người cần 2 quả trứng và 4 cốc sữa. Tyler muốn sử dụng công thức này để làm một chiếc bánh cho tám người. Nếu Tyler có 3 quả trứng trong tủ lạnh thì Tyler cần mua thêm bao nhiêu quả trứng nữa?",
+            "choices": [
+                "A. 1",
+                "B. 618",
+                "C. 321",
+                "D. 1317"
+            ]
+        },
+        {
+            "id": 52,
+            "question": "Sam kiếm được 10 USD một giờ nhờ dạy kèm môn Toán. Trong tháng đầu tiên, anh kiếm được 200 USD; và trong tháng thứ hai, anh ấy kiếm được nhiều hơn tháng đầu tiên 150 đô la. Anh ấy đã dành bao nhiêu giờ để dạy kèm trong hai tháng?",
+            "choices": [
+                "A. 673",
+                "B. 1266",
+                "C. 1326",
+                "D. 55"
+            ]
+        },
+        {
+            "id": 3245,
+            "question": " Một giáo viên dạy 5 tiết một ngày và làm việc 24 ngày một tháng. Anh ta được trả 5 USD mỗi kỳ. nếu anh ấy đã làm việc được 6 tháng thì tổng cộng anh ấy đã kiếm được bao nhiêu?",
+            "choices": [
+                "A. 1654",
+                "B. 3600",
+                "C. 282",
+                "D. 37"
+            ]
+        },
+        {
+            "id": 223,
+            "question": "Một con sóc đã tích trữ 210 quả sồi để dùng cho ba tháng mùa đông. Nó chia đống thành ba phần, mỗi tháng một quả, sau đó lấy một ít từ mỗi phần ba, để lại 60 quả đấu cho mỗi tháng mùa đông. Con sóc kết hợp những thứ nó ăn trong tháng lạnh đầu tiên của mùa xuân trước khi cây nở hoa trở lại. Con sóc phải ăn bao nhiêu quả sồi vào đầu mùa xuân?",
+            "choices": [
+                "A. 221",
+                "B. 1898",
+                "C. 182",
+                "D. 30"
+            ]
+        },
+        {
+            "id": 2571,
+            "question": "Mary mua một gói 1500 miếng dán. Cô chia chúng cho Susan, Andrew và Sam theo tỷ lệ lần lượt là 1:1:3. Nếu Sam chia cho Andrew 2/3 phần của mình thì hiện tại Andrew có bao nhiêu miếng dán?",
+            "choices": [
+                "A. 1097",
+                "B. 1327",
+                "C. 108",
+                "D. 900"
+            ]
+        },
+        {
+            "id": 26,
+            "question": " Lisa đang làm bánh pizza. Cô ấy sử dụng 30 miếng pepperoni cho một chiếc bánh pizza, gấp đôi số miếng giăm bông và nhiều hơn 12 miếng xúc xích so với pepperoni. Nếu có 6 lát bánh pizza và mọi thứ được phân bố đều, thì tổng cộng có bao nhiêu miếng thịt trên mỗi lát bánh?",
+            "choices": [
+                "A. 22",
+                "B. 1471",
+                "C. 1087",
+                "D. 280"
+            ]
+        },
+        {
+            "id": 1571,
+            "question": " Lee đang tiết kiệm để mua một đôi giày thể thao mới có giá 90 USD. Anh ấy đã tiết kiệm được 15 USD. Anh ấy dự định bán những nhân vật hành động cũ của mình để làm phần còn lại. Nếu anh ấy bán 10 nhân vật hành động và vẫn còn lại 25 đô la sau khi mua giày thể thao thì anh ấy sẽ tính giá bao nhiêu cho mỗi nhân vật hành động?",
+            "choices": [
+                "A. 892",
+                "B. 133",
+                "C. 10",
+                "D. 710"
+            ]
+        },
+        {
+            "id": 1741,
+            "question": " Một cửa hàng nhỏ làm 50 tấm áp phích để quảng cáo sản phẩm của họ. Hai phần năm trong số đó là áp phích nhỏ trong khi một nửa là áp phích cỡ trung. Phần còn lại là những tấm áp phích lớn. Có bao nhiêu áp phích lớn?",
+            "choices": [
+                "A. 1376",
+                "B. 607",
+                "C. 5",
+                "D. 62"
+            ]
+        },
+        {
+            "id": 217,
+            "question": " Với tốc độ tăng trưởng hiện tại, một cây nào đó sẽ cao 80 feet sau một năm. Nếu cây phát triển với tốc độ như nhau mỗi tháng và hiện cao 20 feet thì tốc độ tăng trưởng hàng tháng của nó tính bằng feet là bao nhiêu?",
+            "choices": [
+                "A. 5",
+                "B. 836",
+                "C. 1797",
+                "D. 495"
+            ]
+        },
+        {
+            "id": 3852,
+            "question": " Mason là người phục vụ đồ ăn đang đóng gói đồ dùng bằng bạc và đĩa cho một sự kiện lớn của công ty. Mỗi miếng bạc nặng 4 ounce và có ba miếng bạc cho mỗi bộ. Mỗi tấm nặng 12 ounce và có hai tấm cho mỗi bộ. Nếu Mason cần đủ cài đặt cho 15 bảng với 8 cài đặt mỗi bảng, cộng với 20 cài đặt dự phòng trong trường hợp bị vỡ, thì tất cả các cài đặt sẽ nặng bao nhiêu ounce?",
+            "choices": [
+                "A. 1721",
+                "B. 5040",
+                "C. 1296",
+                "D. 287"
+            ]
+        },
+        {
+            "id": 2936,
+            "question": " Phil có 10 cuốn sách, mỗi cuốn dày 100 trang. Anh ấy chuyển đến một ngôi nhà mới và trong quá trình di chuyển, 2 cuốn sách đã bị thất lạc. Phil còn lại bao nhiêu trang sách?",
+            "choices": [
+                "A. 302",
+                "B. 800",
+                "C. 370",
+                "D. 386"
+            ]
+        },
+        {
+            "id": 2533,
+            "question": "Ariel bắt đầu đấu kiếm vào năm 2006. Nếu cô ấy sinh năm 1992 và đã chơi đấu kiếm được 16 năm thì bây giờ cô ấy bao nhiêu tuổi?",
+            "choices": [
+                "A. 30",
+                "B. 854",
+                "C. 1927",
+                "D. 616"
+            ]
+        },
+        {
+            "id": 359,
+            "question": "Amanda và gia đình cô ấy sẽ sơn lại tất cả các bức tường bên trong ngôi nhà của họ. Trước khi bắt đầu, họ muốn phân chia công việc. Vì tất cả các phòng trong nhà đều có số lượng và kích thước tường khác nhau nên họ nghĩ ra cách phân chia công việc công bằng nhất là đếm tất cả các bức tường trong nhà và ấn định số lượng bằng nhau cho mỗi người. Gia đình Amanda có 5 người, bao gồm cả cô. Có 9 phòng trong nhà. 5 phòng mỗi phòng có 4 bức tường. 4 phòng còn lại mỗi phòng có 5 bức tường. Công bằng mà nói, mỗi người trong gia đình Amanda nên sơn bao nhiêu bức tường?",
+            "choices": [
+                "A. 8",
+                "B. 96",
+                "C. 1837",
+                "D. 1386"
+            ]
+        },
+        {
+            "id": 1032,
+            "question": " Đội khúc côn cầu của Elsa vừa lọt vào vòng loại trực tiếp cùng với hai đội khác. Họ lọt vào vòng loại trực tiếp khi có được ba điểm cao nhất trong kỷ lục của mình. Các đội được 2 điểm nếu thắng, 1 điểm nếu hòa và 0 điểm nếu thua. Đội đứng đầu có 12 trận thắng và 4 trận hòa. Đội nhì bảng có 13 trận thắng và 1 trận hòa. Đội của Elsa có 8 trận thắng và 10 trận hòa. Số điểm trung bình của các đội tham dự vòng playoff là bao nhiêu?",
+            "choices": [
+                "A. 27",
+                "B. 751",
+                "C. 1481",
+                "D. 1387"
+            ]
+        },
+        {
+            "id": 3354,
+            "question": " Trong một chuyến đi tham quan bảo tàng địa phương, ông Gordon đã đưa số bé gái nhiều hơn bé trai 2/5 lần. Nếu xe buýt của họ có một tài xế và một trợ lý, và tổng số nam sinh trong chuyến đi là 50, hãy tính tổng số người trên xe vì giáo viên cũng lái xe cùng với các học sinh trên xe.",
+            "choices": [
+                "A. 952",
+                "B. 123",
+                "C. 1533",
+                "D. 1954"
+            ]
+        },
+        {
+            "id": 2399,
+            "question": " Holly nhận được 26 khoản tiền lương mỗi năm. Nếu cô ấy bỏ 100 đô la từ mỗi khoản tiền lương vào 401K của mình, công ty của cô ấy sẽ đóng góp tương ứng với khoản đóng góp đó là 6%. Cô và công ty đã góp bao nhiêu tiền vào số 401k của cô sau 1 năm?",
+            "choices": [
+                "A. 371",
+                "B. 2756",
+                "C. 704",
+                "D. 1707"
+            ]
+        },
+        {
+            "id": 2037,
+            "question": " Một cửa hàng ô tô mua lốp để thay tất cả lốp trên xe của mọi khách hàng. Họ mua lốp ngay khi xe được mang vào cửa hàng. Đã có bốn chiếc ô tô trong cửa hàng và sáu khách hàng khác đến cửa hàng suốt cả tuần. Một số khách hàng quyết định họ không muốn thay bất kỳ chiếc lốp nào, và hai khách hàng quyết định họ chỉ muốn thay một nửa số lốp. Họ không có lốp trong kho vào đầu tuần. Nếu cửa hàng còn 20 chiếc lốp vào cuối tuần, có bao nhiêu khách hàng quyết định không muốn thay lốp?",
+            "choices": [
+                "A. 1602",
+                "B. 1022",
+                "C. 1321",
+                "D. 4"
+            ]
+        },
+        {
+            "id": 2280,
+            "question": " Tôi đã mua 5 quả táo xanh ở cửa hàng. Giả sử người hàng xóm của tôi cho tôi số táo vàng gấp đôi số táo xanh mà tôi có, thì tôi đưa cho con trai tôi 1/5 tổng số táo; bây giờ tôi có bao nhiêu quả táo?",
+            "choices": [
+                "A. 1257",
+                "B. 1189",
+                "C. 12",
+                "D. 504"
+            ]
+        },
+        {
+            "id": 1672,
+            "question": " Tonya có $150,00 trong thẻ tín dụng của cô ấy. Nếu cô ấy để lại số dư trong thẻ vào cuối tháng, cô ấy sẽ bị tính lãi 20%. Nếu cô ấy thanh toán $50,00 bằng thẻ của mình thì số dư mới sẽ là bao nhiêu?",
+            "choices": [
+                "A. 519",
+                "B. 503",
+                "C. 120",
+                "D. 1369"
+            ]
+        },
+        {
+            "id": 3710,
+            "question": " 48 đứa trẻ đang cố gắng chia nhau một gói kẹo. Sau khi lấy 4 cái kẹo, mỗi cái vẫn còn lại 1/3 số kẹo ban đầu. Hỏi số kẹo ban đầu trong gói là bao nhiêu?",
+            "choices": [
+                "A. 185",
+                "B. 896",
+                "C. 1452",
+                "D. 288"
+            ]
+        },
+        {
+            "id": 1446,
+            "question": "Vào ngày đầu tiên của cuộc hành trình, Skipper cho con tàu của mình đi được nửa đường đến đích bằng cách đi về hướng đông trong 20 giờ với tốc độ 30 km một giờ, sau đó tắt động cơ tàu để chúng nguội. Nhưng khi động cơ tắt, một cơn bão gió đã thổi con tàu của anh ta lùi về hướng Tây. Sau cơn bão, Skipper đã sử dụng thiết bị GPS của mình để xác định vị trí mới của con tàu và anh phát hiện ra rằng mình chỉ còn 1/3 quãng đường là đến đích. Con tàu đã bị bão thổi bay bao nhiêu km về hướng Tây?",
+            "choices": [
+                "A. 1215",
+                "B. 200",
+                "C. 549",
+                "D. 1455"
+            ]
+        },
+        {
+            "id": 3843,
+            "question": " Henrietta đang sơn lại ngôi nhà của mình. Các bức tường trong phòng khách chiếm 600 feet vuông. Cô ấy có ba phòng ngủ. Các bức tường trong mỗi phòng ngủ chiếm 400 feet vuông. Nếu một gallon sơn có thể phủ được 600 feet vuông thì Henrietta cần bao nhiêu gallon sơn để sơn ngôi nhà của mình?",
+            "choices": [
+                "A. 1512",
+                "B. 463",
+                "C. 546",
+                "D. 3"
+            ]
+        },
+        {
+            "id": 520,
+            "question": " Monica đã đọc 16 cuốn sách vào năm ngoái. Năm nay, cô đọc số sách gấp đôi năm ngoái. Năm tới, cô ấy muốn đọc gấp 5 cuốn sách cô ấy đã đọc trong năm nay. Monica sẽ đọc bao nhiêu cuốn sách vào năm tới?",
+            "choices": [
+                "A. 69",
+                "B. 347",
+                "C. 649",
+                "D. 1058"
+            ]
+        },
+        {
+            "id": 302,
+            "question": " Jean đang cố gắng động viên bản thân để viết bài luận cuối cùng của mình. Cô ấy ăn một chiếc bánh rán trên 2 trang cô ấy viết. Nếu cô ấy viết 12 trang và mỗi chiếc bánh rán có 150 calo thì cô ấy ăn bao nhiêu calo?",
+            "choices": [
+                "A. 900",
+                "B. 850",
+                "C. 603",
+                "D. 1546"
+            ]
+        },
+        {
+            "id": 961,
+            "question": "Sam ghi nhớ nhiều hơn sáu chữ số của số pi so với Carlos ghi nhớ. Mina ghi nhớ số pi nhiều gấp sáu lần so với Carlos ghi nhớ. Nếu Mina ghi nhớ 24 chữ số của số pi thì Sam ghi nhớ được bao nhiêu chữ số?",
+            "choices": [
+                "A. 10",
+                "B. 622",
+                "C. 1760",
+                "D. 1499"
+            ]
+        },
+        {
+            "id": 2282,
+            "question": "Một xe máy đi quãng đường dài 90km mất 2 giờ 15 phút. Vận tốc của xe máy là:",
+            "choices": [
+                "A. 40 km/giờ",
+                "B. 202,5 km/giờ",
+                "C. 30 km/giờ",
+                "D. 36 km/giờ"
+            ]
+        },
+        {
+            "id": 1646,
+            "question": "Hôm qua Sonny đã nhận được 45 hộp bánh quy từ bạn của anh ấy. Anh ấy đưa cho anh trai 12, cho em gái 9 và anh ấy đưa cho em họ 7. Hỏi anh ấy còn lại bao nhiêu hộp bánh quy?",
+            "choices": [
+                "A. 87",
+                "B. 1993",
+                "C. 1631",
+                "D. 17"
+            ]
+        },
+        {
+            "id": 1341,
+            "question": "Hội chợ cấp bang tính phí 5 USD một vé. Hai phần ba số người mua vé sẽ mua đồ ăn chiên giòn với giá 8 đô la, một phần tư sẽ đi du lịch với giá 4 đô la và một phần tám sẽ chi 15 đô la cho một món quà lưu niệm. Hội chợ đã kiếm được 2520 đô la từ vé. Họ đã kiếm được tất cả bao nhiêu đô la?",
+            "choices": [
+                "A. 6657",
+                "B. 528",
+                "C. 764",
+                "D. 85"
+            ]
+        },
+        {
+            "id": 992,
+            "question": "John và James quyết định tổ chức một buổi khiêu vũ. John đã nhảy trong 3 giờ và sau đó là 5 giờ nữa sau khi nghỉ giải lao 1 giờ. James đã nhảy trong suốt thời gian John nhảy và nghỉ ngơi, sau đó thêm 1/3 giờ nữa. Thời gian khiêu vũ tổng hợp của họ là bao lâu nếu không bao gồm thời gian nghỉ giải lao của John?",
+            "choices": [
+                "A. 657",
+                "B. 331",
+                "C. 1546",
+                "D. 20"
+            ]
+        },
+        {
+            "id": 1017,
+            "question": " Matilda mua một chiếc điện thoại thông minh với giá 300 USD. Sau đó, cô quyết định sẽ không sử dụng nó và bán nó với giá 255 USD. Cô ấy đã mất bao nhiêu phần trăm chi phí ban đầu?",
+            "choices": [
+                "A. 793",
+                "B. 343",
+                "C. 1990",
+                "D. 15"
+            ]
+        },
+        {
+            "id": 547,
+            "question": "Allie, Rob và Allyn mỗi người mua một bát nho. Bát của Allie chứa nhiều hơn hai quả nho so với bát của Rob. Bát của Allyn chứa nhiều hơn bốn quả nho so với bát của Allie. Nếu bát của Rob chứa 25 quả nho thì tổng số nho trong cả ba bát là bao nhiêu?",
+            "choices": [
+                "A. 956",
+                "B. 83",
+                "C. 841",
+                "D. 1235"
+            ]
+        },
+        {
+            "id": 1903,
+            "question": " Trong một nhà máy có 3 máy làm việc 23 giờ/ngày. Người chủ quyết định mua chiếc máy thứ tư, chiếc máy chỉ hoạt động 12 giờ một ngày. Một máy có thể sản xuất 2 kg nguyên liệu mỗi giờ. Nhà máy bán nguyên liệu sản xuất với giá 50 USD/1 kg. Nhà máy này có thể kiếm được bao nhiêu trong một ngày?",
+            "choices": [
+                "A. 291",
+                "B. 524",
+                "C. 8100",
+                "D. 1667"
+            ]
+        },
+        {
+            "id": 916,
+            "question": " Một quả bóng đặc biệt tăng 2/5 thể tích trước đó của nó mỗi giờ khi được đặt dưới nước. Nếu thể tích ban đầu của nó là 500cm³ thì thể tích của nó sau 2 giờ ở dưới nước sẽ bằng bao nhiêu?",
+            "choices": [
+                "A. 980",
+                "B. 561",
+                "C. 1842",
+                "D. 1769"
+            ]
+        },
+        {
+            "id": 2309,
+            "question": " Điện thoại di động của Nick ban đầu trống nhưng sau đó được sạc trong 45 phút và đạt mức sạc 25%. Điện thoại di động phải sạc bao lâu nữa để đạt mức sạc 100%?",
+            "choices": [
+                "A. 135",
+                "B. 1253",
+                "C. 1155",
+                "D. 1230"
+            ]
+        },
+        {
+            "id": 818,
+            "question": " Richard và Sarah sẽ phải mất 3 năm để tiết kiệm đủ tiền trả trước cho một căn nhà với mức giá hiện tại. Nếu số tiền trả trước cho căn nhà là 108.000 USD, hãy tính số tiền mỗi người tiết kiệm được mỗi tháng nếu họ chia sẻ số tiền tiết kiệm hàng tháng.",
+            "choices": [
+                "A. 571",
+                "B. 1500",
+                "C. 263",
+                "D. 474"
+            ]
+        },
+        {
+            "id": 731,
+            "question": "Caden có bốn lọ đựng tiền xu. Một lọ đồng xu, một lọ đồng năm xu, một lọ đồng xu và một lọ đồng xu. Anh ta có số xu gấp đôi số xu anh ta có. Anh ta có số niken gấp năm lần số tiền anh ta có. Anh ta có số xu gấp ba lần số niken. Nếu anh ta có 120 xu thì anh ta có bao nhiêu tiền?",
+            "choices": [
+                "A. 1808",
+                "B. 12",
+                "C. 8",
+                "D. 196"
+            ]
+        },
+        {
+            "id": 2488,
+            "question": " James bước sang tuổi 23 cùng lúc John bước sang tuổi 35. Tim kém John gấp đôi tuổi John 5 tuổi. Nếu Tim 79 tuổi thì James bao nhiêu tuổi?",
+            "choices": [
+                "A. 1069",
+                "B. 25",
+                "C. 980",
+                "D. 1737"
+            ]
+        },
+        {
+            "id": 2117,
+            "question": " Angela cao hơn Helen 4 cm. Helen cao hơn Amy 3 cm. Nếu Amy cao 150 cm thì Angela cao bao nhiêu cm?",
+            "choices": [
+                "A. 157",
+                "B. 420",
+                "C. 1655",
+                "D. 1779"
+            ]
+        },
+        {
+            "id": 259,
+            "question": "Một lớp 5 đi tham quan vườn thú, lớp 10 học sinh của em sáp nhập vào một lớp khác có cùng số học sinh. 5 phụ huynh đề nghị làm người giám hộ và 2 giáo viên của cả hai lớp cũng sẽ có mặt. Khi ngày học kết thúc, học sinh có thể chọn về nhà và 10 em ra về. Hai trong số những người đi kèm là phụ huynh trong nhóm đó nên họ cũng rời đi. Có bao nhiêu cá thể còn lại ở sở thú?",
+            "choices": [
+                "A. 1931",
+                "B. 15",
+                "C. 1326",
+                "D. 1630"
+            ]
+        },
+        {
+            "id": 1200,
+            "question": " Một cửa hàng quà tặng bán những chiếc vòng tay với giá 15 USD mỗi chiếc, một chiếc vòng cổ hình trái tim bằng vàng với giá 10 USD và một cốc cà phê cá nhân với giá 20 USD. Raine mua ba chiếc vòng tay, hai chiếc dây chuyền hình trái tim bằng vàng và một cốc cà phê cho bạn bè. Raine sẽ nhận lại bao nhiêu tiền lẻ nếu cô ấy đưa tờ một trăm đô la?",
+            "choices": [
+                "A. 699",
+                "B. 1016",
+                "C. 15",
+                "D. 1416"
+            ]
+        },
+        {
+            "id": 1142,
+            "question": " Một công ty vệ sinh sản xuất hai bình xịt khử trùng. Một lần xịt tiêu diệt 50% vi trùng và một lần phun khác tiêu diệt 25% vi trùng. Tuy nhiên, 5% số vi trùng họ tiêu diệt là những vi trùng giống nhau. Bao nhiêu phần trăm vi trùng sẽ còn lại sau khi sử dụng cả hai loại thuốc xịt khử trùng cùng nhau?",
+            "choices": [
+                "A. 30",
+                "B. 1981",
+                "C. 502",
+                "D. 988"
+            ]
+        },
+        {
+            "id": 1467,
+            "question": " Nelly muốn mua pizza cho mình và 14 người bạn. Mỗi chiếc bánh pizza có giá 12 USD và có thể cho 3 người ăn. Nếu Nelly kiếm được 4 đô la một đêm nhờ trông trẻ nhà hàng xóm, cô ấy sẽ phải trông trẻ bao nhiêu đêm để đủ tiền mua pizza?",
+            "choices": [
+                "A. 15",
+                "B. 227",
+                "C. 947",
+                "D. 866"
+            ]
+        },
+        {
+            "id": 560,
+            "question": " Một số người bạn đã đi leo núi trong 3,5 giờ. Họ đã đi được 21 km trong thời gian đó. Birgit nhanh hơn thời gian trung bình 4 phút/km. Nếu Birgit giữ nguyên tốc độ như vậy thì cô ấy sẽ mất bao nhiêu phút để đi được 8 km?",
+            "choices": [
+                "A. 293",
+                "B. 1216",
+                "C. 48",
+                "D. 239"
+            ]
+        },
+        {
+            "id": 1814,
+            "question": " Francie tiết kiệm tiền tiêu vặt của mình trong vài tuần. Cô nhận được khoản trợ cấp 5 USD một tuần trong 8 tuần. Sau đó, bố cô tăng trợ cấp cho cô và cô nhận được 6 đô la một tuần trong 6 tuần. Francie dùng một nửa số tiền để mua quần áo mới. Với số tiền còn lại, cô mua một trò chơi điện tử có giá 35 USD. Francie còn lại bao nhiêu tiền sau khi mua trò chơi điện tử?",
+            "choices": [
+                "A. 37",
+                "B. 3",
+                "C. 667",
+                "D. 1906"
+            ]
+        },
+        {
+            "id": 2010,
+            "question": " Amber đến cửa hàng và mua 10 cuộn giấy vệ sinh, 7 cuộn khăn giấy và 3 hộp khăn giấy. Một cuộn giấy vệ sinh có giá 1,5 USD. Một cuộn khăn giấy có giá 2 USD. Nếu tổng chi phí của tất cả các mặt hàng là $35 thì một hộp khăn giấy có giá bao nhiêu?",
+            "choices": [
+                "A. 1807",
+                "B. 1121",
+                "C. 469",
+                "D. 2"
+            ]
+        },
+        {
+            "id": 2209,
+            "question": "Mẹ làm 2 tá bánh hạnh nhân và đặt lên quầy bếp cho nguội. Cha ngửi mùi bánh hạnh nhân, vào bếp ăn 8 chiếc. Sau đó, con gái của họ, Mooney, đi lang thang vào bếp và ăn 4 chiếc bánh hạnh nhân. Sáng hôm sau, Mẹ làm thêm hai chục chiếc bánh hạnh nhân nữa và thêm chúng vào số bánh còn lại của ngày hôm trước. Sau đó, có bao nhiêu bánh hạnh nhân trên quầy?",
+            "choices": [
+                "A. 10",
+                "B. 36",
+                "C. 1283",
+                "D. 766"
+            ]
+        },
+        {
+            "id": 2127,
+            "question": "Ron là thành viên của câu lạc bộ sách cho phép mỗi thành viên thay phiên nhau chọn một cuốn sách mới mỗi tuần. Câu lạc bộ bao gồm ba cặp vợ chồng và năm người độc thân cùng với vợ chồng Ron. Ron được chọn một cuốn sách mới bao nhiêu lần một năm?",
+            "choices": [
+                "A. 4",
+                "B. 1212",
+                "C. 957",
+                "D. 1768"
+            ]
+        },
+        {
+            "id": 2244,
+            "question": " Hendricks mua một cây đàn guitar với giá 200 đô la, thấp hơn 20% so với giá Gerald mua cây đàn tương tự. Gerald đã trả bao nhiêu cho cây đàn guitar của mình?",
+            "choices": [
+                "A. 1347",
+                "B. 448",
+                "C. 1568",
+                "D. 250"
+            ]
+        },
+        {
+            "id": 3836,
+            "question": " John mua 20 bánh xà phòng, mỗi bánh nặng 1,5 pound với giá 0,5 USD một pound. Anh ấy đã chi bao nhiêu tiền cho xà phòng?",
+            "choices": [
+                "A. 15",
+                "B. 1502",
+                "C. 702",
+                "D. 1551"
+            ]
+        },
+        {
+            "id": 3686,
+            "question": "Hawkeye đang lái xe đến chỗ dì của mình. Anh ta phải sạc pin với giá 3,5 USD mỗi lần sạc. Nếu anh ta sạc pin bốn lần và số tiền dự trù cho việc sạc pin của anh ta là 20 đô la thì anh ta còn lại bao nhiêu tiền khi đến nhà dì?",
+            "choices": [
+                "A. 6",
+                "B. 829",
+                "C. 377",
+                "D. 1459"
+            ]
+        },
+        {
+            "id": 295,
+            "question": " Hôm nay Geoff mua 2 đôi giày thể thao và chi 60 USD cho cả hai. Ngày mai, anh ấy sẽ chi tiêu cho giày thể thao gấp 4 lần so với ngày thứ Hai. Thứ Tư, anh ấy sẽ chi tiêu cho giày thể thao gấp 5 lần so với thứ Hai. Geoff sẽ chi bao nhiêu cho giày thể thao trong ba ngày này?",
+            "choices": [
+                "A. 600",
+                "B. 923",
+                "C. 1937",
+                "D. 1881"
+            ]
+        },
+        {
+            "id": 2929,
+            "question": "Erin đặt 16 dụng cụ uốn tóc vào tóc. Một phần tư số dụng cụ uốn tóc nhỏ màu hồng. Số dụng cụ uốn màu xanh vừa nhiều gấp đôi số dụng cụ uốn màu hồng. Phần còn lại là những dụng cụ uốn lớn màu xanh lá cây. Erin có bao nhiêu dụng cụ uốn lớn màu xanh lá cây trên tóc cô ấy?",
+            "choices": [
+                "A. 4",
+                "B. 351",
+                "C. 391",
+                "D. 1634"
+            ]
+        },
+        {
+            "id": 3130,
+            "question": " Nancy muốn làm bánh quy bơ đậu phộng cho buổi họp mặt gia đình nhưng em họ của cô lại bị dị ứng với đậu phộng. Thay vào đó, cô quyết định làm bánh quy bơ hạnh nhân. Một lọ bơ hạnh nhân có giá gấp ba lần một lọ bơ đậu phộng. Phải mất nửa lọ để làm một mẻ bánh quy. Một lọ bơ đậu phộng có giá 3 USD. Mỗi mẻ làm bánh quy bơ hạnh nhân thay vì bánh quy bơ đậu phộng tốn thêm bao nhiêu đô la?",
+            "choices": [
+                "A. 697",
+                "B. 1433",
+                "C. 3",
+                "D. 825"
+            ]
+        },
+        {
+            "id": 134,
+            "question": " Tony có thể chạy một dặm nhanh gấp đôi Tina, người với thời gian 6 phút là người chạy nhanh bằng 1/3 so với Tom. Tất cả ba lần số dặm của họ khi được cộng lại với nhau là bao nhiêu?",
+            "choices": [
+                "A. 597",
+                "B. 1722",
+                "C. 11",
+                "D. 1359"
+            ]
+        },
+        {
+            "id": 2943,
+            "question": " Ralph sẽ tập chơi tennis với một chiếc máy bắn bóng tennis để Ralph đánh. Anh ta tải vào máy 175 quả bóng tennis để bắt đầu. Trong số 100 quả bóng đầu tiên, anh ấy đánh trúng được 2/5 trong số đó. Trong số 75 quả bóng tennis tiếp theo, anh ta đánh được 1/3 trong số đó. Trong số những quả bóng tennis, có bao nhiêu quả bóng mà Ralph không đánh trúng?",
+            "choices": [
+                "A. 1540",
+                "B. 714",
+                "C. 110",
+                "D. 743"
+            ]
+        },
+        {
+            "id": 603,
+            "question": " Krista bắt đầu nuôi gà. Cô có 10 con gà mái đẻ trứng. Cô ấy bán những quả trứng với giá 3 đô la một tá. Trong bốn tuần, cô đã bán được số trứng trị giá 120 USD. Nếu cô ấy bán hết số trứng mà gà mái đẻ ra thì mỗi con gà mái đẻ được bao nhiêu quả trứng trong một tuần?",
+            "choices": [
+                "A. 1481",
+                "B. 1490",
+                "C. 12",
+                "D. 1436"
+            ]
+        },
+        {
+            "id": 1940,
+            "question": " Carol bán vé xem triển lãm. Trong ba ngày cô đã bán được số vé trị giá 960 USD. Một vé có giá 4 USD. Trung bình cô ấy đã bán được bao nhiêu vé trong một trong ba ngày này?",
+            "choices": [
+                "A. 80",
+                "B. 1327",
+                "C. 1123",
+                "D. 1139"
+            ]
+        },
+        {
+            "id": 266,
+            "question": " Kim có 4 tá áo sơ mi. Cô ấy để cho em gái mình có 1/3 trong số đó. Cô ấy còn lại bao nhiêu chiếc áo sơ mi?",
+            "choices": [
+                "A. 269",
+                "B. 451",
+                "C. 1972",
+                "D. 32"
+            ]
+        },
+        {
+            "id": 3626,
+            "question": " Mark muốn đặt mua một đôi dép có thêu tên viết tắt của cô ấy bên trên cho vợ. Đôi dép này hiện có giá $50,00 và được giảm giá 10%. Chi phí thêu sẽ là $5,50 cho mỗi chiếc giày và phí vận chuyển là $10,00. Đôi dép sẽ có giá bao nhiêu?",
+            "choices": [
+                "A. 961",
+                "B. 1807",
+                "C. 66",
+                "D. 1379"
+            ]
+        },
+        {
+            "id": 371,
+            "question": " Ivan có 10 đô la và chi 1/5 số đó cho những chiếc bánh nướng nhỏ. Sau đó anh ta tiêu một số tiền vào một cốc sữa lắc và chỉ còn lại 3 đô la. Sữa lắc giá bao nhiêu?",
+            "choices": [
+                "A. 1010",
+                "B. 5",
+                "C. 982",
+                "D. 274"
+            ]
+        },
+        {
+            "id": 1870,
+            "question": " Bob có thể đập 10 con hàu trong 5 phút. Hỏi anh ta có thể đập được bao nhiêu con hàu trong 2 giờ?",
+            "choices": [
+                "A. 489",
+                "B. 1063",
+                "C. 1787",
+                "D. 240"
+            ]
+        },
+        {
+            "id": 2273,
+            "question": " Quincy vừa mua một chiếc ô tô với khoản vay 5 năm không lãi suất. Anh ấy đã đặt cọc $5.000,00 làm khoản trả trước và thanh toán hàng tháng là $250,00. Giá của chiếc xe là bao nhiêu?",
+            "choices": [
+                "A. 1832",
+                "B. 20000",
+                "C. 647",
+                "D. 1692"
+            ]
+        },
+        {
+            "id": 1036,
+            "question": " Madeline muốn trồng 20 bông hoa trong vườn của mình. Cô cho rằng khoảng một nửa số hạt cô trồng sẽ chết trước khi chúng nở hoa. Tuy nhiên, shop hoa chỉ bán gói hạt giống 25 hạt/gói. Mỗi gói là $5. Madeline sẽ chi bao nhiêu tiền mua hạt giống để trồng 20 bông hoa?",
+            "choices": [
+                "A. 175",
+                "B. 10",
+                "C. 1340",
+                "D. 1393"
+            ]
+        },
+        {
+            "id": 757,
+            "question": " Người giao bánh pizza có 12 chiếc bánh pizza để giao. Nếu hai trong số các điểm dừng dành cho đơn hàng hai chiếc pizza và phần còn lại dành cho những chiếc pizza đơn lẻ, thì trung bình người giao hàng cần bao nhiêu phút cho mỗi điểm dừng để giao tất cả số pizza trong 40 phút?",
+            "choices": [
+                "A. 4",
+                "B. 98",
+                "C. 237",
+                "D. 149"
+            ]
+        },
+        {
+            "id": 1433,
+            "question": " Hai con nhím tìm được ba giỏ, mỗi giỏ đựng 900 quả dâu tây. Sau đó, mỗi con nhím ăn số lượng dâu tây bằng nhau. Nếu còn lại 2/9 số dâu tây trong tổng số dâu tây ở đó, hãy tính tổng số dâu tây mà mỗi con nhím đã ăn.",
+            "choices": [
+                "A. 776",
+                "B. 1050",
+                "C. 1298",
+                "D. 1827"
+            ]
+        },
+        {
+            "id": 614,
+            "question": "Thể tích của hình lập phương có cạnh 2,1cm là:",
+            "choices": [
+                "A. 4,41cm3",
+                "B. 44,1cm3",
+                "C. 9,261cm3",
+                "D. 92,61cm3"
+            ]
+        },
+        {
+            "id": 3209,
+            "question": "Công việc của Trevor là thu thập trứng tươi từ 4 con gà của gia đình vào mỗi buổi sáng. Anh ta nhận được 4 quả trứng từ Gertrude và 3 quả trứng từ Blanche. Nancy đẻ 2 quả trứng và Martha cũng vậy. Trên đường đi, anh ta đánh rơi 2 quả trứng. Trevor còn lại bao nhiêu quả trứng?",
+            "choices": [
+                "A. 1155",
+                "B. 1320",
+                "C. 9",
+                "D. 1661"
+            ]
+        },
+        {
+            "id": 1298,
+            "question": " Một đoạn dây dài 5 feet 4 inch được chia thành 4 phần bằng nhau. Mỗi phần dài bao nhiêu inch nếu 1 feet bằng 12 inch?",
+            "choices": [
+                "A. 19",
+                "B. 16",
+                "C. 1296",
+                "D. 644"
+            ]
+        },
+        {
+            "id": 1867,
+            "question": "Jerry cần lợp 3 mái nhà. Mỗi mái nhà được làm bằng hai cạnh hình chữ nhật nghiêng có kích thước 20 feet x 40 feet. Nếu anh ta cần 8 tấm ván lợp để lợp một mét vuông mái nhà thì anh ta cần tổng cộng bao nhiêu tấm ván lợp?",
+            "choices": [
+                "A. 468",
+                "B. 1451",
+                "C. 38400",
+                "D. 1325"
+            ]
+        },
+        {
+            "id": 1695,
+            "question": " Charles đang tự hỏi mình có thể làm được bao nhiêu sữa sô cô la với tất cả những nguyên liệu tìm được trong tủ lạnh. Anh ấy sẽ tiếp tục uống ly 8 ounce cho đến khi dùng hết nguyên liệu. Mỗi ly phải chứa 6,5 ounce sữa và 1,5 ounce xi-rô sô cô la. Nếu anh ta có 130 ounce sữa và 60 ounce xi-rô sô cô la thì tổng cộng anh ta sẽ uống bao nhiêu ounce sữa sô cô la?",
+            "choices": [
+                "A. 1676",
+                "B. 160",
+                "C. 1965",
+                "D. 136"
+            ]
+        },
+        {
+            "id": 3424,
+            "question": " Sean có 4 đô la, nhiều hơn một nửa số tiền của Fritz. Rick có số tiền gấp 3 lần Sean. Nếu Fritz có 40 đô la thì Rick và Sean có bao nhiêu tiền?",
+            "choices": [
+                "A. 725",
+                "B. 96",
+                "C. 1441",
+                "D. 1650"
+            ]
+        },
+        {
+            "id": 2746,
+            "question": " Maddie đến một cửa hàng làm đẹp và mua một số sản phẩm làm đẹp. Cô mua 3 bảng màu trang điểm khác nhau có giá 15 USD mỗi bảng, 4 thỏi son có giá 2,50 USD và 3 hộp màu tóc có giá 4 USD mỗi hộp. Tổng cộng Maddie đã trả bao nhiêu?",
+            "choices": [
+                "A. 67",
+                "B. 530",
+                "C. 720",
+                "D. 0"
+            ]
+        },
+        {
+            "id": 755,
+            "question": " Alex đang tiết kiệm tiền để mua một chiếc ô tô mới. Anh ấy đã có sẵn 14.500 USD tiền tiết kiệm và chiếc xe có giá 14.600 USD. Anh ta quyết định rằng để kiếm được số tiền cuối cùng, anh ta sẽ giao hàng tạp hóa cho những người trong khu phố. Anh ta tính phí 1,5 đô la cho mỗi chuyến đi và sau đó là 5% giá hàng tạp hóa. Nếu anh ta thực hiện 40 chuyến đi và đã dành dụm đủ thì số hàng tạp hóa anh ta đã giao được là bao nhiêu đô la?",
+            "choices": [
+                "A. 1339",
+                "B. 915",
+                "C. 800",
+                "D. 347"
+            ]
+        },
+        {
+            "id": 3447,
+            "question": " Jerry nợ một kẻ cho vay nặng lãi 200 USD. Người cho vay nặng lãi tính lãi gộp cho Jerry 10% hàng tháng. (Điều này có nghĩa là mỗi tháng người cho vay nặng lãi sẽ cộng số tiền lãi của Jerry vào khoản vay của mình và tháng tiếp theo Jerry phải trả 10% trên tổng số tiền mới). Nếu Jerry không thực hiện bất kỳ khoản thanh toán nào, người cho vay nặng lãi sẽ tính lãi bao nhiêu (bằng đô la) trong tháng thứ hai?",
+            "choices": [
+                "A. 91",
+                "B. 22",
+                "C. 1562",
+                "D. 1778"
+            ]
+        },
+        {
+            "id": 2351,
+            "question": " Daleyza đã giành được một dự án xây dựng nhà liên quan đến việc xây dựng ba ngôi nhà với nhiều căn hộ. Tòa nhà đầu tiên được thiết kế để có 4000 căn hộ, tòa nhà thứ hai có số lượng căn hộ gấp 2/5 lần tòa nhà đầu tiên và tòa nhà thứ ba có số lượng căn hộ nhiều hơn 20% so với tòa nhà thứ hai. Daleyza đã ký hợp đồng xây dựng bao nhiêu căn hộ?",
+            "choices": [
+                "A. 7520",
+                "B. 866",
+                "C. 1956",
+                "D. 1058"
+            ]
+        },
+        {
+            "id": 416,
+            "question": " Một nước từng có thuế suất 20%. Họ đã nâng nó lên 30%. Trong cùng khung thời gian đó, John đã đi từ mức kiếm được 1.000.000 một năm lên 1.500.000 một năm. Bây giờ anh ta phải đóng thuế nhiều hơn bao nhiêu so với lúc đó?",
+            "choices": [
+                "A. 1363",
+                "B. 250000",
+                "C. 1791",
+                "D. 978"
+            ]
+        },
+        {
+            "id": 172,
+            "question": "Chữ số 7 trong số 945,007 có giá trị là:",
+            "choices": [
+                "A. 7",
+                "B. $\\frac{7}{10}$",
+                "C. $\\frac{7}{100}$",
+                "D. $\\frac{7}{1000}$"
+            ]
+        },
+        {
+            "id": 564,
+            "question": "Tổng chi phí mua hàng tạp hóa của Olivia là 42 đô la. Quả chuối có giá 12 đô la, chiếc bánh mì có giá 9 đô la và sữa có giá 7 đô la. Món hàng tạp hóa duy nhất khác mà cô mua là táo. Bằng đô la, những quả táo đã làm cô ấy tốn bao nhiêu tiền?",
+            "choices": [
+                "A. 1247",
+                "B. 1709",
+                "C. 1183",
+                "D. 14"
+            ]
+        },
+        {
+            "id": 1863,
+            "question": " Vịnh Hooper có số lượng tôm hùm nhiều gấp đôi so với hai bến cảng khác cộng lại. Nếu hai bến cảng còn lại mỗi bến có 80 pound tôm hùm thì ba bến cảng đó chứa bao nhiêu pound tôm hùm?",
+            "choices": [
+                "A. 495",
+                "B. 1749",
+                "C. 480",
+                "D. 37"
+            ]
+        },
+        {
+            "id": 2440,
+            "question": " Tenisha có 40 con chó mà cô nuôi ở nhà như thú cưng. Nếu 60% là con cái và 3/4 con cái sinh được 10 con chó con, hãy tính tổng số chó con mà Tenisha còn lại sau khi tặng 130 con chó con cho nhà thờ.",
+            "choices": [
+                "A. 50",
+                "B. 483",
+                "C. 1405",
+                "D. 1016"
+            ]
+        },
+        {
+            "id": 1576,
+            "question": "Barbara đã mua được một chiếc tủ ngăn kéo mới rất nhiều, nhưng cô ấy phải lấy rất nhiều giấy ra khỏi ngăn kéo để có thể sử dụng nó. Cô tìm thấy 3 bó giấy màu, 2 bó giấy trắng và 5 đống giấy vụn. Nếu một bó chứa 4 tờ giấy, một bó chứa 2 tờ giấy và một đống chứa 20 tờ giấy thì Barbara đã lấy được bao nhiêu tờ giấy ra khỏi tủ ngăn kéo?",
+            "choices": [
+                "A. 1650",
+                "B. 1962",
+                "C. 114",
+                "D. 858"
+            ]
+        },
+        {
+            "id": 3760,
+            "question": "Vincent có sợi dây dài 72 inch mà anh ấy muốn sử dụng cho một dự án, nhưng trước tiên anh ấy cần cắt nó thành những đoạn nhỏ hơn. Anh ta cắt nó thành 12 mảnh có chiều dài bằng nhau, nhưng sau đó anh ta nhận ra nó quá ngắn nên anh ta buộc ba mảnh lại với nhau. Sau đó, các nút thắt sẽ làm cho mỗi mảnh ngắn hơn 1 inch. Sau tất cả những chuyện này, đoạn dây của anh ấy dài bao nhiêu?",
+            "choices": [
+                "A. 6",
+                "B. 932",
+                "C. 15",
+                "D. 280"
+            ]
+        },
+        {
+            "id": 190,
+            "question": " Có 192 xà phòng trong một gói. Họ đặt chúng vào 2 hộp lớn. Nếu mỗi hộp chứa 6 gói thì 2 hộp chứa tổng cộng bao nhiêu xà phòng?",
+            "choices": [
+                "A. 2304",
+                "B. 1276",
+                "C. 629",
+                "D. 1800"
+            ]
+        },
+        {
+            "id": 12,
+            "question": " Charlie có thể thực hiện 5350 bước khi chạy trên sân chạy dài 3 km. Nếu anh ta có thể chạy quanh sân 2 lần rưỡi trong một buổi chạy thì anh ta có thể thực hiện được bao nhiêu bước?",
+            "choices": [
+                "A. 13375",
+                "B. 1229",
+                "C. 1743",
+                "D. 92"
+            ]
+        },
+        {
+            "id": 2918,
+            "question": " Trong tháng 4, người thợ làm bánh đã bán được 453 chiếc bánh với giá 12 USD và 126 chiếc bánh với giá 7 USD. Người làm bánh kiếm được bao nhiêu?",
+            "choices": [
+                "A. 849",
+                "B. 218",
+                "C. 1195",
+                "D. 6318"
+            ]
+        },
+        {
+            "id": 326,
+            "question": "Khi Dan đang học cách in lụa áo phông để bán tại hội chợ thủ công, anh ấy đã làm ra những chiếc áo phông trong giờ đầu tiên với tốc độ 12 phút một chiếc. Sau đó, trong giờ thứ hai, anh ta làm được một chiếc với tốc độ cứ 6 phút một lần. Anh ấy đã làm được bao nhiêu chiếc áo phông trong hai giờ đó?",
+            "choices": [
+                "A. 15",
+                "B. 783",
+                "C. 1056",
+                "D. 385"
+            ]
+        },
+        {
+            "id": 1826,
+            "question": " Jake mua những gói xúc xích nặng 2 pound. Anh ta mua 3 cái và giá 4$ một pound. Anh ta trả bao nhiêu?",
+            "choices": [
+                "A. 24",
+                "B. 1867",
+                "C. 1518",
+                "D. 1817"
+            ]
+        },
+        {
+            "id": 553,
+            "question": " Carmen đang đếm số xe đi ngang qua cửa sổ nhà cô ấy. Tất cả các xe đều có màu trắng, đen hoặc đỏ. Cô ấy nhìn thấy 50 xe tải và 40 ô tô. Một nửa số xe tải có màu đỏ và 20% còn lại có màu đen. Nếu cô ấy chọn ngẫu nhiên một chiếc ô tô thì có bao nhiêu phần trăm khả năng đó là một chiếc xe tải màu trắng, được làm tròn đến số nguyên gần nhất?",
+            "choices": [
+                "A. 17",
+                "B. 1589",
+                "C. 1280",
+                "D. 1056"
+            ]
+        },
+        {
+            "id": 1824,
+            "question": " Một xe đầu kéo có tải trọng 50000 pound. 10% trọng lượng sẽ được dỡ ở cửa hàng đầu tiên và 20% trọng lượng còn lại sẽ được dỡ ở cửa hàng thứ hai. Hỏi xe tải còn lại bao nhiêu kg, tính bằng pound, sau hai lần giao hàng?",
+            "choices": [
+                "A. 545",
+                "B. 713",
+                "C. 36000",
+                "D. 632"
+            ]
+        },
+        {
+            "id": 1172,
+            "question": " Joel đã thu thập một thùng đồ chơi cũ để quyên góp. Bằng cách hỏi bạn bè, anh ấy đã có thể thu thập được 18 con thú nhồi bông, 42 nhân vật hành động, 2 trò chơi board game và 13 câu đố. Em gái cậu đưa cho cậu một số đồ chơi cũ từ tủ của cô ấy, và sau đó Joel đã bổ sung số đồ chơi từ tủ của cậu ấy gấp đôi số đồ chơi mà em gái cậu đã làm từ tủ của cô ấy. Tổng cộng, Joel đã quyên góp được 108 món đồ chơi. Có bao nhiêu đồ chơi được tặng là của Joel?",
+            "choices": [
+                "A. 22",
+                "B. 1652",
+                "C. 1966",
+                "D. 421"
+            ]
+        },
+        {
+            "id": 465,
+            "question": " Ở Hawaii, lượng mưa trung bình mỗi ngày là 2 inch. Với 100 ngày còn lại trong năm, họ đã nhận được lượng mưa 430 inch. Họ cần trung bình bao nhiêu inch để kết thúc năm với mức trung bình bình thường?",
+            "choices": [
+                "A. 1942",
+                "B. 3",
+                "C. 1137",
+                "D. 942"
+            ]
+        },
+        {
+            "id": 3053,
+            "question": " Wilfred ăn 4 củ cà rốt vào thứ Ba và 6 củ cà rốt vào thứ Tư. Nếu Wilfred muốn ăn tổng cộng 15 củ cà rốt từ thứ Ba đến thứ Năm thì Wilfred cần ăn bao nhiêu củ cà rốt vào thứ Năm?",
+            "choices": [
+                "A. 570",
+                "B. 5",
+                "C. 565",
+                "D. 774"
+            ]
+        },
+        {
+            "id": 668,
+            "question": " Simon có nhiều Lego hơn 20% so với Bruce, người có nhiều hơn Kent 20. Nếu Kent có 40 chiếc Lego thì Simon có bao nhiêu chiếc?",
+            "choices": [
+                "A. 970",
+                "B. 1903",
+                "C. 1257",
+                "D. 72"
+            ]
+        },
+        {
+            "id": 3250,
+            "question": "Tỉ số phần trăm của 48 và 75 là:",
+            "choices": [
+                "A. 0,64%",
+                "B. 6,4%",
+                "C. 64%",
+                "D. 60%"
+            ]
+        },
+        {
+            "id": 2784,
+            "question": " Jean có 3 đứa cháu. Bà mua cho mỗi đứa cháu 2 tấm thẻ mỗi năm và đặt 80 USD vào mỗi tấm thẻ. Một năm bà cho cháu bao nhiêu?",
+            "choices": [
+                "A. 480",
+                "B. 1170",
+                "C. 119",
+                "D. 1805"
+            ]
+        },
+        {
+            "id": 1789,
+            "question": " Jack đặt mua 3 chiếc bánh sandwich có giá 5 đô la mỗi chiếc. Anh ta trả bằng tờ 20 USD. Anh ta nhận được bao nhiêu tiền lẻ?",
+            "choices": [
+                "A. 1071",
+                "B. 697",
+                "C. 5",
+                "D. 1909"
+            ]
+        },
+        {
+            "id": 1585,
+            "question": " Tòa nhà A có 4 tầng, ít hơn Tòa nhà B 9 tầng. Tòa nhà C có số tầng ít hơn sáu lần so với năm lần so với Tòa nhà B. Tòa nhà C có bao nhiêu tầng?",
+            "choices": [
+                "A. 68",
+                "B. 424",
+                "C. 784",
+                "D. 59"
+            ]
+        },
+        {
+            "id": 2965,
+            "question": " Amy đang xây 2 luống vườn dài 3 ft x rộng 3 ft và 2 luống vườn dài 4 ft x rộng 3 ft. Tổng diện tích không gian trồng trọt mà cô ấy sẽ có là bao nhiêu?",
+            "choices": [
+                "A. 42",
+                "B. 1019",
+                "C. 423",
+                "D. 141"
+            ]
+        },
+        {
+            "id": 1089,
+            "question": " Jordan hái 54 quả xoài trên cây của mình. Một phần ba số xoài đã chín trong khi hai phần ba còn lại vẫn chưa chín. Jordan giữ lại 16 quả xoài chưa chín và đưa phần còn lại cho chị gái ngâm trong lọ thủy tinh. Nếu cần 4 quả xoài để đổ đầy một lọ thì chị gái Jordan có thể làm được bao nhiêu lọ xoài ngâm?",
+            "choices": [
+                "A. 313",
+                "B. 750",
+                "C. 1891",
+                "D. 5"
+            ]
+        },
+        {
+            "id": 471,
+            "question": "Có 516 chiếc ô tô trong một bãi đậu xe. Một phần ba là màu xanh, một nửa là màu đỏ và phần còn lại là màu đen. Có bao nhiêu chiếc ô tô màu đen trên lô hàng?",
+            "choices": [
+                "A. 1591",
+                "B. 86",
+                "C. 1872",
+                "D. 121"
+            ]
+        },
+        {
+            "id": 1943,
+            "question": " John đang cố gắng tiết kiệm tiền bằng cách mua thực phẩm giàu calo giá rẻ. Anh ta có thể mua 10 chiếc bánh burritos với giá 6 đô la, mỗi chiếc có 120 calo. Anh ta cũng có thể mua 5 chiếc bánh mì kẹp thịt, mỗi chiếc có 400 calo với giá 8 đô la. Anh ta nhận được thêm bao nhiêu calo mỗi đô la từ bánh mì kẹp thịt?",
+            "choices": [
+                "A. 50",
+                "B. 1243",
+                "C. 298",
+                "D. 1348"
+            ]
+        },
+        {
+            "id": 241,
+            "question": "1m 3 dm = …. cm. Số thích hợp để điền vào chỗ chấm là:",
+            "choices": [
+                "A. 13",
+                "B. 103",
+                "C. 130",
+                "D. 31"
+            ]
+        },
+        {
+            "id": 176,
+            "question": " Harry cần mua 5 cuốn sách thần chú, mỗi cuốn có giá 5 vàng, ba bộ thuốc độc, mỗi cuốn có giá 20 bạc và một con cú có giá 28 vàng. Có 9 bạc trên một vàng. Harry sẽ trả tổng cộng bao nhiêu tiền bằng bạc?",
+            "choices": [
+                "A. 1282",
+                "B. 487",
+                "C. 537",
+                "D. 850"
+            ]
+        },
+        {
+            "id": 821,
+            "question": " Một cửa hàng đưa ra mẫu sản phẩm vào thứ bảy hàng tuần. Thứ Bảy tuần trước, sản phẩm mẫu có hộp 20 chiếc. Nếu họ phải mở 12 hộp và cuối ngày họ còn lại 5 mẫu, thì có bao nhiêu khách hàng dùng thử một mẫu nếu số lượng mẫu được giới hạn cho mỗi người một mẫu ?",
+            "choices": [
+                "A. 1265",
+                "B. 1062",
+                "C. 235",
+                "D. 596"
+            ]
+        },
+        {
+            "id": 2574,
+            "question": " Jennifer đang chế tạo bể chứa cá vàng của mình. Cô ấy đã làm 3 bể chứa mỗi bể chứa 15 con cá, đun nóng và đổ đầy chúng. Cô dự định xây dựng phần còn lại của bể được trang bị máy sưởi và mỗi bể sẽ chứa 10 con cá. Nếu cô ấy cần xây đủ bể để nuôi tổng cộng 75 con cá thì cô ấy cần xây thêm bao nhiêu bể nữa?",
+            "choices": [
+                "A. 3",
+                "B. 1173",
+                "C. 779",
+                "D. 831"
+            ]
+        },
+        {
+            "id": 1272,
+            "question": " Maria muốn vẽ một bức tranh và cần một số công cụ để làm điều đó. Cô ấy muốn mua một bộ cọ với giá 20 đô la và một ít vải canvas với giá gấp ba lần bộ cọ. Sơn có giá Maria 8 USD một lít và cô ấy cần ít nhất 5 lít. Cô ấy sẽ kiếm được bao nhiêu tiền từ bức tranh nếu cô ấy có thể bán nó với giá 200 đô la?",
+            "choices": [
+                "A. 80",
+                "B. 1872",
+                "C. 1694",
+                "D. 1149"
+            ]
+        },
+        {
+            "id": 2763,
+            "question": " Hai chiếc tất trắng có giá cao hơn một chiếc tất nâu 25 xu. Nếu hai chiếc tất trắng có giá 45 xu thì bạn sẽ trả bao nhiêu cho 15 chiếc tất màu nâu?",
+            "choices": [
+                "A. 3",
+                "B. 1112",
+                "C. 1295",
+                "D. 285"
+            ]
+        },
+        {
+            "id": 1521,
+            "question": " Rich thích đi bộ đường dài trong thị trấn. Đầu tiên anh ta đi bộ 20 feet từ nhà ra vỉa hè. Sau đó anh ta đi bộ 200 feet xuống vỉa hè cho đến cuối con đường. Sau đó, anh ấy rẽ trái và đi bộ gấp đôi tổng quãng đường cho đến khi đến ngã tư tiếp theo. Sau đó, anh ta lại đi bộ nửa quãng đường từ điểm này đến cuối lộ trình của mình, trước khi quay lại và đi theo con đường tương tự cho đến hết chặng đường về nhà. Rich đã đi được bao nhiêu feet?",
+            "choices": [
+                "A. 1980",
+                "B. 802",
+                "C. 1513",
+                "D. 152"
+            ]
+        },
+        {
+            "id": 1745,
+            "question": "John đang làm việc như một chuyên gia CNTT. Anh ấy sửa chữa những chiếc máy tính bị hỏng. Một ngày anh phải sửa 20 chiếc máy tính. 20% trong số đó không thể sửa được và 40% trong số đó phải đợi vài ngày để có phụ tùng thay thế. Phần còn lại John có thể sửa ngay lập tức. John có thể sửa được bao nhiêu máy tính ngay lập tức?",
+            "choices": [
+                "A. 8",
+                "B. 268",
+                "C. 1558",
+                "D. 139"
+            ]
+        },
+        {
+            "id": 1369,
+            "question": " Có 8000 hạt thạch trong một thùng nhất định và 10 người xếp hàng để lấy một ít. Sáu người đầu tiên mỗi người lấy số hạt thạch gấp đôi so với bốn người cuối cùng lấy. Nếu bốn người cuối cùng mỗi người lấy 400 viên thạch thì trong hộp còn lại bao nhiêu viên thạch?",
+            "choices": [
+                "A. 1600",
+                "B. 1995",
+                "C. 249",
+                "D. 165"
+            ]
+        },
+        {
+            "id": 3784,
+            "question": " Mary, Edna và Lucy là những vận động viên tập luyện vào thứ Bảy hàng tuần. Mary đã chạy 3/8 quãng đường dài 24 km vào một ngày thứ Bảy. Edna chạy được 2/3 quãng đường của Edna, còn Lucy chạy được 5/6 quãng đường của Edna. Lucy phải chạy thêm bao nhiêu km nữa để đi được quãng đường tương tự như Mary?",
+            "choices": [
+                "A. 126",
+                "B. 488",
+                "C. 4",
+                "D. 411"
+            ]
+        },
+        {
+            "id": 2292,
+            "question": " Porter kiếm được 8 USD mỗi ngày và làm việc 5 lần một tuần. Người quản lý của anh ấy đang yêu cầu anh ấy làm việc thêm một ngày với hứa hẹn sẽ trả thêm 50% so với mức lương hàng ngày của anh ấy. Anh ta sẽ kiếm được bao nhiêu tiền sau một tháng nếu anh ta làm thêm giờ mỗi tuần?",
+            "choices": [
+                "A. 208",
+                "B. 1093",
+                "C. 1505",
+                "D. 1006"
+            ]
+        },
+        {
+            "id": 1969,
+            "question": " Một sợi len dài 10 mét được cắt thành 5 phần bằng nhau. Nếu dùng 3 phần để móc thì dùng móc trong bao lâu?",
+            "choices": [
+                "A. 6",
+                "B. 1515",
+                "C. 109",
+                "D. 2000"
+            ]
+        },
+        {
+            "id": 901,
+            "question": "Keaton đã leo lên chiếc thang cao 30 feet hai mươi lần khi làm việc tại công trường. Reece, cũng làm việc tại địa điểm tương tự, đã leo lên một chiếc thang ngắn hơn thang của Keaton 4 feet 15 lần. Tổng chiều dài của chiếc thang mà cả hai công nhân đã leo lên là bao nhiêu inch?",
+            "choices": [
+                "A. 872",
+                "B. 11880",
+                "C. 1093",
+                "D. 1765"
+            ]
+        },
+        {
+            "id": 230,
+            "question": "Luther thiết kế quần áo cho một công ty thời trang cao cấp. Dòng quần áo mới nhất của anh sử dụng cả vải lụa và vải cashmere. Có mười mảnh được làm bằng lụa và một nửa số đó được làm bằng cashmere. Nếu dòng sản phẩm mới nhất của anh ấy có 13 sản phẩm thì có bao nhiêu sản phẩm sử dụng sự kết hợp giữa cashmere và lụa?",
+            "choices": [
+                "A. 1875",
+                "B. 928",
+                "C. 2",
+                "D. 1650"
+            ]
+        },
+        {
+            "id": 3246,
+            "question": " Tonya đã mở một quầy bán nước chanh bán nước chanh đựng trong cốc nhỏ, vừa và lớn với giá lần lượt là 1 USD, 2 USD và 3 USD. Khi kết thúc công việc kinh doanh, cô ấy đã kiếm được 50 đô la. Khi xem lại hàng tồn kho của mình, cô nhận thấy rằng cô đã bán được số nước chanh nhỏ trị giá 11 đô la và nước chanh cỡ vừa trị giá 24 đô la. Tonya đã bán được bao nhiêu cốc nước chanh lớn?",
+            "choices": [
+                "A. 1231",
+                "B. 602",
+                "C. 5",
+                "D. 630"
+            ]
+        },
+        {
+            "id": 2061,
+            "question": "Gretchen là một thợ lặn. Cô thích săn lùng kho báu dưới đáy đại dương, nhưng khi tìm thấy thứ gì đó để giữ, cô phải mang nó trở lại mặt nước để đưa cho người bạn cùng tàu trên thuyền. Cô ấy chỉ có thể mang theo 3 đồ vật cùng một lúc khi bơi dưới nước. Nếu cô ấy tìm thấy 17 vật thể dưới nước, thì số lần cô ấy phải đi lên mặt nước ít nhất để mang tất cả 17 vật thể đó lên thuyền là bao nhiêu?",
+            "choices": [
+                "A. 4",
+                "B. 6",
+                "C. 837",
+                "D. 550"
+            ]
+        },
+        {
+            "id": 3525,
+            "question": " Billy muốn xem thứ gì đó thú vị trên YouTube nhưng không biết nên xem gì. Anh ấy yêu cầu trang web tạo ra 15 gợi ý nhưng sau khi xem từng gợi ý một, anh ấy không thích bất kỳ gợi ý nào trong số đó. Billy rất kén chọn nên anh ấy làm việc này tổng cộng 5 lần trước khi cuối cùng anh ấy tìm được một video mà anh ấy cho là đáng xem. Sau đó anh ấy chọn chương trình thứ 5 được gợi ý trong danh sách gợi ý cuối cùng. Billy xem bao nhiêu video?",
+            "choices": [
+                "A. 65",
+                "B. 1146",
+                "C. 1517",
+                "D. 1153"
+            ]
+        },
+        {
+            "id": 356,
+            "question": " Mỗi buổi sáng, Carla bỏ 79 quả táo vào ba lô để ăn trưa. Thật không may, Buffy đã lấy trộm một số quả táo của Carla trên xe buýt của trường và 26 quả táo đã rơi ra khỏi lỗ ở phía dưới. Vì vậy vào giờ ăn trưa, Carla chỉ còn lại 8 quả táo. Buffy đã ăn trộm bao nhiêu quả táo của Carla?",
+            "choices": [
+                "A. 1104",
+                "B. 896",
+                "C. 1399",
+                "D. 45"
+            ]
+        },
+        {
+            "id": 3229,
+            "question": " Charlotte cần biết mình phải mang theo bao nhiêu tiền khi đến cửa hàng giày. Charlotte nên mang theo bao nhiêu tiền để mua một đôi bốt, nếu giá ban đầu là 90$ và được giảm giá 20%?",
+            "choices": [
+                "A. 1111",
+                "B. 365",
+                "C. 72",
+                "D. 73"
+            ]
+        },
+        {
+            "id": 2345,
+            "question": " John quyết định quay lại trường học để lấy bằng Tiến sĩ. Đầu tiên, anh phải tham gia khóa học 1 năm để làm quen với cuộc sống học đường trước khi bắt đầu học tiến sĩ. Sau đó, anh dành 2 năm để học những kiến thức cơ bản về lĩnh vực của mình. Sau đó, anh ấy bắt đầu nghiên cứu và dành nhiều thời gian cho việc nghiên cứu hơn 75% so với thời gian học những điều cơ bản. Sau đó, anh ấy dành một nửa thời gian để viết luận văn như một khoảng thời gian để làm quen với môi trường. Anh ấy mất bao lâu để làm mọi việc?",
+            "choices": [
+                "A. 310",
+                "B. 7",
+                "C. 1632",
+                "D. 1352"
+            ]
+        },
+        {
+            "id": 1226,
+            "question": " Legoland có 5 con kangaroo cho mỗi con koala. Nếu Legoland có 180 con kangaroo thì tổng cộng có bao nhiêu con gấu túi và kangaroo?",
+            "choices": [
+                "A. 263",
+                "B. 541",
+                "C. 1172",
+                "D. 216"
+            ]
+        },
+        {
+            "id": 2717,
+            "question": " Elsa và chị gái của cô ấy xem một buổi biểu diễn opera hàng năm tại Central City Opera. Năm ngoái, giá vé xem opera là 85 USD một vé. Năm nay, nó có giá 102 USD. Hỏi giá mỗi vé tăng bao nhiêu phần trăm?",
+            "choices": [
+                "A. 1592",
+                "B. 900",
+                "C. 652",
+                "D. 20"
+            ]
+        },
+        {
+            "id": 1381,
+            "question": "James bị thương ở mắt cá chân và quyết định từ từ bắt đầu thực hiện lại các mục tiêu chạy trước đó và sau đó vượt qua chúng. Trước khi bị chấn thương, anh ấy có thể chạy 100 dặm mỗi tuần. Anh ấy muốn đi được nhiều hơn 20% so với tổng số đó trong 280 ngày và mỗi tuần anh ấy sẽ tăng số dặm đi bộ trong tuần lên cùng một lượng. Anh ta cần thêm bao nhiêu dặm mỗi tuần?",
+            "choices": [
+                "A. 3",
+                "B. 1430",
+                "C. 1368",
+                "D. 932"
+            ]
+        },
+        {
+            "id": 420,
+            "question": " Mùa bóng chày đã mở màn với trận đấu với Chicago Cubs trên sân nhà Wrigley Field. Họ ghi được 2 lần về nhà trong hiệp thứ ba, 1 lần về nhà trong hiệp thứ năm và thêm 2 lần về nhà trong hiệp thứ tám. Đối thủ của họ, Cardinals, đã ghi được 1 bàn thắng trên sân nhà trong hiệp thứ hai và 1 bàn thắng trên sân nhà ở hiệp thứ năm. Chicago Cubs đã ghi được bao nhiêu điểm về nhà hơn Cardinals trong trò chơi?",
+            "choices": [
+                "A. 3",
+                "B. 1951",
+                "C. 86",
+                "D. 150"
+            ]
+        },
+        {
+            "id": 3785,
+            "question": " Mary có 89 miếng dán. Cô ấy đã sử dụng 3 miếng dán lớn trên trang đầu của cuốn nhật ký của mình và 7 miếng dán trên mỗi trang 6 trang khác trong cuốn nhật ký của mình. Mary còn lại bao nhiêu nhãn dán?",
+            "choices": [
+                "A. 44",
+                "B. 362",
+                "C. 1572",
+                "D. 1702"
+            ]
+        },
+        {
+            "id": 3841,
+            "question": " Hazel đi được 2 km trong giờ đầu tiên. Nếu cô ấy đi được quãng đường gấp đôi trong giờ thứ hai thì cô ấy đã đi được bao xa trong 2 giờ?",
+            "choices": [
+                "A. 535",
+                "B. 6",
+                "C. 1268",
+                "D. 497"
+            ]
+        },
+        {
+            "id": 69,
+            "question": "Meena nướng 5 tá bánh quy cho buổi bán bánh của trường. Cô bán 2 tá bánh quy cho giáo viên sinh học của mình, ông Stone. Bạn của cô ấy là Brock mua 7 cái bánh quy và bạn của cô ấy là Katy mua gấp đôi Brock. Meena còn lại bao nhiêu cái bánh quy?",
+            "choices": [
+                "A. 1621",
+                "B. 15",
+                "C. 549",
+                "D. 639"
+            ]
+        },
+        {
+            "id": 1517,
+            "question": "James quyết định làm một bồn tắm đầy thạch. Đối với mỗi pound nước, bạn cần 1,5 thìa hỗn hợp thạch. Bồn tắm có thể chứa được 6 feet khối nước. Mỗi foot khối nước là 7,5 gallon. Một gallon nước nặng 8 pound. Một thìa hỗn hợp thạch có giá 0,5 USD. Anh ấy đã chi bao nhiêu để đổ đầy bồn tắm của mình?",
+            "choices": [
+                "A. 1433",
+                "B. 124",
+                "C. 270",
+                "D. 570"
+            ]
+        }
+    ]
+}
